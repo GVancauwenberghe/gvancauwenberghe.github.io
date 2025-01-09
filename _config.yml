@@ -3,8 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Glenn Vancauwenberghe
-description: I'm a researcher and consultant in the domains of SDI and open data. 
-[Link to another page](./another-page.html).
-[Projects](./projects).
-
-[Publications](./publications).
+description: I'm a researcher and consultant in the domains of SDI and open data

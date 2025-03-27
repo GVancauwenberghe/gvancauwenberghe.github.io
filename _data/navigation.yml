@@ -12,9 +12,6 @@ main:
   - title: "Projects"
     url: /talks/
 
-  -  title: "Map"
-    url: /talks/ 
-
   - title: "Publications"
     url: /publications/    
 

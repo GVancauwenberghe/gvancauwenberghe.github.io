@@ -20,7 +20,7 @@ var addressPoints = [
     -122.4193286
   ],
   [
-    "SEED4NA - SDI & EO Training & Education, Egypt",
+    "SEED4NA - SDI & EO Training & Education for North Africa, Egypt",
     29.308374,
     30.844105
   ]

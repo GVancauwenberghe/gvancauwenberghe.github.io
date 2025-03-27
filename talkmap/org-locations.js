@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
+    "Talk 12 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     48.864716,
     2.349014
   ],

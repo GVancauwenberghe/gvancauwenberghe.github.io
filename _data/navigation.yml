@@ -12,7 +12,7 @@ main:
   - title: "Projects"
     url: /talks/
 
-    title: "Map"
+  -  title: "Map"
     url: /publications/ 
 
   - title: "Publications"

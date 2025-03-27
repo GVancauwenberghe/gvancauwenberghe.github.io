@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Glenn"
 author_profile: true
 redirect_from: 
   - /about/

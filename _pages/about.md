@@ -9,9 +9,13 @@ redirect_from:
 
 I'm a senior consultant, researcher and research manager in the domains of **geospatial data, data infrastructures and digital transformation**. My main field of expertise is related to the governance and and policy aspects of geospatial data and data infrastructures.
 
+Research & education
+------
 I obtained an MSc degree in Sociology and a MSc degree in the Management of Public Organizations. In June 2013 I obtained a **PhD-degree on the topic of ‘Coordination in the context of Spatial Data Infrastructures’**. In my PhD research I explored how different coordination instruments and mechanisms can be used to coordinate the exchange of, the access to and to use of spatial data. In 2016, I was awarded a Marie Skłodowska-Curie Research Fellowship for my research project on **the governance of open geospatial data and data infrastructures**. I have strong experience in the use of both quantitative and qualitative research methods and tools, including survey research, in-depth interviewing, case study research and statistical data analysis. 
 
-Since 2007, I have been involved in many **national and international projects in the domains of space, earth observation and geospatial data**, in which I mainly focused on data policies, the governance of (spatial) data infrastructures, the assessment of data policies and infrastructures, business & funding models and the integration of geospatial data in digital government.  I provided support to the development and implementation of (geospatial) data infrastructures in **many countries in the world**, such as Belgium, Mozambique, Peru, Algeria, Morocco, Moldova, Romania, the Netherlands, Spain and Italy. In many of these countries, I contributed to the design and implementation of new business and fundings models and effective data sharing arrangements. 
+Experience
+------
+Since 2007, I have been involved in many **national and international projects in the domains of space, earth observation and geospatial data**, in which I mainly focused on data policies, the governance of (spatial) data infrastructures, the assessment of data policies and infrastructures, business & funding models and the integration of geospatial data in digital government.  I provided **support to the development and implementation of (geospatial) data infrastructures** in many countries in the world, such as Belgium, Mozambique, Peru, Algeria, Morocco, Moldova, Romania, the Netherlands, Spain and Italy. In many of these countries, I contributed to the design and implementation of new business and fundings models and effective data sharing arrangements. 
 
 
 A data-driven personal

@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "Expertise"
 permalink: /expertise/
 author_profile: true
-redirect_from:
-  - /expertise
 ---
 
 {% include base_path %}
+
 
 Education
 ======

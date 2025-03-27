@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GH template for academic personal websites"
+title: "Everything in its right place"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- **Dr. Glenn Vancauwenberghe** is senior consultant, researcher and research manager in the geospatial domain. His main field of research is related to the governance and and policy aspects of Spatial Data Infrastructures (SDI). Glenn obtained an MSc degree in Sociology and a MSc degree in the Management of Public Organizations. In June 2013 he obtained a PhD-degree on the topic of ‘Coordination in the context of Spatial Data Infrastructures’. In his PhD research and related projects he explored how different coordination instruments and mechanisms can be used to coordinate the exchange of, the access to and to use of spatial data. In 2016, Glenn was awarded a Marie Skłodowska-Curie Research Fellowship for his research project on the governance of open geospatial data and data infrastructures.
-Glenn has experience in the use of both quantitative and qualitative research methods and tools, including survey research, in-depth interviewing, case study research and statistical data analysis. 
+ **Dr. Glenn Vancauwenberghe** is senior consultant, researcher and research manager in the domains of geospatial data, data infrastructures and digital transformation. His main field of expertise is related to the governance and and policy aspects of geospatial data and data infrastructures.
 
-Glenn is one of the leading researchers in Europe on the policy and institutional aspects of geospatial data and Spatial Data Infrastructures. Since 2007, Glenn has been involved as principal investigator in several national and international projects in the domains of space, earth observation and geospatial data, in which he mainly focused on data policies, the governance of spatial data infrastructures, SDI business & funding models and the integration of spatial data in digital government. He provided support to the development and implementation of (geospatial) data infrastructures in many countries in the world, such as Belgium, Mozambique, Peru, Algeria, Morocco, Moldova, Romania, the Netherlands, Spain and Italy. In many of these countries, he contributed to the design and implementation of new business and fundings models and effective data sharing arrangements. 
+Glenn is one of the leading researchers in Europe on the policy and institutional aspects of geospatial data and Spatial Data Infrastructures. Glenn obtained an MSc degree in Sociology and a MSc degree in the Management of Public Organizations. In June 2013 he obtained a PhD-degree on the topic of ‘Coordination in the context of Spatial Data Infrastructures’. In his PhD research and related projects he explored how different coordination instruments and mechanisms can be used to coordinate the exchange of, the access to and to use of spatial data. In 2016, Glenn was awarded a Marie Skłodowska-Curie Research Fellowship for his research project on the governance of open geospatial data and data infrastructures. Glenn has strong experience in the use of both quantitative and qualitative research methods and tools, including survey research, in-depth interviewing, case study research and statistical data analysis. 
+
+Since 2007, Glenn has been involved as principal investigator in many national and international projects in the domains of space, earth observation and geospatial data, in which he mainly focused on data policies, the governance of (spatial) data infrastructures, the assessment of data policies and infrastructures, business & funding models and the integration of geospatial data in digital government.  He provided support to the development and implementation of (geospatial) data infrastructures in many countries in the world, such as Belgium, Mozambique, Peru, Algeria, Morocco, Moldova, Romania, the Netherlands, Spain and Italy. In many of these countries, he contributed to the design and implementation of new business and fundings models and effective data sharing arrangements. 
 
 
 A data-driven personal

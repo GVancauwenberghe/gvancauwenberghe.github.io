@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "GNG.png"
-  name             : "Glenn Vancauwenberghe"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Researcher and consultant in the domains of geospatial data, data infrastructures and digital transformation"
   location         : "Willebroek, Belgium"

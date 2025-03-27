@@ -16,19 +16,16 @@ main:
     url: https://gvancauwenberghe.github.io/talkmap
 
   - title: "Publications"
-    url: /publications/    
+    url: https://gvancauwenberghe.github.io/publications 
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://gvancauwenberghe.github.io/teaching
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://gvancauwenberghe.github.io/portfolio
         
-  - title: "Blog"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv-json/
+    url: https://gvancauwenberghe.github.io/cv-json/
     
 
   

@@ -1,7 +1,64 @@
-Research & education
-------
-I obtained an MSc degree in Sociology and a MSc degree in the Management of Public Organizations. In 2013 I obtained a **PhD-degree on the topic of ‘Coordination in the context of Spatial Data Infrastructures’**. In my PhD research I explored how different coordination instruments and mechanisms can be used to coordinate the exchange of, the access to and to use of spatial data. In 2016, I was awarded a Marie Skłodowska-Curie Research Fellowship for my research project on **the governance of open geospatial data and data infrastructures**. I have strong experience in the use of both quantitative and qualitative research methods and tools, including survey research, in-depth interviewing, case study research and statistical data analysis. 
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-Experience
-------
-Since 2007, I have been involved in many **national and international projects in the domains of space, earth observation and geospatial data**, in which I mainly focused on data policies, the governance of (spatial) data infrastructures, the assessment of data policies and infrastructures, business & funding models and the integration of geospatial data in digital government.  I provided **support to the development and implementation of (geospatial) data infrastructures** in many countries in the world, such as Belgium, Mozambique, Peru, Algeria, Morocco, Moldova, Romania, the Netherlands, Spain and Italy. In many of these countries, I contributed to the design and implementation of new business and fundings models and effective data sharing arrangements. 
+{% include base_path %}
+
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams

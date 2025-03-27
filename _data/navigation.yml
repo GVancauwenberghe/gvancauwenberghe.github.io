@@ -9,18 +9,21 @@
 
 main:
     
+  - title: "Teaching"
+    url: https://gvancauwenberghe.github.io/teaching
+    
   - title: "Projects"
     url: /talks/
 
   - title: "Map"
     url: https://gvancauwenberghe.github.io/talkmap
 
+  - title: "Teaching"
+    url: https://gvancauwenberghe.github.io/teaching
+
   - title: "Publications"
     url: https://gvancauwenberghe.github.io/publications 
 
-  - title: "Teaching"
-    url: https://gvancauwenberghe.github.io/teaching
-    
   - title: "Portfolio"
     url: https://gvancauwenberghe.github.io/portfolio
         

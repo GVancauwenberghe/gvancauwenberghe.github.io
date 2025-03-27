@@ -111,32 +111,32 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
+      "name": "Evolution of the access to spatial data for environmental purposes",
+      "publisher": "JRC Technical Report",
+      "releaseDate": "2022",
       "website": "http://academicpages.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
+      "name": "Geospatial Information Infrastructures",
+      "publisher": "Manual of Digital Earth",
+      "releaseDate": "2020",
+      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
+    },
+    {
+      "name": "Assessing the Openness of Spatial Data Infrastructures (SDI): Towards a Map of Open SDI",
+      "publisher": "International Journal of Spatial Data Infrastructures Research",
       "releaseDate": "2010-10-01",
       "website": "http://academicpages.github.io/files/paper2.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
+      "name": "Open Data Exposed",
+      "publisher": "Springer",
+      "releaseDate": "2018",
       "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "summary": "The main objectives of this book are to expose key aspects that have a relevance when dealing with open data viewed from different perspectives and to provide appealing examples of how open data is implemented worldwide."
     },
     {
       "name": "Coordination in the context of Spatial Data Infrastructures",

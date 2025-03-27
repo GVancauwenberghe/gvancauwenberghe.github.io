@@ -125,6 +125,13 @@
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
+      "name": "Paper Title Number 2",
+      "publisher": "Journal 1",
+      "releaseDate": "2010-10-01",
+      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
+    },
+    {
       "name": "Paper Title Number 3",
       "publisher": "Journal 1",
       "releaseDate": "2015-10-01",
@@ -133,10 +140,10 @@
     },
     {
       "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
+      "publisher": "PhD Thesis",
+      "releaseDate": "2013",
       "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "summary": "In my Phd In my PhD research I explored how different coordination instruments and mechanisms can be used to coordinate the exchange of, the access to and to use of spatial data."
     }
   ],
   "presentations": [

@@ -38,7 +38,43 @@
     "endDate": "...",
     "summary": "Description…",
     "highlights": []
-    }
+    },
+     {
+    "name": "GEONOTGEO",
+    "position": "Research Manager",
+    "url": "https://company.com",
+    "startDate": "2018",
+    "endDate": "2024",
+    "summary": "Description…",
+    "highlights": []
+    },
+     {
+    "name": "GEONOTGEO",
+    "position": "Post-doctoral Researcher",
+    "url": "https://company.com",
+    "startDate": "2016",
+    "endDate": "2018",
+    "summary": "Description…",
+    "highlights": []
+    },
+     {
+    "name": "GEONOTGEO",
+    "position": "Senior Researcher",
+    "url": "https://company.com",
+    "startDate": "2012",
+    "endDate": "2016",
+    "summary": "Description…",
+    "highlights": []
+    },
+     {
+    "name": "GEONOTGEO",
+    "position": "Junior Researcher",
+    "url": "https://company.com",
+    "startDate": "2007",
+    "endDate": "2011",
+    "summary": "Description…",
+    "highlights": []
+    },
   ],
   "education": [
     {

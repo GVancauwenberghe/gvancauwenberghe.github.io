@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior consultant, researcher and research manager in the domains of geospatial data, data infrastructures and digital transformation. My main field of expertise is related to the governance and and policy aspects of geospatial data and data infrastructures.
+I'm a senior consultant, researcher and research manager in the domains of **geospatial data, data infrastructures and digital transformation**. My main field of expertise is related to the governance and and policy aspects of geospatial data and data infrastructures.
 
 I obtained an MSc degree in Sociology and a MSc degree in the Management of Public Organizations. In June 2013 I obtained a **PhD-degree on the topic of ‘Coordination in the context of Spatial Data Infrastructures’**. In my PhD research I explored how different coordination instruments and mechanisms can be used to coordinate the exchange of, the access to and to use of spatial data. In 2016, I was awarded a Marie Skłodowska-Curie Research Fellowship for my research project on **the governance of open geospatial data and data infrastructures**. I have strong experience in the use of both quantitative and qualitative research methods and tools, including survey research, in-depth interviewing, case study research and statistical data analysis. 
 

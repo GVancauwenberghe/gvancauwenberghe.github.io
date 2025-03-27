@@ -115,14 +115,14 @@
       "publisher": "JRC Technical Report",
       "releaseDate": "2022",
       "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "summary": "This study investigates how different user communities in Europe are accessing and using spatial data, the problems they are facing and how they see the impact of various policy initiatives on improving the accessibility and usability of data."
     },
     {
       "name": "Geospatial Information Infrastructures",
       "publisher": "Manual of Digital Earth",
       "releaseDate": "2020",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "website": "https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5",
+      "summary": "Geospatial information infrastructures (GIIs) provide the technological, semantic, organizational and legal structure that allow for the discovery, sharing, and use of geospatial information (GI). In this chapter, we introduce the overall concept and surrounding notions such as geographic information systems (GIS) and spatial data infrastructures (SDI)."
     },
     {
       "name": "Assessing the Openness of Spatial Data Infrastructures (SDI): Towards a Map of Open SDI",

@@ -9,11 +9,11 @@
 
 main:
     
-  - title: "Teaching"
+  - title: "Expertise"
     url: https://gvancauwenberghe.github.io/teaching
     
   - title: "Projects"
-    url: /talks/
+    url: /https://gvancauwenberghe.github.io/talks
 
   - title: "Map"
     url: https://gvancauwenberghe.github.io/talkmap

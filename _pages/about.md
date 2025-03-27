@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GH template for academic personal websites"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/

@@ -1,13 +1,12 @@
 ---
- permalink: /
- title: "Academic Pages is a ready-to-fork GH template for academic personal websites"
- title: "Bio"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
- ---
- 
+permalink: /
+title: "Academic Pages is a ready-to-fork GH template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
  **Dr. Glenn Vancauwenberghe** is senior consultant, researcher and research manager in the geospatial domain. His main field of research is related to the governance and and policy aspects of Spatial Data Infrastructures (SDI). Glenn obtained an MSc degree in Sociology and a MSc degree in the Management of Public Organizations. In June 2013 he obtained a PhD-degree on the topic of ‘Coordination in the context of Spatial Data Infrastructures’. In his PhD research and related projects he explored how different coordination instruments and mechanisms can be used to coordinate the exchange of, the access to and to use of spatial data. In 2016, Glenn was awarded a Marie Skłodowska-Curie Research Fellowship for his research project on the governance of open geospatial data and data infrastructures.
 Glenn has experience in the use of both quantitative and qualitative research methods and tools, including survey research, in-depth interviewing, case study research and statistical data analysis. 
 

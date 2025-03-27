@@ -37,44 +37,7 @@
     "startDate": "2013-01-01",
     "endDate": "2014-01-01",
     "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ][
-    {
-      "institution": "KU Leuven (Belgium)",
-      "area": "Owner and Senior Expert",
-      "studyType": "",
-      "startDate": "2007",
-      "endDate": "2013",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "Ghent University (Belgium)",
-      "area": "MSc. in Management of Public Administration",
-      "studyType": "",
-      "startDate": "2006",
-      "endDate": "2007",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "KU Leuven (Belgium)",
-      "area": "MSc. in Social Sciences",
-      "studyType": "",
-      "startDate": "2002",
-      "endDate": "2006",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    "highlights": []
     }
   ],
   "education": [

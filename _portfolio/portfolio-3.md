@@ -1,6 +1,6 @@
 ---
 title: "Open data assessment frameworks"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/network.png'>"
+excerpt: "Short of portfolio item number 1<br/><img src='/images/assessment.png'>"
 collection: portfolio
 ---
 

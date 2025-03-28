@@ -1,6 +1,6 @@
 ---
 title: "Network analysis of the SDI of Flanders"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short of portfolio item number 1<br/><img src='/images/network.png'>"
 collection: portfolio
 ---
 

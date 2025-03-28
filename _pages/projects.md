@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category.
+A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category (_see links below_].
 
 ## International development (7) 
 **2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-

@@ -33,7 +33,7 @@ Senior Researcher:**   Project management, engagement of local stakeholders, cap
 
 More information about these [**international development projects**](https://gvancauwenberghe.github.io/projects).
 
-## Consultancy (9)
+## Consultancy (10)
 
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
@@ -104,7 +104,7 @@ More information about these [**education and training projects**](https://gvanc
 **<ins>2023 - 2024</ins>   RESIST -   Regions for climate change resilience through Innovation _(European Commission –   Horizon Europe)_ -**
 **Scientific Expert:** Design of the scientific dissemination strategy
 
-**<ins>2022 - 2024</ins>    USAGE – Urban Data Space for Green Deal _(European Commission –  Horizon Europe)_-
+**<ins>2022 - 2025</ins>    USAGE – Urban Data Space for Green Deal _(European Commission –  Horizon Europe)_-
 Senior Researcher:**   Contributing to the analysis of policy co-design practices and the development of co-design guidelines
 
 **<ins>2020 - 2021</ins>   ELISE 2020 - Leveraging the power of location information and technologies to improve public services at local level: an EU-wide analysis _(European Commission –  Joint Research Center)_ -**
@@ -118,9 +118,6 @@ Research Manager & Researcher:**   Research design, case study research, in-dept
 
 **<ins>2015 - 2016</ins>   CENTRIC – Centre of Excellence in Territorial management and Cadastre _(European Commission –   Horizon 2020 Teaming)_ -**
 **Senior GI Expert:** Elaboration of business model and future research agenda, design of curricula and mobility scheme
-
-**<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
-Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
 
 **<ins>2012 - 2014</ins>   SmeSpire -  A European Community of SMEs built on Environmental Digital Content and Languages _(European Commission –   FP7 Support Action)_ -**
 **Researcher:** Design and implementation of a study on the European Geo-ICT sector, training activities on SDI/INSPIRE and e-government

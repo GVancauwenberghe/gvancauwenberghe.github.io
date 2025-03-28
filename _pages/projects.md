@@ -50,8 +50,8 @@ More information about these [**international development projects**](https://gv
 **<ins>2019 - 2019</ins>   Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation _(European Commission –   DG GROW)_ -**
 **Senior Expert:** Data collection via desk research and interviews, identification and classification of Copernicus R&D needs, stakeholder engagement via workshops
 
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+**<ins>2014 - 2016</ins> Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements _(Belgian Federal Government – National Geographic Institute (NGI))_ -**
+**Governance and Data Policy Expert:** SDI assessment, interviews with key stakeholders, development of ICT-strategy, development of federal geodata policy
 
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law

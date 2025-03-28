@@ -101,8 +101,8 @@ More information about these [**education and training projects**](https://gvanc
 **<ins>2022 - 2024</ins>    USAGE – Urban Data Space for Green Deal _(European Commission –  Horizon Europe)_-
 Senior Researcher:**   Contributing to the analysis of policy co-design practices and the development of co-design guidelines
 
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2020 - 2021</ins>   ELISE 2020 - Leveraging the power of location information and technologies to improve public services at local level: an EU-wide analysis _(European Commission –  Joint Research Center)_ -**
+**Public Administration Expert:** Research design, analysis of location-enabled public services at local and regional level, policy recommendations
 
 **<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
 Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors

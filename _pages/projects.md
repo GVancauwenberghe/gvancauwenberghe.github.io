@@ -33,16 +33,16 @@ Senior Researcher:**   Project management, engagement of local stakeholders, cap
 
 More information about these [**international development projects**](https://gvancauwenberghe.github.io/projects).
 ## Consultancy (10)
-**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**2024 - 2025 <ins>2DIS4SME -  Data Interoperability Skills for SMEs</ins> _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
+**2024 - 2025 <ins>2Consultancy for the Development of NSDI Policy Documents in Georgia</ins> _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
-**2023 - 2024 Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**2023 - 2024 <ins>2Impact Assessment for the new EU Space Law</ins> _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
+**2024 - 2025 <ins>2Consultancy for the Development of NSDI Policy Documents in Georgia</ins> _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
 More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).

@@ -32,37 +32,81 @@ Public Administration Expert:**   Analysis of geospatial production processes th
 Senior Researcher:**   Project management, engagement of local stakeholders, capacity building on SDI and open data, design and implementation of research project on open spatial data in Peru
 
 More information about these [**international development projects**](https://gvancauwenberghe.github.io/projects).
-## Consultancy (10)
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
+## Consultancy (9)
 
-**2023 - 2024 Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
 **<ins>2013 - 2013</ins>   SDI Benchmarking and Good Practices in INSPIRE Implementation _(Public Service of Wallonia, Geomatics Department, Belgium)_ -
 SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infrastructures in Europe
 
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
 More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).
 
-## Education & Training
+## Education & Training (10)
+**<ins>2024 - 2025</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
+Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
+
 **<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
-
-**<ins>2024 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
-Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
 
 **<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
+**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
 More information about these [**education and training projects**](https://gvancauwenberghe.github.io/projects).
 
-## Research & Innovation
+## Research & Innovation (8)
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
+Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
+
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
+Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
+
 **<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 

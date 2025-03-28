@@ -42,8 +42,8 @@ SDI Policy Expert:**   Development of the licensing model and business model of 
 **2023 - 2024 Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
-**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
+**<ins>2013 - 2013</ins>   SDI Benchmarking and Good Practices in INSPIRE Implementation _(Public Service of Wallonia, Geomatics Department, Belgium)_ -
+SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infrastructures in Europe
 
 More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).
 
@@ -69,11 +69,11 @@ More information about these [**education and training projects**](https://gvanc
 **<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
 Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
 
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2012 - 2014</ins>   SmeSpire -  A European Community of SMEs built on Environmental Digital Content and Languages _(European Commission –   FP7 Support Action)_ -**
+**Researcher:** Design and implementation of a study on the European Geo-ICT sector, training activities on SDI/INSPIRE and e-government
 
-**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
+**<ins>2007 - 2011</ins>   SPATIALIST - SDI for Public Sector Innovation _(Flemish Government - IWT)_ -
+Junior Researcher:**   Analysis of coordination instruments and mechanisms, research design, data collection via surveys and in-depth interviews
 
 More information about these [**research and innovation projects**](https://gvancauwenberghe.github.io/projects).
 

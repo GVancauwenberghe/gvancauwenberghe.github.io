@@ -86,8 +86,8 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **<ins>2018 - 2022</ins>   EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake _(European Commission –   Erasmus+ Sector Skills Alliance)_ -**
 **Senior Researcher:** Preparation of EO/GI sector skills strategy, analysis of skills need and mismatch, review of SDI/EO research, development of Body of Knowledge, design of governance model
 
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2015 - 2016</ins>   giCASES -  Creating a University-Enterprise Alliance for a Spatially Enabled Society _(European Commission –   Erasmus+)_ -**
+**Researcher:** Analysis of needs and experiences related to academia-industry cooperation in GI education and training
 
 **<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
@@ -113,8 +113,8 @@ Senior Researcher:**   Contributing to the analysis of policy co-design practice
 **<ins>2018 - 2019</ins>    Effective Governance of Open Spatial Data _(European Commission, MSCA Postdoctoral Fellowships)_-
 Research Manager & Researcher:**   Research design, case study research, in-depth interviews, data valorisation
 
-**<ins>2016 - 2018</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2015 - 2016</ins>   CENTRIC – Centre of Excellence in Territorial management and Cadastre _(European Commission –   Horizon 2020 Teaming)_ -**
+**Senior GI Expert:** Elaboration of business model and future research agenda, design of curricula and mobility scheme
 
 **<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
 Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors

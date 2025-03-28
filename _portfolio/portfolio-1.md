@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Network analysis of the SDI of Flanders"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

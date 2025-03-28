@@ -59,6 +59,9 @@ More information about these [**international development projects**](https://gv
 **<ins>2014 - 2015</ins> INSPIRE Strategy Romania _(Romanian Government –  National Agency for Cadastre and Land Registration (ANCPI))_ -**
 **Senior INSPIRE Expert:** Stakeholder consultation and workshops, strategy development, best practices identification
 
+**<ins>2013 - 2016</ins>  Support for the establishment of a European Union Location Framework (EULF) _(European Commission –  Joint Research Center)_ -**
+**Senior Consultant:** Data collection, analysis and assessment, vision development, elaboration of Blueprint and Roadmap
+
 **<ins>2013 - 2013</ins>   SDI Benchmarking and Good Practices in INSPIRE Implementation _(Public Service of Wallonia, Geomatics Department, Belgium)_ -
 SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infrastructures in Europe
 

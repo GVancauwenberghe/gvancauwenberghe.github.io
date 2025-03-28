@@ -9,7 +9,7 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-## International development 
+## International development (5) 
 **2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
@@ -20,13 +20,13 @@ SDI Policy Expert:**   Development of the licensing model and business model of 
 Senior Expert:**   Research and policy advice on SDI business and funding models
 
 **2020 - 2024 SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa _(European Commission – Erasmus+ Capacity Building for Higher Education)_ -
-Project Coordinator and Senior Expert:**   Project management, skills needs assessments, design and implementation of education and training, work with stakeholders
+Project Coordinator and Senior Expert:**   Project management, skills needs assessments, design and implementation of education and training, evaluation & quality assurance
 
 **2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
 
-## Consultancy 
+## Consultancy (10)
 **2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 

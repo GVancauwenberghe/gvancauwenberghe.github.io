@@ -9,7 +9,7 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-## International development (5) 
+## International development (7) 
 **2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
@@ -22,8 +22,14 @@ Senior Expert:**   Research and policy advice on SDI business and funding models
 **2020 - 2024 SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa _(European Commission – Erasmus+ Capacity Building for Higher Education)_ -
 Project Coordinator and Senior Expert:**   Project management, skills needs assessments, design and implementation of education and training, evaluation & quality assurance
 
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
+**2019 - 2020 Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects _(European Commission - DG DEVCO)_ -
+Senior Expert:**   Feasibility studies, data collection via desk research and interviews
+
+**2019 - 2020 Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique _(World Bank and Government of Mozambique –  Ministry of Transport and Communications)_ -
+Public Administration Expert:**   Analysis of geospatial production processes through case studies and in-depth interviews, process redesign, SDI governance, SDI assessment
+
+**2019 - 2020 Towards an Open Spatial Data Infrastructure in Peru _(KU Leuven - Multi-stakeholder Grant)_ -
+Senior Researcher:**   Project management, engagement of local stakeholders, capacity building on SDI and open data, design and implementation of research project on open spatial data in Peru
 
 
 ## Consultancy (10)

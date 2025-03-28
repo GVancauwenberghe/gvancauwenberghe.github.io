@@ -80,10 +80,10 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **<ins>2020 - 2022</ins>   SPIDER - Open Spatial Data Infrastructure Education Network _(German Academic Exchange Service)_ -**
 **Senior Researcher & Teacher:** Design, development and implementation of active teaching about SDI
 
-**<ins>2029 - 2021</ins>   ELISE Knowledge Transfer II : Location Interoperability for Digital Transformation  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
-**Senior Expert:** Development of vocabulary of geo-ICT skills, revision of EULF Blueprint, execution of rapid studies on various topics
+**<ins>2019 - 2021</ins>   ELISE Knowledge Transfer II : Digital Transformation and the future of SDI  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
+**Senior Expert:** Study on the use of spatial data for environmental purposes
 
-**<ins>2029 - 2021</ins>   ELISE Knowledge Transfer: Location Interoperability for Digital Transformation  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
+**<ins>2019 - 2020</ins>   ELISE Knowledge Transfer: Location Interoperability for Digital Transformation  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
 **Senior Expert:** Development of vocabulary of geo-ICT skills, revision of EULF Blueprint, execution of rapid studies on various topics
 
 **<ins>2018 - 2022</ins>   EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake _(European Commission –   Erasmus+ Sector Skills Alliance)_ -**

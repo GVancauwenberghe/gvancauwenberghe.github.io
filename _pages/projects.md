@@ -13,10 +13,10 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 **<ins>2024 - 2025</ins> Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
-**2022 - 2024 Supporting Services to the National Spatial Data Infrastructure of Moldova _(World Bank and National Mapping and Cadastre Agency of Moldova (ALRC))_ -**
+**<ins>2022 - 2024</ins>Supporting Services to the National Spatial Data Infrastructure of Moldova _(World Bank and National Mapping and Cadastre Agency of Moldova (ALRC))_ -**
 **Senior Expert:** Monitoring and evaluation of the NSDI and identification of SDI use cases
 
-**2021 - 2022 International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center _(World Bank)_ -
+**<ins>2021 - 2022</ins> International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center _(World Bank)_ -
 Senior Expert:**   Research and policy advice on SDI business and funding models
 
 **2020 - 2024 SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa _(European Commission – Erasmus+ Capacity Building for Higher Education)_ -

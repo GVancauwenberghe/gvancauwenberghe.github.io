@@ -107,10 +107,13 @@ Senior Researcher:**   Contributing to the analysis of policy co-design practice
 **<ins>2020 - 2021</ins>   ELISE 2020 - Leveraging the power of location information and technologies to improve public services at local level: an EU-wide analysis _(European Commission –  Joint Research Center)_ -**
 **Public Administration Expert:** Research design, analysis of location-enabled public services at local and regional level, policy recommendations
 
-**<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
-Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
+**<ins>2018 - 2019</ins> The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration _(European Commission –  DG DIGT Joint Research Center)_ -**
+**Senior Expert:** Study design, data collection via desk research and interviews, data analysis and reporting of study results
 
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**<ins>2018 - 2019</ins>    Effective Governance of Open Spatial Data _(European Commission, MSCA Postdoctoral Fellowships)_-
+Research Manager & Researcher:**   Research design, case study research, in-depth interviews, data valorisation
+
+**<ins>2016 - 2018</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
 **<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-

@@ -10,7 +10,7 @@ author_profile: true
 A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category (_see links below_].
 
 ## International development (7) 
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
+**<ins>2024 - 2025</ins> Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
 **2022 - 2024 Supporting Services to the National Spatial Data Infrastructure of Moldova _(World Bank and National Mapping and Cadastre Agency of Moldova (ALRC))_ -**

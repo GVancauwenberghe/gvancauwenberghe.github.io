@@ -13,22 +13,22 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 **<ins>2024 - 2025</ins> Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
-**<ins>2022 - 2024</ins>Supporting Services to the National Spatial Data Infrastructure of Moldova _(World Bank and National Mapping and Cadastre Agency of Moldova (ALRC))_ -**
+**<ins>2022 - 2024</ins> Supporting Services to the National Spatial Data Infrastructure of Moldova _(World Bank and National Mapping and Cadastre Agency of Moldova (ALRC))_ -**
 **Senior Expert:** Monitoring and evaluation of the NSDI and identification of SDI use cases
 
 **<ins>2021 - 2022</ins> International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center _(World Bank)_ -
 Senior Expert:**   Research and policy advice on SDI business and funding models
 
-**2020 - 2024 SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa _(European Commission – Erasmus+ Capacity Building for Higher Education)_ -
+**<ins>2020 - 2024</ins>  SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa _(European Commission – Erasmus+ Capacity Building for Higher Education)_ -
 Project Coordinator and Senior Expert:**   Project management, skills needs assessments, design and implementation of education and training, evaluation & quality assurance
 
-**2019 - 2020 Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects _(European Commission - DG DEVCO)_ -
+**<ins>2019 - 2020</ins>  Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects _(European Commission - DG DEVCO)_ -
 Senior Expert:**   Feasibility studies, data collection via desk research and interviews
 
-**2019 - 2020 Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique _(World Bank and Government of Mozambique –  Ministry of Transport and Communications)_ -
+**<ins>2019 - 2020</ins> Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique _(World Bank and Government of Mozambique –  Ministry of Transport and Communications)_ -
 Public Administration Expert:**   Analysis of geospatial production processes through case studies and in-depth interviews, process redesign, SDI governance, SDI assessment
 
-**2019 - 2020 Towards an Open Spatial Data Infrastructure in Peru _(KU Leuven - Multi-stakeholder Grant)_ -
+**<ins>2019 - 2020</ins> Towards an Open Spatial Data Infrastructure in Peru _(KU Leuven - Multi-stakeholder Grant)_ -
 Senior Researcher:**   Project management, engagement of local stakeholders, capacity building on SDI and open data, design and implementation of research project on open spatial data in Peru
 
 More information about these [**international development projects**](https://gvancauwenberghe.github.io/projects).

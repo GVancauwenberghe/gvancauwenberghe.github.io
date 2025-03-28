@@ -1,6 +1,6 @@
 ---
 title: "Key topics in SDI research"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/research.png'>"
+excerpt: "Short of portfolio item number 1<br/><img src='/images/sdiresearch.png'>"
 collection: portfolio
 ---
 

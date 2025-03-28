@@ -32,7 +32,7 @@ Public Administration Expert:**   Analysis of geospatial production processes th
 Senior Researcher:**   Project management, engagement of local stakeholders, capacity building on SDI and open data, design and implementation of research project on open spatial data in Peru
 
 More information about [these international development projects](https://gvancauwenberghe.github.io/projects).
-## Consultancy (10)
+## [Consultancy] (https://gvancauwenberghe.github.io/projects) (10)
 **2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 

@@ -53,11 +53,11 @@ More information about these [**international development projects**](https://gv
 **<ins>2014 - 2016</ins> Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements _(Belgian Federal Government – National Geographic Institute (NGI))_ -**
 **Governance and Data Policy Expert:** SDI assessment, interviews with key stakeholders, development of ICT-strategy, development of federal geodata policy
 
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+**<ins>2014 - 2015</ins> Active dissemination of environmental information in relation to the Birds and Habitats Directive _(European Commission –   DG ENV)_ -**
+**Senior INSPIRE Expert:** Desk research, analysis of data, services and metadata, development of recommendations
 
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+**<ins>2014 - 2015</ins> INSPIRE Strategy Romania _(Romanian Government –  National Agency for Cadastre and Land Registration (ANCPI))_ -**
+**Senior INSPIRE Expert:** Stakeholder consultation and workshops, strategy development, best practices identification
 
 **<ins>2013 - 2013</ins>   SDI Benchmarking and Good Practices in INSPIRE Implementation _(Public Service of Wallonia, Geomatics Department, Belgium)_ -
 SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infrastructures in Europe

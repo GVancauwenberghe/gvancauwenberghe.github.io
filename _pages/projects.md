@@ -38,8 +38,8 @@ More information about these [**international development projects**](https://gv
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+**<ins>2022 - 2024</ins> Support to Space Traffic Management Standardisation _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Data collection and analysis, design and evaluation of policy options, design of implementation roadmap
 
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
@@ -65,7 +65,7 @@ More information about these [**consultancy projects**](https://gvancauwenberghe
 **<ins>2024 - 2025</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
 Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
 
-**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**<ins>2023 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
 **<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
@@ -95,8 +95,8 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 More information about these [**education and training projects**](https://gvancauwenberghe.github.io/projects).
 
 ## Research & Innovation (8)
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2023 - 2024</ins>   RESIST -   Regions for climate change resilience through Innovation _(European Commission –   Horizon Europe)_ -**
+**Scientific Expert Researcher:** Design of the scientific dissemination strategy
 
 **<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
 Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors

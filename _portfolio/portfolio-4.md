@@ -1,5 +1,5 @@
 ---
-title: "Governance of open data initiatives (2018)"
+title: "Governance of open data initiatives"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/governance.png'>"
 collection: portfolio
 ---

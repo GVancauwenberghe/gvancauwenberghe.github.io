@@ -1,5 +1,5 @@
 ---
-title: "Map of Open SDI in Europe (2018)"
+title: "Map of Open SDI in Europe"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/opensdi.jpg'>"
 collection: portfolio
 ---

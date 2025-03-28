@@ -1,5 +1,5 @@
 ---
-title: "Network analysis of the SDI of Flanders"
+title: "SEED4NA Curriculum on SDI & EO"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/seed4na.png'>"
 collection: portfolio
 ---

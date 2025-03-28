@@ -31,8 +31,8 @@ Public Administration Expert:**   Analysis of geospatial production processes th
 **2019 - 2020 Towards an Open Spatial Data Infrastructure in Peru _(KU Leuven - Multi-stakeholder Grant)_ -
 Senior Researcher:**   Project management, engagement of local stakeholders, capacity building on SDI and open data, design and implementation of research project on open spatial data in Peru
 
-
-## Consultancy (10)
+More information about [these international development projects](https://gvancauwenberghe.github.io/projects).
+# Consultancy (10)
 **2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
@@ -45,21 +45,7 @@ SDI Policy Expert:**   Development of the licensing model and business model of 
 **2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
-
-
-## Research & Innovation
-**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
-
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
-
-**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
-
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
-
+More information about [these consultancy projects](https://gvancauwenberghe.github.io/projects).
 
 ## Education & Training
 **2024 - 2024 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
@@ -74,7 +60,22 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
+More information about [these education and training projects](https://gvancauwenberghe.github.io/projects).
 
+## Research & Innovation
+**2024 - 2024 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**2024 - 2024  SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
+Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
+
+**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
+SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
+
+More information about [these research and innovation projects](https://gvancauwenberghe.github.io/projects).
 
 
 

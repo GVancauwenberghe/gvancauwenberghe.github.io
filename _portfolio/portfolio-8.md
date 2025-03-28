@@ -1,6 +1,6 @@
 ---
 title: "Analysis of training resources on location data interoperability (2023)"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/dis4SME.png'>"
+excerpt: "Short of portfolio item number 1<br/><img src='/images/dis4sme.png'>"
 collection: portfolio
 ---
 

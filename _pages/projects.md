@@ -10,13 +10,13 @@ author_profile: true
 A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category (_see links below_].
 
 ## International development (7) 
-**<ins>2024 - 2025:</ins> Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
+**<ins>2024 - 2025</ins> Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
-**<ins>2022 - 2024:</ins> Supporting Services to the National Spatial Data Infrastructure of Moldova _(World Bank and National Mapping and Cadastre Agency of Moldova (ALRC))_ -**
+**<ins>2022 - 2024</ins> Supporting Services to the National Spatial Data Infrastructure of Moldova _(World Bank and National Mapping and Cadastre Agency of Moldova (ALRC))_ -**
 **Senior Expert:** Monitoring and evaluation of the NSDI and identification of SDI use cases
 
-**<ins>2021 - 2022:</ins> International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center _(World Bank)_ -
+**<ins>2021 - 2022</ins> International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center _(World Bank)_ -
 Senior Expert:**   Research and policy advice on SDI business and funding models
 
 **<ins>2020 - 2024</ins>  SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa _(European Commission – Erasmus+ Capacity Building for Higher Education)_ -
@@ -33,46 +33,46 @@ Senior Researcher:**   Project management, engagement of local stakeholders, cap
 
 More information about these [**international development projects**](https://gvancauwenberghe.github.io/projects).
 ## Consultancy (10)
-**2024 - 2025 <ins> DIS4SME -  Data Interoperability Skills for SMEs</ins> _(European Commission –   Digital Europe Programme)_ -**
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**2024 - 2025 <ins> Consultancy for the Development of NSDI Policy Documents in Georgia</ins> _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
+**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
-**2023 - 2024 <ins> Impact Assessment for the new EU Space Law</ins> _(European Commission –   DG DEFIS)_ -**
+**2023 - 2024 Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
-**2024 - 2025 <ins> Consultancy for the Development of NSDI Policy Documents in Georgia</ins> _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
+**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
 More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).
 
 ## Education & Training
-**2024 - 2024 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**2024 - 2024  SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
+**<ins>2024 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
 Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
 
-**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
+**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
 More information about these [**education and training projects**](https://gvancauwenberghe.github.io/projects).
 
 ## Research & Innovation
-**2024 - 2024 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**2024 - 2024  SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
+**<ins>2020 - 2024</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
 Senior Researcher:**   Provision of skills intelligence and design of skills strategy for the space downstream sectors
 
-**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
+**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
+**<ins>2020 - 2024</ins>   Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_ -
 SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
 
 More information about these [**research and innovation projects**](https://gvancauwenberghe.github.io/projects).

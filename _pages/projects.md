@@ -92,11 +92,11 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **<ins>2015 - 2016</ins>   giCASES -  Creating a University-Enterprise Alliance for a Spatially Enabled Society _(European Commission –   Erasmus+)_ -**
 **Researcher:** Analysis of needs and experiences related to academia-industry cooperation in GI education and training
 
-**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2013 - 2016</ins>   GI-N2K – Geographic Information Need to Know  _(European Commission –   LLP Erasmus)_ -**
+**Researcher:** Analysis of skills needs and skills gaps and development of GIS&T Body of Knowledge
 
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2013 - 2015</ins>   LINKVIT -  Leveraging Inspire Knowledge into Vocational Innovative Training _(European Commission –   European Commission, LLP  Leonardo da Vinci Transfer of Innovation)_ -**
+**Senior Expert:** Analysis, preparation and organisation of training material, tutor of sessions on INSPIRE Advanced and Basics of INSPIRE Data and service sharing
 
 More information about these [**education and training projects**](https://gvancauwenberghe.github.io/projects).
 
@@ -129,67 +129,4 @@ More information about these [**research and innovation projects**](https://gvan
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## International development 1
-
-**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_-**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
-
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
-
-
-
-## International development 2
-### 2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_
-**Senior researcher** –   Analysis of the offer of training on location data interoperability and design and implementation of new training activities
-
-### 2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_,
-**SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
-
-## International development 3
-
-**2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_,** 
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
-
-**2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_,
-SDI Policy Expert:**   Development of the licensing model and business model of the NSDI of Georgia
-
-## International development 4
-
-  * **2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs**
-      * **Client/funding**: European Commission – Digital Europe Programme
-      * **Role in the project**: Senior Researcher
-      * **Activities** : Development of the licensing model and business model of the NSDI of Georgia
-        
- * **2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs**
-      * **Client/funding**: European Commission – Digital Europe Programme
-      * **Role in the project**: Senior Researcher
-      * **Activities** : Development of the licensing model and business model of the NSDI of Georgia
-        
- * **2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs**
-      * **Client/funding**: European Commission – Digital Europe Programme
-      * **Role in the project**: Senior Researcher
-      * **Activities** : Development of the licensing model and business model of the NSDI of Georgia
 

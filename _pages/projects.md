@@ -50,14 +50,14 @@ More information about these [**international development projects**](https://gv
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
+**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+
 **<ins>2013 - 2013</ins>   SDI Benchmarking and Good Practices in INSPIRE Implementation _(Public Service of Wallonia, Geomatics Department, Belgium)_ -
 SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infrastructures in Europe
-
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
-
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
 More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).
 
@@ -74,11 +74,11 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **<ins>2020 - 2022</ins>   SPIDER - Open Spatial Data Infrastructure Education Network _(German Academic Exchange Service)_ -**
 **Senior Researcher & Teacher:** Design, development and implementation of active teaching about SDI
 
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2029 - 2021</ins>   ELISE Knowledge Transfer II : Location Interoperability for Digital Transformation  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
+**Senior Expert:** Development of vocabulary of geo-ICT skills, revision of EULF Blueprint, execution of rapid studies on various topics
 
-**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2019 - 2019</ins>   Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation _(European Commission –   DG GROW)_ -**
+**Senior Expert:** Data collection via desk research and interviews, identification and classification of Copernicus R&D needs, stakeholder engagement via workshops
 
 **<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities

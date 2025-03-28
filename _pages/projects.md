@@ -41,11 +41,11 @@ More information about these [**international development projects**](https://gv
 **<ins>2022 - 2024</ins> Support to Space Traffic Management Standardisation _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Data collection and analysis, design and evaluation of policy options, design of implementation roadmap
 
-**<ins>2020 - 2022</ins> Pilot Project on Space Traffic Management - The rise of importance of Space Traffic Management _(European Commission –   DG DEFIS)_ -**
+**<ins>2020 - 2022</ins> Pilot Project on Space Traffic Management - The rise of importance of Space Traffic Management _(National Center for Geographic Information, Spain)_ -**
 **Senior Expert:** Data collection and analysis, policy evaluation, drafting of policy recommendations in the domain of space traffic management  
 
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+**<ins>2020 - 2021</ins> The costs and benefits of geospatial web services of the national Spanish SDI-node _(European Commission –   DG DEFIS)_ -**
+**Policy Research Expert:** Analysis of SDI licensing and pricing models, data collection through interviews and desk research, engagement of SDI-stakeholders in different EU countries
 
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
@@ -71,8 +71,8 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **<ins>2021- 2025</ins>   ODECO – Towards a sustainable Open Data ECOsystem _(European Commission –   Horizon 2020)_ -**
 **Senior Researcher and Supervisor:** Contributing to the training programme and supervising research on the value of data ecosystems
 
-**<ins>2024 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior Researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2020 - 2022</ins>   SPIDER - Open Spatial Data Infrastructure Education Network _(German Academic Exchange Service)_ -**
+**Senior Researcher & Teacher:** Design, development and implementation of active teaching about SDI
 
 **<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities

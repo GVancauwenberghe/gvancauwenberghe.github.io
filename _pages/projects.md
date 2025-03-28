@@ -11,9 +11,20 @@ A list of all the posts and pages found on the site. For you robots out there, t
 
 **Education**
 
-### 2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia
-_World Bank and the National Agency of Public Registry (NAPR) of Georgia_
+#### 2024 - 2025 Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_: **SDI Policy Expert**–   Development of the licensing model and business model of the NSDI of Georgia
 
-**SDI Policy Expert** –   Development of the licensing model and business model of the NSDI of Georgia
+#### 2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_
+**Senior researcher** –   Analysis of the offer of training on location data interoperability and design and implementation of new training activities
 
-Georgia has been progressively working towards establishing a National Spatial Data Infrastructure (NSDI) to strengthen geospatial data management and increase the use of geospatial information for evidence-based decision-making.  In the recent NSDI law, the National Agency of Public Registry (NAPR) was designated as the Coordinator for the NSDI of Georgia. The main objective of the assignment is to support the National Agency of Public Registry in the preparation of three key policy documents related to the NSDI. The Terms and Conditions of Access, Use and Sharing of the Spatial Data Resources Published on the National Geoportal,  The National Profile of the Data Exchange and Joint Use Model and the NSDI Strategy.
+#### 2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_
+**Senior researcher** –   Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+#### 2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_
+**Senior researcher** –   Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+
+#### <ins>2024 - 2025<ins> Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_<ins>
+**SDI Policy Expert**–   Development of the licensing model and business model of the NSDI of Georgia
+
+## Unordered Lists (Nested)
+
+  * List item one 

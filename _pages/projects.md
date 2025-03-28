@@ -25,4 +25,7 @@ A list of all the posts and pages found on the site. For you robots out there, t
 
 ## Unordered Lists (Nested)
 
-  * List item one 
+  * **2024 - 2025 DIS4SME -  Data Interoperability Skills for SMEs**
+      * **Client/funding**: European Commission – Digital Europe Programme
+      * **Role in the project**: Senior Researcher
+      * **Activities** : Development of the licensing model and business model of the NSDI of Georgia

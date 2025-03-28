@@ -47,6 +47,9 @@ More information about these [**international development projects**](https://gv
 **<ins>2020 - 2021</ins> The costs and benefits of geospatial web services of the national Spanish SDI-node _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Analysis of SDI licensing and pricing models, data collection through interviews and desk research, engagement of SDI-stakeholders in different EU countries
 
+**<ins>2019 - 2019</ins>   Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation _(European Commission –   DG GROW)_ -**
+**Senior Expert:** Data collection via desk research and interviews, identification and classification of Copernicus R&D needs, stakeholder engagement via workshops
+
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
@@ -77,11 +80,11 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **<ins>2029 - 2021</ins>   ELISE Knowledge Transfer II : Location Interoperability for Digital Transformation  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
 **Senior Expert:** Development of vocabulary of geo-ICT skills, revision of EULF Blueprint, execution of rapid studies on various topics
 
-**<ins>2019 - 2019</ins>   Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation _(European Commission –   DG GROW)_ -**
-**Senior Expert:** Data collection via desk research and interviews, identification and classification of Copernicus R&D needs, stakeholder engagement via workshops
+**<ins>2029 - 2021</ins>   ELISE Knowledge Transfer: Location Interoperability for Digital Transformation  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
+**Senior Expert:** Development of vocabulary of geo-ICT skills, revision of EULF Blueprint, execution of rapid studies on various topics
 
-**<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
-**Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities
+**<ins>2018 - 2022</ins>   EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake _(European Commission –   Erasmus+ Sector Skills Alliance)_ -**
+**Senior Researcher:** Preparation of EO/GI sector skills strategy, analysis of skills need and mismatch, review of SDI/EO research, development of Body of Knowledge, design of governance model
 
 **<ins>2020 - 2024</ins>   DIS4SME -  Data Interoperability Skills for SMEs _(European Commission –   Digital Europe Programme)_ -**
 **Senior researcher:** Analysis of the offer of training on location data interoperability and design and implementation of new training activities

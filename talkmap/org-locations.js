@@ -55,7 +55,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Belgium (Leuven))",
+    "SPATIALIST - SDI for Public Sector Innovation (2007-2011), Belgium",
     -12.046374,
     -77.042793
   ],
@@ -80,7 +80,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center, Vietnam)",
+    "International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center (Vietnam)",
     -12.046374,
     -77.042793
   ],

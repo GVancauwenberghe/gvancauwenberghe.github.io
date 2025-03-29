@@ -61,8 +61,8 @@ var addressPoints = [
   ],
    [
     "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Belgium",
-    -12.046374,
-    -77.042793
+    50.8465573,
+    4.351697
   ],
    [
     "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Poland)",
@@ -76,28 +76,28 @@ var addressPoints = [
   ],
   [
     "INSPIRE Strategy Romania (2014-2015), Romania)",
-    -12.046374,
-    -77.042793
+    44.439663,
+    26.096306
   ],
   [
     "Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements (2014-2016), Belgium",
-    -12.046374,
-    -77.042793
+    50.8465573,
+    4.351697
   ],
   [
     "LINKVIT - Leveraging Inspire Knowledge into Vocational Innovative Training (2013-2015), Italy",
-    -12.046374,
-    -77.042793
+    41.902782,
+    12.496366
   ],
   [
     "International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center, Vietnam",
-    -12.046374,
-    -77.042793
+    10.027254,
+    105.769806
   ],
   [
     "USAGE – Urban Data Space for Green Deal (2022-2025), Italy (Ferrara)",
-    -12.046374,
-    -77.042793
+    44.833332,
+    11.616667
   ],
   [
     "The costs and benefits of geospatial web services of the national Spanish SDI-node (2020-2021), Spain)",

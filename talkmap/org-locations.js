@@ -121,23 +121,23 @@ var addressPoints = [
   ],
   [
     "Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information (2019-2020), Mozambique)",
-    -12.046374,
-    -77.042793
+    -25.953724,
+    32.588711
   ],
   [
     "CENTRIC – Centre of Excellence in Territorial management and Cadastre (2015-2016), Romania)",
-    -12.046374,
-    -77.042793
+    44.439663,
+    26.096306
   ],
   [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), the Netherlands (Delft)",
-    -12.046374,
-    -77.042793
+    52.0115769,
+    4.3570677
   ],
    [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Belgium (Leuven)",
-    -12.046374,
-    -77.042793
+    50.87959,
+    4.70093
   ],
    [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Sweden (Lund)",

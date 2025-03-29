@@ -106,18 +106,18 @@ var addressPoints = [
   ],
   [
     "USAGE – Urban Data Space for Green Deal (2022-2025), Belgium (Leuven)",
-    -12.046374,
-    -77.042793
+    50.87959,
+    4.7011675
   ],
   [
     "USAGE – Urban Data Space for Green Deal (2022-2025), Austria (Graz)",
-    -12.046374,
-    -77.042793
+    47.076668,
+    15.421371
   ],
   [
     "USAGE – Urban Data Space for Green Deal (2022-2025), Spain (Zaragoza)",
-    -12.046374,
-    -77.042793
+    41.649693,
+    -0.887712
   ],
   [
     "Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information (2019-2020), Mozambique)",
@@ -137,7 +137,7 @@ var addressPoints = [
    [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Belgium (Leuven)",
     50.87959,
-    4.70093
+    4.7011675
   ],
    [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Sweden (Lund)",

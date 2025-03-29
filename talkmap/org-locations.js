@@ -75,7 +75,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Italy)",
+    "LINKVIT - Leveraging Inspire Knowledge into Vocational Innovative Training (2013-2015), Italy)",
     -12.046374,
     -77.042793
   ],
@@ -85,7 +85,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Panama)",
+    "USAGE – Urban Data Space for Green Deal (2022-2025), Italy (Ferrara)",
     -12.046374,
     -77.042793
   ],
@@ -95,17 +95,17 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Belgium (Leuven)",
+    "USAGE – Urban Data Space for Green Deal (2022-2025), Belgium (Leuven)",
     -12.046374,
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Austria (Graz)",
+    "USAGE – Urban Data Space for Green Deal (2022-2025), Austria (Graz)",
     -12.046374,
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Spain (Zaragoza)",
+    "USAGE – Urban Data Space for Green Deal (2022-2025), Spain (Zaragoza)",
     -12.046374,
     -77.042793
   ],
@@ -115,7 +115,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Romania)",
+    "CENTRIC – Centre of Excellence in Territorial management and Cadastre (2015-2016), Romania)",
     -12.046374,
     -77.042793
   ],

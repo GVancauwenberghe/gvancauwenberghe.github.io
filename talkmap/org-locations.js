@@ -35,12 +35,12 @@ var addressPoints = [
     44.773674
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, United Kingdom (London)",
+    "Effective Governance of Open Spatial Data (2016-2018), United Kingdom (London)",
     -12.046374,
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, the Netherlands",
+    "Effective Governance of Open Spatial Data (2016-2018), the Netherlands",
     -12.046374,
     -77.042793
   ],

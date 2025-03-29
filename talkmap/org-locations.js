@@ -46,8 +46,8 @@ var addressPoints = [
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Moldova",
-    -12.046374,
-    -77.042793
+    47.003670,
+    28.907089
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Georgia",

@@ -26,13 +26,13 @@ var addressPoints = [
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Morocco (Agadir & Rabat)",
-    29.308374,
-    30.844105
+    -6.2498128,
+    34.249315
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Algeria (Algiers & Oran)",
-    29.308374,
-    30.844105
+    -0.6054768,
+    35.6444074
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Tunisia (Tunis & Jendouba)",

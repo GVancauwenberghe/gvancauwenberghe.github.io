@@ -156,7 +156,7 @@ var addressPoints = [
   ],
   [
     "Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020), Panama",
-    -12.046374,
-    -77.042793
+    8.983333,
+    -79.516670
   ],
 ];

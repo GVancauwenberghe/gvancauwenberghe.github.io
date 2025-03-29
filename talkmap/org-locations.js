@@ -21,8 +21,8 @@ var addressPoints = [
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Egypt (Alexandria & Fayoum)",
-    29.9589936,
-    31.241178
+    31.241178,
+    29.9589936
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Morocco (Agadir & Rabat)",

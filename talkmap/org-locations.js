@@ -66,13 +66,13 @@ var addressPoints = [
   ],
    [
     "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Poland)",
-    -12.046374,
-    -77.042793
+    52.2319237,
+    21.0067265
   ],
    [
     "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), the Netherlands)",
-    -12.046374,
-    -77.042793
+    52.377956,
+    4.897070
   ],
   [
     "INSPIRE Strategy Romania (2014-2015), Romania)",

@@ -141,18 +141,18 @@ var addressPoints = [
   ],
    [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Sweden (Lund)",
-    -12.046374,
-    -77.042793
+    55.7028943,
+    13.1947108
   ],
    [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Germany (Bochum)",
-    -12.046374,
-    -77.042793
+    51.481846,
+    7.216236
   ],
    [
     "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Croatia (Zagreb)",
-    -12.046374,
-    -77.042793
+    45.815399,
+    15.966568
   ],
   [
     "Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020), Panama",

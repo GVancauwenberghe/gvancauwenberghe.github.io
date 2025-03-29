@@ -25,12 +25,12 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Moldova",
+    "Supporting Services to the National Spatial Data Infrastructure of Moldova (2022-2024), Moldova",
     47.003670,
     28.907089
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Georgia",
+    "Consultancy for the Development of NSDI Policy Documents (2024-2025), Georgia",
     41.697102,
     44.773674
   ],

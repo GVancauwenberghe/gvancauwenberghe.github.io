@@ -145,7 +145,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Spain",
+    "Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020), Panama",
     -12.046374,
     -77.042793
   ],

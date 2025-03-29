@@ -20,7 +20,7 @@ var addressPoints = [
     10.1350509
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Peru",
+    "Towards an Open Spatial Data Infrastructure in Peru (2019-2020), Peru",
     -12.046374,
     -77.042793
   ],

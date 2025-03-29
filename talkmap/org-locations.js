@@ -59,8 +59,23 @@ var addressPoints = [
     -12.046374,
     -77.042793
   ],
-  [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Italy (Ferrara))",
+   [
+    "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Spain",
+    -12.046374,
+    -77.042793
+  ],
+   [
+    "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Belgium",
+    -12.046374,
+    -77.042793
+  ],
+   [
+    "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Poland)",
+    -12.046374,
+    -77.042793
+  ],
+   [
+    "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), the Netherlands)",
     -12.046374,
     -77.042793
   ],
@@ -70,17 +85,17 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements (2014-2016, Belgium)",
+    "Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements (2014-2016), Belgium",
     -12.046374,
     -77.042793
   ],
   [
-    "LINKVIT - Leveraging Inspire Knowledge into Vocational Innovative Training (2013-2015), Italy)",
+    "LINKVIT - Leveraging Inspire Knowledge into Vocational Innovative Training (2013-2015), Italy",
     -12.046374,
     -77.042793
   ],
   [
-    "International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center (Vietnam)",
+    "International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center, Vietnam",
     -12.046374,
     -77.042793
   ],

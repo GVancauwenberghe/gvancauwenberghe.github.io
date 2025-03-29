@@ -36,7 +36,7 @@ var addressPoints = [
   ],
   [
     "SEED4NA - SDI & EO Training & Education for North Africa, Tunisia (Tunis & Jendouba)",
-    10.1350509,
-    36.8039882
+    36.8039882,
+    10.1350509
   ]
 ];

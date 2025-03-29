@@ -50,7 +50,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Belgium (Walloon Region)",
+    "SDI Benchmarking and Good Practices in INSPIRE Implementation, Belgium (Walloon Region)",
     -12.046374,
     -77.042793
   ],
@@ -65,7 +65,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Romania)",
+    "INSPIRE Strategy Romania (2014-2015), Romania)",
     -12.046374,
     -77.042793
   ],

@@ -90,7 +90,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Spain)",
+    "The costs and benefits of geospatial web services of the national Spanish SDI-node (2020-2021), Spain)",
     -12.046374,
     -77.042793
   ],
@@ -110,7 +110,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Mozambique)",
+    "Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information (2019-2020), Mozambique)",
     -12.046374,
     -77.042793
   ],

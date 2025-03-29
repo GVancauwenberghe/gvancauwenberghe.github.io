@@ -70,7 +70,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Belgium)",
+    "Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements (2014-2016, Belgium)",
     -12.046374,
     -77.042793
   ],

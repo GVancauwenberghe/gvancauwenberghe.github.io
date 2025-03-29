@@ -40,8 +40,38 @@ var addressPoints = [
     10.1350509
   ],
   [
+    "SEED4NA - SDI & EO Training & Education for North Africa, Peru",
+    -12.046374,
+    -77.042793
+  ],
+  [
+    "SEED4NA - SDI & EO Training & Education for North Africa, Moldova (Tunis & Jendouba)",
+    -12.046374,
+    -77.042793
+  ],
+  [
+    "SEED4NA - SDI & EO Training & Education for North Africa, Georgia",
+    41.697102,
+    44.773674
+  ],
+  [
     "SEED4NA - SDI & EO Training & Education for North Africa, Tunisia (Tunis & Jendouba)",
     -12.046374,
     -77.042793
-  ]
+  ],
+  [
+    "SEED4NA - SDI & EO Training & Education for North Africa, Tunisia (Tunis & Jendouba)",
+    -12.046374,
+    -77.042793
+  ],
+  [
+    "SEED4NA - SDI & EO Training & Education for North Africa, Tunisia (Tunis & Jendouba)",
+    -12.046374,
+    -77.042793
+  ],
+  [
+    "SEED4NA - SDI & EO Training & Education for North Africa, Tunisia (Tunis & Jendouba)",
+    -12.046374,
+    -77.042793
+  ],
 ];

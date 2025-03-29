@@ -1,21 +1,21 @@
 var addressPoints = [
    [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Egypt (Alexandria & Fayoum)",
+    "SEED4NA - SDI & EO Training & Education for North Africa (2020-2024), Egypt (Alexandria & Fayoum)",
     31.241178,
     29.9589936
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Morocco (Agadir & Rabat)",
+    "SEED4NA - SDI & EO Training & Education for North Africa (2020-2024), Morocco (Agadir & Rabat)",
     34.020882,
     -6.841650
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Algeria (Algiers & Oran)",
+    "SEED4NA - SDI & EO Training & Education for North Africa (2020-2024), Algeria (Algiers & Oran)",
     36.737232,
     3.086472
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Tunisia (Tunis & Jendouba)",
+    "SEED4NA - SDI & EO Training & Education for North Africa (2020-2024), Tunisia (Tunis & Jendouba)",
     36.8039882,
     10.1350509
   ],
@@ -115,12 +115,32 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Italy)",
+    "SEED4NA - SDI & EO Training & Education for North Africa, Romania)",
     -12.046374,
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Italy)",
+    "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), the Netherlands (Delft)",
+    -12.046374,
+    -77.042793
+  ],
+   [
+    "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Belgium (Leuven)",
+    -12.046374,
+    -77.042793
+  ],
+   [
+    "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Sweden (Lund)",
+    -12.046374,
+    -77.042793
+  ],
+   [
+    "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Germany (Bochum)",
+    -12.046374,
+    -77.042793
+  ],
+   [
+    "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022), Croatia (Zagreb)",
     -12.046374,
     -77.042793
   ],

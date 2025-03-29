@@ -80,7 +80,7 @@ var addressPoints = [
     -77.042793
   ],
   [
-    "SEED4NA - SDI & EO Training & Education for North Africa, Vietnam (Can To))",
+    "International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center, Vietnam)",
     -12.046374,
     -77.042793
   ],

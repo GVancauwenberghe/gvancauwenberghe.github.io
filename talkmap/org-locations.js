@@ -36,28 +36,28 @@ var addressPoints = [
   ],
   [
     "Effective Governance of Open Spatial Data (2016-2018), United Kingdom (London)",
-    -12.046374,
-    -77.042793
+    51.509865,
+    -0.118092
   ],
   [
     "Effective Governance of Open Spatial Data (2016-2018), the Netherlands",
-    -12.046374,
-    -77.042793
+    52.078663,
+    4.288788
   ],
   [
     "SDI Benchmarking and Good Practices in INSPIRE Implementation, Belgium (Walloon Region)",
-    -12.046374,
-    -77.042793
+    50.4665284,
+    4.8661892
   ],
   [
     "SPATIALIST - SDI for Public Sector Innovation (2007-2011), Belgium",
-    -12.046374,
-    -77.042793
+    50.8465573,
+    4.351697
   ],
    [
     "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Spain",
-    -12.046374,
-    -77.042793
+    40.4167047,
+    -3.7035825
   ],
    [
     "The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019), Belgium",
@@ -101,8 +101,8 @@ var addressPoints = [
   ],
   [
     "The costs and benefits of geospatial web services of the national Spanish SDI-node (2020-2021), Spain)",
-    -12.046374,
-    -77.042793
+    40.4167047,
+    -3.7035825
   ],
   [
     "USAGE – Urban Data Space for Green Deal (2022-2025), Belgium (Leuven)",

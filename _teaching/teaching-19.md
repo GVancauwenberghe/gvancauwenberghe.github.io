@@ -1,11 +1,11 @@
 ---
-title: "Curriculum implementation - From descriptions to courses"
+title: "How to design a curriculum"
 collection: teaching
 type: "Online training"
 permalink: /teaching/teaching-19
-venue: "SEED4NA Virtual Summer School "
-date: 2021-05-27
-location: "Online"
+venue: "ODECO Training Week 3 'Towards a circular open data ecosystem'"
+date: 2023-09-11
+location: "Ascoli, Italy"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

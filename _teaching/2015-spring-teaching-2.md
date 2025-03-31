@@ -4,7 +4,7 @@ collection: teaching
 type: "Keynote presentation"
 permalink: /teaching/teaching-2
 venue: "NSDI Georgia, Stakeholder meeting"
-date: 2024-12-27
+date: 2024-11-27
 location: "Tblisi, Georgia"
 ---
 

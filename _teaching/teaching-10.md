@@ -2,7 +2,7 @@
 title: "The role of geospatial in the digital government transformation"
 collection: teaching
 type: "Webinar"
-permalink: /teaching/teaching-2
+permalink: /teaching/teaching-10
 venue: "ELISE Knowledge Transfer"
 date: 2019-05-07
 location: "Online"

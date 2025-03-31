@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category (_see links below_].
+A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category:
+* [**International development**](https://gvancauwenberghe.github.io/projects)
+* [**Consultancy**](https://gvancauwenberghe.github.io/projects)
+* [**Education & Training**](https://gvancauwenberghe.github.io/projects)
+* [**Research and Innovation**](https://gvancauwenberghe.github.io/projects)
 
 ## International development (7) 
 **<ins>2024 - 2025</ins> Consultancy for the Development of NSDI Policy Documents in Georgia _(World Bank and the National Agency of Public Registry (NAPR) of Georgia)_-

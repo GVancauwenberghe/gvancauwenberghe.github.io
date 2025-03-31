@@ -1,11 +1,11 @@
 ---
-title: "Nine"
+title: "How free are free data and tools?"
 collection: teaching
-type: "Keynote presentation"
-permalink: /teaching/teaching-2
-venue: "NSDI Georgia, Stakeholder meeting"
-date: 2024-11-27
-location: "Tblisi, Georgia"
+type: "Training"
+permalink: /teaching/teaching-9
+venue: "VLIRUOS-funded Short Training Initiative"
+date: 2014-03-31
+location: "Leuven, Belgium"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

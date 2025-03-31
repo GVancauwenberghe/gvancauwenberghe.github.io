@@ -2,7 +2,7 @@
 title: "Digital Twins - Are they ready to embrace the benefits of location information?"
 collection: teaching
 type: "Webinar"
-permalink: /teaching/teaching-2
+permalink: /teaching/teaching-12
 venue: "ELISE Knowledge Transfer"
 date: 2020-06-22
 location: "Online"

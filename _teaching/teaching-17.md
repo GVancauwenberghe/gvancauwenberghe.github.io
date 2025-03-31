@@ -1,11 +1,11 @@
 ---
-title: "Curriculum implementation - From descriptions to courses"
+title: "SDI & (Open) Data Policies"
 collection: teaching
-type: "Online training"
+type: "Training"
 permalink: /teaching/teaching-17
-venue: "SEED4NA Virtual Summer School "
-date: 2021-05-27
-location: "Online"
+venue: "NSDI Mozambique - SDI for Managers Training "
+date: 2019-11-26
+location: "Maputo, Mozambique"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

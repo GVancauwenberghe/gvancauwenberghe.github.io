@@ -1,11 +1,11 @@
 ---
-title: "Curriculum implementation - From descriptions to courses"
+title: "Basics of INSPIRE Data and service sharing"
 collection: teaching
-type: "Online training"
+type: "Training"
 permalink: /teaching/teaching-16
-venue: "SEED4NA Virtual Summer School "
-date: 2021-05-27
-location: "Online"
+venue: "LINKVIT Vocational Training programme"
+date: 2015-05-26
+location: "Lisbon, Portugal"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

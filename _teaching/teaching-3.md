@@ -3,7 +3,7 @@ title: "SDI Establishment"
 collection: teaching
 type: "Training"
 permalink: /teaching/teaching-3
-venue: "SEED4NA Summer school"
+venue: "SEED4NA Summer School"
 date: 2022-05-09
 location: "Dubrovnik, Croatia"
 ---

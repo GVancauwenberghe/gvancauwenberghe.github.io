@@ -41,10 +41,10 @@ More information about these [**international development projects**](https://gv
 **<ins>2022 - 2024</ins> Support to Space Traffic Management Standardisation _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Data collection and analysis, design and evaluation of policy options, design of implementation roadmap
 
-**<ins>2020 - 2022</ins> Pilot Project on Space Traffic Management - The rise of importance of Space Traffic Management _(National Center for Geographic Information, Spain)_ -**
+**<ins>2020 - 2022</ins> Pilot Project on Space Traffic Management - The rise of importance of Space Traffic Management _(European Commission –   DG DEFIS)_ -**
 **Senior Expert:** Data collection and analysis, policy evaluation, drafting of policy recommendations in the domain of space traffic management  
 
-**<ins>2020 - 2021</ins> The costs and benefits of geospatial web services of the national Spanish SDI-node _(European Commission –   DG DEFIS)_ -**
+**<ins>2020 - 2021</ins> The costs and benefits of geospatial web services of the national Spanish SDI-node _(National Center for Geographic Information, Spain)_ -**
 **Policy Research Expert:** Analysis of SDI licensing and pricing models, data collection through interviews and desk research, engagement of SDI-stakeholders in different EU countries
 
 **<ins>2019 - 2019</ins>   Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation _(European Commission –   DG GROW)_ -**

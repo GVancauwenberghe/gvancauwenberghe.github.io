@@ -2,7 +2,7 @@
 title: "Geo-information Organisation and Legislation"
 collection: teaching
 type: "Course"
-permalink: /teaching/teaching-2
+permalink: /teaching/teaching-6
 venue: "TU Delft, MSc Geomatics"
 date: 2017-01-01
 location: "Delft, the Netherlands"

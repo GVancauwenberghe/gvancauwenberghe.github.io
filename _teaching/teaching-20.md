@@ -1,11 +1,11 @@
 ---
-title: "Curriculum implementation - From descriptions to courses"
+title: "Increasing impact through effective communication, dissemination and exploitation"
 collection: teaching
-type: "Online training"
+type: "Training"
 permalink: /teaching/teaching-20
-venue: "SEED4NA Virtual Summer School "
-date: 2021-05-27
-location: "Online"
+venue: "ODECO Training Week 4"
+date: 2024-04-17
+location: "Leuven, Belgium"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

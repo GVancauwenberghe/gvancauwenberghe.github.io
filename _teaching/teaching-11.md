@@ -1,5 +1,5 @@
 ---
-title: "Location Intelligence for Cities and Regions: preparing the ground for smart places of the future"
+title: "Location Intelligence for cities and regions: preparing the ground for smart places of the future"
 collection: teaching
 type: "Webinar"
 permalink: /teaching/teaching-11

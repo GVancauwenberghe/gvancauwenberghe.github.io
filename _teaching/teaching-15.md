@@ -1,5 +1,5 @@
 ---
-title: "Curriculum implementation - From descriptions to courses“"
+title: "Curriculum implementation - From descriptions to courses"
 collection: teaching
 type: "Online training"
 permalink: /teaching/teaching-15

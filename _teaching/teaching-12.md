@@ -1,11 +1,11 @@
 ---
-title: "SDI policies and non-technological components"
+title: "Digital Twins - Are they ready to embrace the benefits of location information?"
 collection: teaching
-type: "Keynote presentation"
+type: "Webinar"
 permalink: /teaching/teaching-2
-venue: "NSDI Georgia, Stakeholder meeting"
-date: 2024-11-27
-location: "Tblisi, Georgia"
+venue: "ELISE Knowledge Transfer"
+date: 2020-06-22
+location: "Online"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

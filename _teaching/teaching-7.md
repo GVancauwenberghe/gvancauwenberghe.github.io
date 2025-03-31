@@ -1,5 +1,5 @@
 ---
-title: "SDI and coordination’"
+title: "SDI and coordination"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/teaching-7

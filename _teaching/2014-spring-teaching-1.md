@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/teaching-1
 venue: "KU Leuven, Geospatial Information Technologies"
-date: 2024-01-01
+date: 2024-12-16
 location: "Leuven, Belgium"
 ---
 

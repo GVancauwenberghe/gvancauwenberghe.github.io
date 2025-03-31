@@ -1,9 +1,9 @@
 ---
-title: "SDI policies and non-technological components"
+title: "Location Intelligence for Cities and Regions: preparing the ground for smart places of the future"
 collection: teaching
-type: "Keynote presentation"
-permalink: /teaching/teaching-2
-venue: "NSDI Georgia, Stakeholder meeting"
+type: "Webinar"
+permalink: /teaching/teaching-11
+venue: "ELISE Knowledge Transfer"
 date: 2024-11-27
 location: "Tblisi, Georgia"
 ---

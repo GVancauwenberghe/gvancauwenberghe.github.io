@@ -4,8 +4,8 @@ collection: teaching
 type: "Webinar"
 permalink: /teaching/teaching-11
 venue: "ELISE Knowledge Transfer"
-date: 2024-11-27
-location: "Tblisi, Georgia"
+date: 2020-09-03
+location: "Online"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

@@ -1,11 +1,11 @@
 ---
-title: "SDI policies and non-technological components"
+title: "SDI Establishment"
 collection: teaching
-type: "Keynote presentation"
-permalink: /teaching/teaching-2
-venue: "NSDI Georgia, Stakeholder meeting"
-date: 2024-11-27
-location: "Tblisi, Georgia"
+type: "Training"
+permalink: /teaching/teaching-3
+venue: "SEED4NA Summer school"
+date: 2022-05-09
+location: "Dubrovnik, Croatia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

@@ -1,11 +1,11 @@
 ---
-title: "Curriculum implementation - From descriptions to courses"
+title: "Distribution of tasks in the context of SDI"
 collection: teaching
-type: "Online training"
-permalink: /teaching/teaching-18
-venue: "SEED4NA Virtual Summer School "
-date: 2021-05-27
-location: "Online"
+type: "Training"
+permalink: /teaching/teaching-21
+venue: "NSDI Mozambique - SDI for Managers Training "
+date: 2019-11-28
+location: "Maputo, Mozambique"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

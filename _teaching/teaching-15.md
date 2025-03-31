@@ -1,11 +1,11 @@
 ---
-title: "Cpurse 7"
+title: "Curriculum implementation - From descriptions to courses“"
 collection: teaching
-type: "Keynote presentation"
-permalink: /teaching/teaching-2
-venue: "NSDI Georgia, Stakeholder meeting"
-date: 2024-11-27
-location: "Tblisi, Georgia"
+type: "Online training"
+permalink: /teaching/teaching-15
+venue: "SEED4NA Virtual Summer School "
+date: 2021-05-27
+location: "Online"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

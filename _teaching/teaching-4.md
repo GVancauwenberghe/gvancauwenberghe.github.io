@@ -3,7 +3,7 @@ title: "Network perspective on SDI"
 collection: teaching
 type: "Online training"
 permalink: /teaching/teaching-4
-venue: "SEED4NA training on Basics of SDI"
+venue: "SEED4NA Training on Basics of SDI"
 date: 2022-01-26
 location: "Online"
 ---

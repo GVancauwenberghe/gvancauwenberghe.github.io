@@ -1,11 +1,11 @@
 ---
-title: "Cpurse 7"
+title: "The role of Spatial Data Infrastructures for Digital Government Transformation"
 collection: teaching
-type: "Keynote presentation"
-permalink: /teaching/teaching-2
-venue: "NSDI Georgia, Stakeholder meeting"
-date: 2024-11-27
-location: "Tblisi, Georgia"
+type: "Webinar"
+permalink: /teaching/teaching-13
+venue: "ELISE Knowledge Transfer"
+date: 2019-10-28
+location: "Online"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

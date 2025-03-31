@@ -3,7 +3,7 @@ title: "Business and funding models"
 collection: teaching
 type: "Online training"
 permalink: /teaching/teaching-5
-venue: "SEED4NA training on Basics of SDI"
+venue: "SEED4NA Training on Basics of SDI"
 date: 2022-01-25
 location: "Online"
 ---

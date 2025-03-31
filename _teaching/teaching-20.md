@@ -3,7 +3,7 @@ title: "Increasing impact through effective communication, dissemination and exp
 collection: teaching
 type: "Training"
 permalink: /teaching/teaching-20
-venue: "ODECO Training Week 4"
+venue: "ODECO Training Week 4 'Towards an inclusive open data ecosystem'"
 date: 2024-04-17
 location: "Leuven, Belgium"
 ---

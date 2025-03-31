@@ -1,11 +1,11 @@
 ---
-title: "SDI policies and non-technological components"
+title: "Geo-information Organisation and Legislation"
 collection: teaching
-type: "Keynote presentation"
+type: "Course"
 permalink: /teaching/teaching-2
-venue: "NSDI Georgia, Stakeholder meeting"
-date: 2024-11-27
-location: "Tblisi, Georgia"
+venue: "TU Delft, MSc Geomatics"
+date: 2017-01-01
+location: "Delft, the Netherlands"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

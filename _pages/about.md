@@ -14,7 +14,8 @@ Career Snapshot
 * **PhD in Social Sciences** on the topic 'Coordination within Spatial Data Infrastructures'
 * **18 years of expertise** in consultancy and research, specializing in geospatial data, data infrastructures, and digital transformation
 * **Extensive experience** in designing, implementing, managing, and evaluating international projects
-* 
+* Author of **[over 100 publications](/outputs)**, including research papers, reports, book chapters and articles
+* Extensive international experience [across 20+ countries](/talkmap)** in diverse regions
 
 Expertise
 ------

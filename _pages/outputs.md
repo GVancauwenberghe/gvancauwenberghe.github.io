@@ -13,12 +13,13 @@ A list of publications I authored throughout my career.
 Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven.
 
 ## Books and book chapters
-Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.)**, Manual of Digital Earth. Singapore: Springer, pp. 161–190.
+Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures**. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.), Manual of Digital Earth. Singapore: Springer, pp. 161–190.
 
 Vancauwenberghe, G., & van Loenen, B. (2019). **Governing Open Spatial Data Infrastructures: The Case of the United Kingdom**. In:  Rodríguez Bolívar M., Bwalya K., Reddick C. (Eds.), Governance Models for Creating Public Value in Open Data Initiatives. Public Administration and Information Technology, vol 31. Springer, Champ, pp. 33-54.
 
 Van Loenen, B., Vancauwenberghe, G., Crompvoets, J. (2018). **Open Data Exposed**. Information Technology and Law Series, vol. 30. The Hague: TMC Asser Press.
-Vancauwenberghe, G., & van Loenen B. (2018). Exploring the Emergence of Open Spatial Data Infrastructures: Analysis of Recent Developments and Trends in Europe. In: Saeed S., Ramayah T., & Mahmood Z. (Eds.), User Centric E-government. Challenges and opportunities. New York: Springer International Publishing, pp. 23-45.
+
+Vancauwenberghe, G., & van Loenen B. (2018). **Exploring the Emergence of Open Spatial Data Infrastructures: Analysis of Recent Developments and Trends in Europe**. In: Saeed S., Ramayah T., & Mahmood Z. (Eds.), User Centric E-government. Challenges and opportunities. New York: Springer International Publishing, pp. 23-45.
 
 Vancauwenberghe, G., F. Welle Donker, and B. van Loenen (2018) **Business Models for Geographic Information**. In: J. Brown Kruse, J. Crompvoets, and F. Pearlman (Eds.), GEOValue; The Socioeconomic Value of Geospatial Information. Boca Raton (US): CRC Press, pp. 85-115.
 

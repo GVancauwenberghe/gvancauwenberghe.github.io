@@ -37,7 +37,7 @@ Vandenbroucke, D., Vancauwenberghe, G. (2014). **INSPIRE Strategy Romania**. Buc
 
 Vandenbroucke, D., Vancauwenberghe, G., Crompvoets, J., Pignatelli, F., Smits, P., Boguslawski, R., Vowles, G., Borzacchiello, M.T. (2014). **Assessment of the Conditions for a European Union Location Framework**. Luxembourg: Publications Office of the European Union.
 
-Peters, R., Snethlage, M., van Gossum, H., Vancauwenberghe, G., Vandenbroucke, D., Mikos, V., Torre-Marin, A., Vertriest, L., Lammerant, J. (2014). **Active dissemination of environmental information in relation to the Birds and Habitats Directive. Final report on improving data availability for conservation of wild birds, natural habitats and flora and fauna conservation**. Luxembourg: European Commission.
+European Commission: DG Environment, Peters, R., Snethlage, M., van Gossum, H., Vancauwenberghe, G., Vandenbroucke, D., Mikos, V., Torre-Marin, A., Vertriest, L., Lammerant, J. (2014). **Active dissemination of environmental information in relation to the Birds and Habitats Directive. Final report on improving data availability for conservation of wild birds, natural habitats and flora and fauna conservation**. Luxembourg: European Commission. [View Publication](https://data.europa.eu/doi/10.2779/996311)
 
 Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). **Study on the Geo-ICT sector in Europe**. SmeSpire.
 

@@ -15,46 +15,46 @@ Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructur
 ## Reports _(selection)_
 
 ## Books and book chapters _(selection)_
-Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures**. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.), Manual of Digital Earth. Singapore: Springer, pp. 161–190.
+Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures**. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.), Manual of Digital Earth. Singapore: Springer, pp. 161–190. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., & van Loenen, B. (2019). **Governing Open Spatial Data Infrastructures: The Case of the United Kingdom**. In:  Rodríguez Bolívar M., Bwalya K., Reddick C. (Eds.), Governance Models for Creating Public Value in Open Data Initiatives. Public Administration and Information Technology, vol 31. Springer, Champ, pp. 33-54.
+Vancauwenberghe, G., & van Loenen, B. (2019). **Governing Open Spatial Data Infrastructures: The Case of the United Kingdom**. In:  Rodríguez Bolívar M., Bwalya K., Reddick C. (Eds.), Governance Models for Creating Public Value in Open Data Initiatives. Public Administration and Information Technology, vol 31. Springer, Champ, pp. 33-54. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Van Loenen, B., Vancauwenberghe, G., Crompvoets, J. (2018). **Open Data Exposed**. Information Technology and Law Series, vol. 30. The Hague: TMC Asser Press.
+Van Loenen, B., Vancauwenberghe, G., Crompvoets, J. (2018). **Open Data Exposed**. Information Technology and Law Series, vol. 30. The Hague: TMC Asser Press. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., & van Loenen B. (2018). **Exploring the Emergence of Open Spatial Data Infrastructures: Analysis of Recent Developments and Trends in Europe**. In: Saeed S., Ramayah T., & Mahmood Z. (Eds.), User Centric E-government. Challenges and opportunities. New York: Springer International Publishing, pp. 23-45.
+Vancauwenberghe, G., & van Loenen B. (2018). **Exploring the Emergence of Open Spatial Data Infrastructures: Analysis of Recent Developments and Trends in Europe**. In: Saeed S., Ramayah T., & Mahmood Z. (Eds.), User Centric E-government. Challenges and opportunities. New York: Springer International Publishing, pp. 23-45. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., F. Welle Donker, and B. van Loenen (2018) **Business Models for Geographic Information**. In: J. Brown Kruse, J. Crompvoets, and F. Pearlman (Eds.), GEOValue; The Socioeconomic Value of Geospatial Information. Boca Raton (US): CRC Press, pp. 85-115.
+Vancauwenberghe, G., F. Welle Donker, and B. van Loenen (2018) **Business Models for Geographic Information**. In: J. Brown Kruse, J. Crompvoets, and F. Pearlman (Eds.), GEOValue; The Socioeconomic Value of Geospatial Information. Boca Raton (US): CRC Press, pp. 85-115. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vandenbroucke, D., G. Vancauwenberghe, A. Dangol, and F. Pignatelli (2018). **Performance Measurement of Location Enabled e-Government Processes: A Case Study on Traffic Safety Monitoring**. In: J. Brown Kruse, J. Crompvoets, and F. Pearlman (Eds.), GEOValue; The Socioeconomic Value of Geospatial Information. Boca Raton (US): CRC Press, pp. 297-316.
+Vandenbroucke, D., G. Vancauwenberghe, A. Dangol, and F. Pignatelli (2018). **Performance Measurement of Location Enabled e-Government Processes: A Case Study on Traffic Safety Monitoring**. In: J. Brown Kruse, J. Crompvoets, and F. Pearlman (Eds.), GEOValue; The Socioeconomic Value of Geospatial Information. Boca Raton (US): CRC Press, pp. 297-316. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G. & van Loenen, B. (2017). **Governance of open spatial data infrastructures in Europe**. In: van Schalkwyk, F., Verhulst, S.G., Magalhaes, Pane, J., Johanna Walker, J. (Eds.), The Social Dynamics of Open Data, African Minds, pp. 63-88.
+Vancauwenberghe, G. & van Loenen, B. (2017). **Governance of open spatial data infrastructures in Europe**. In: van Schalkwyk, F., Verhulst, S.G., Magalhaes, Pane, J., Johanna Walker, J. (Eds.), The Social Dynamics of Open Data, African Minds, pp. 63-88. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., Dessers, E., Crompvoets, J., Vandenbroucke, D. (2014). **Realizing Data Sharing: The Role of Spatial Data Infrastructures**. In: Gascó-Hernández M. (Eds.), Open Government. Opportunities and Challenges for Public Governance. New York: Springer, 155-169.
+Vancauwenberghe, G., Dessers, E., Crompvoets, J., Vandenbroucke, D. (2014). **Realizing Data Sharing: The Role of Spatial Data Infrastructures**. In: Gascó-Hernández M. (Eds.), Open Government. Opportunities and Challenges for Public Governance. New York: Springer, 155-169. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., Crompvoets, J., Vandenbroucke, D. (2013). **Location information strategies: bringing location into e-government**. In: Anthopoulos L., Reddick C. (Eds.), Government e-Strategic Planning and Management. New York: Springer, 65-82.
+Vancauwenberghe, G., Crompvoets, J., Vandenbroucke, D. (2013). **Location information strategies: bringing location into e-government**. In: Anthopoulos L., Reddick C. (Eds.), Government e-Strategic Planning and Management. New York: Springer, 65-82. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., Crompvoets, J., Bouckaert, G., Vandenbroucke, D. (2011). **Social Network Analysis of the SDI in Flanders**. In: Nedovic-Budic Z., Crompvoets J., Georgiadou Y. (Eds.), Spatial Data Infrastructures in Context: North and South, Chapt. 6 CRC Press Taylor & Francis Group, 121-135.
+Vancauwenberghe, G., Crompvoets, J., Bouckaert, G., Vandenbroucke, D. (2011). **Social Network Analysis of the SDI in Flanders**. In: Nedovic-Budic Z., Crompvoets J., Georgiadou Y. (Eds.), Spatial Data Infrastructures in Context: North and South, Chapt. 6 CRC Press Taylor & Francis Group, 121-135. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., Vandenbroucke, D. (2010). **Practices to develop Spatial Data Infrastructures: Exploring the contribution to E-government**. In: , Practical Studies in E-Government, Chapt. 13. New York: Springer, 229-248.
+Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., Vandenbroucke, D. (2010). **Practices to develop Spatial Data Infrastructures: Exploring the contribution to E-government**. In: , Practical Studies in E-Government, Chapt. 13. New York: Springer, 229-248. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
 
 ## Articles _(selection)_
 
-Hofer, B., Casteleyn, S., Aguilar‐Moreno, E., Missoni‐Steinbacher, E. M., Albrecht, F., Lemmens, R., Lang, S., Albrecht, J., Stelmaszczuk‐Górska, M., Vancauwenberghe, G. & Monfort‐Muriach, A. (2020). **Complementing the European earth observation and geographic information body of knowledge with a business‐oriented perspective**. Transactions in GIS, 24(3), 587-601.
+Hofer, B., Casteleyn, S., Aguilar‐Moreno, E., Missoni‐Steinbacher, E. M., Albrecht, F., Lemmens, R., Lang, S., Albrecht, J., Stelmaszczuk‐Górska, M., Vancauwenberghe, G. & Monfort‐Muriach, A. (2020). **Complementing the European earth observation and geographic information body of knowledge with a business‐oriented perspective**. Transactions in GIS, 24(3), 587-601. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Crompvoets, J., Vancauwenberghe, G., Ho, S., Masser, I., & de Vries, W. T. (2018). **Governance of national spatial data infrastructures in Europe**. International Journal of Spatial Data Infrastructures Research, 13.International Journal of Spatial Data Infrastructures Research, 13.
+Crompvoets, J., Vancauwenberghe, G., Ho, S., Masser, I., & de Vries, W. T. (2018). **Governance of national spatial data infrastructures in Europe**. International Journal of Spatial Data Infrastructures Research, 13.International Journal of Spatial Data Infrastructures Research, 13.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., Valečkaitė, K., van Loenen, B. & Welle Donker, F. (2018). **Assessing the Openness of Spatial Data Infrastructures: Towards a Map of Open SDI**. International Journal of Spatial Data Infrastructures Research, 13.
+Vancauwenberghe, G., Valečkaitė, K., van Loenen, B. & Welle Donker, F. (2018). **Assessing the Openness of Spatial Data Infrastructures: Towards a Map of Open SDI**. International Journal of Spatial Data Infrastructures Research, 13.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vandenbroucke, D. & Vancauwenberghe, G. (2016). **Towards a new Body of Knowledge for Geographic Information Science and Technology**. International Scientific Journal Micro Macro & Mezzo Geo Information, 6, 7-19.
+Vandenbroucke, D. & Vancauwenberghe, G. (2016). **Towards a new Body of Knowledge for Geographic Information Science and Technology**. International Scientific Journal Micro Macro & Mezzo Geo Information, 6, 7-19.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Dessers, E., Vancauwenberghe, G., Vandenbroucke, D., Crompvoets, J., & Van Hootegem, G. (2014). **Analysing spatial data performance in inter-organisational processes**. International Journal of Digital Earth.
+Dessers, E., Vancauwenberghe, G., Vandenbroucke, D., Crompvoets, J., & Van Hootegem, G. (2014). **Analysing spatial data performance in inter-organisational processes**. International Journal of Digital Earth.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Dessers, E., Crompvoets, J., Janssen, K., Vancauwenberghe, G., Vandenbroucke, D., Van Haverbeke, L., & Van Hootegem, G. (2012). **A Multidisciplinary Research Framework for Analysing the Spatial Enablement of Public Sector Processes**. International Journal of Spatial Data Infrastructures Research, 7, 125-150.
+Dessers, E., Crompvoets, J., Janssen, K., Vancauwenberghe, G., Vandenbroucke, D., Van Haverbeke, L., & Van Hootegem, G. (2012). **A Multidisciplinary Research Framework for Analysing the Spatial Enablement of Public Sector Processes**. International Journal of Spatial Data Infrastructures Research, 7, 125-150.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., Crompvoets, J., & Bouckaert, G. (2011). **Interorganizational Information Sharing as a Driver of Change in Public Administration**. The NISPAcee Journal of Public Administration and Policy, 3 (2), 87-106.
+Vancauwenberghe, G., Crompvoets, J., & Bouckaert, G. (2011). **Interorganizational Information Sharing as a Driver of Change in Public Administration**. The NISPAcee Journal of Public Administration and Policy, 3 (2), 87-106.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vandenbroucke, D., Crompvoets, J., Vancauwenberghe, G., Dessers, E., & Van Orshoven, J. (2009). **A Network Perspective on Spatial Data Infrastructures: Application to the Sub-national SDI of Flanders (Belgium)**. Transactions in GIS, 13 (1), 105-122.
+Vandenbroucke, D., Crompvoets, J., Vancauwenberghe, G., Dessers, E., & Van Orshoven, J. (2009). **A Network Perspective on Spatial Data Infrastructures: Application to the Sub-national SDI of Flanders (Belgium)**. Transactions in GIS, 13 (1), 105-122.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
 
 ## Conference papers & presentations _(selection)_

@@ -40,37 +40,22 @@ Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., Vandenbroucke, D. (2010). **
 
 ## Articles _(selection)_
 
-**<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
+Hofer, B., Casteleyn, S., Aguilar‐Moreno, E., Missoni‐Steinbacher, E. M., Albrecht, F., Lemmens, R., Lang, S., Albrecht, J., Stelmaszczuk‐Górska, M., Vancauwenberghe, G. & Monfort‐Muriach, A. (2020). **Complementing the European earth observation and geographic information body of knowledge with a business‐oriented perspective**. Transactions in GIS, 24(3), 587-601.
 
-**<ins>2022 - 2024</ins> Support to Space Traffic Management Standardisation _(European Commission –   DG DEFIS)_ -**
-**Policy Research Expert:** Data collection and analysis, design and evaluation of policy options, design of implementation roadmap
+Crompvoets, J., Vancauwenberghe, G., Ho, S., Masser, I., & de Vries, W. T. (2018). **Governance of national spatial data infrastructures in Europe**. International Journal of Spatial Data Infrastructures Research, 13.International Journal of Spatial Data Infrastructures Research, 13.
 
-**<ins>2020 - 2022</ins> Pilot Project on Space Traffic Management - The rise of importance of Space Traffic Management _(European Commission –   DG DEFIS)_ -**
-**Senior Expert:** Data collection and analysis, policy evaluation, drafting of policy recommendations in the domain of space traffic management  
+Vancauwenberghe, G., Valečkaitė, K., van Loenen, B. & Welle Donker, F. (2018). **Assessing the Openness of Spatial Data Infrastructures: Towards a Map of Open SDI**. International Journal of Spatial Data Infrastructures Research, 13.
 
-**<ins>2020 - 2021</ins> The costs and benefits of geospatial web services of the national Spanish SDI-node _(National Center for Geographic Information, Spain)_ -**
-**Policy Research Expert:** Analysis of SDI licensing and pricing models, data collection through interviews and desk research, engagement of SDI-stakeholders in different EU countries
+Vandenbroucke, D. & Vancauwenberghe, G. (2016). **Towards a new Body of Knowledge for Geographic Information Science and Technology**. International Scientific Journal Micro Macro & Mezzo Geo Information, 6, 7-19.
 
-**<ins>2019 - 2019</ins>   Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation _(European Commission –   DG GROW)_ -**
-**Senior Expert:** Data collection via desk research and interviews, identification and classification of Copernicus R&D needs, stakeholder engagement via workshops
+Dessers, E., Vancauwenberghe, G., Vandenbroucke, D., Crompvoets, J., & Van Hootegem, G. (2014). **Analysing spatial data performance in inter-organisational processes**. International Journal of Digital Earth.
 
-**<ins>2014 - 2016</ins> Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements _(Belgian Federal Government – National Geographic Institute (NGI))_ -**
-**Governance and Data Policy Expert:** SDI assessment, interviews with key stakeholders, development of ICT-strategy, development of federal geodata policy
+Dessers, E., Crompvoets, J., Janssen, K., Vancauwenberghe, G., Vandenbroucke, D., Van Haverbeke, L., & Van Hootegem, G. (2012). **A Multidisciplinary Research Framework for Analysing the Spatial Enablement of Public Sector Processes**. International Journal of Spatial Data Infrastructures Research, 7, 125-150.
 
-**<ins>2014 - 2015</ins> Active dissemination of environmental information in relation to the Birds and Habitats Directive _(European Commission –   DG ENV)_ -**
-**Senior INSPIRE Expert:** Desk research, analysis of data, services and metadata, development of recommendations
+Vancauwenberghe, G., Crompvoets, J., & Bouckaert, G. (2011). **Interorganizational Information Sharing as a Driver of Change in Public Administration**. The NISPAcee Journal of Public Administration and Policy, 3 (2), 87-106.
 
-**<ins>2014 - 2015</ins> INSPIRE Strategy Romania _(Romanian Government –  National Agency for Cadastre and Land Registration (ANCPI))_ -**
-**Senior INSPIRE Expert:** Stakeholder consultation and workshops, strategy development, best practices identification
+Vandenbroucke, D., Crompvoets, J., Vancauwenberghe, G., Dessers, E., & Van Orshoven, J. (2009). **A Network Perspective on Spatial Data Infrastructures: Application to the Sub-national SDI of Flanders (Belgium)**. Transactions in GIS, 13 (1), 105-122.
 
-**<ins>2013 - 2016</ins>  Support for the establishment of a European Union Location Framework (EULF) _(European Commission –  Joint Research Center)_ -**
-**Senior Consultant:** Data collection, analysis and assessment, vision development, elaboration of Blueprint and Roadmap
-
-**<ins>2013 - 2013</ins>   SDI Benchmarking and Good Practices in INSPIRE Implementation _(Public Service of Wallonia, Geomatics Department, Belgium)_ -
-SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infrastructures in Europe
-
-More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).
 
 ## Conference papers & presentations _(selection)_
 Stelmaszczuk-Górska, M., A., Aguilar-Moreno, E., Casteleyn, S., Vandenbroucke, D., M. Miguel-Lago, Dubois, D., Lemmens, R., Vancauwenberghe, G., Olijslagers, M., Lang, S., Albrecht, F., Belgiu, M., Krieger, V., Jagdhuber, T., Fluhrer, A., Soja, M. J., Mouratidis, A., Persson, H. J., Colombo, R. & Masiello, G. (2020). **Body of Knowledge for the Earth Observation and Geoinformation sector – A Basis for Innovative Skills Development**. XXIV ISPRS Congress, Commission V and Youth Forum, Digital event, 24 Augustus 2020.

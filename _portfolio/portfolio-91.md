@@ -1,5 +1,5 @@
 ---
-title: "DIS4SME"
+title: "DIS4SME - Data Interoperability Skills for SMEs (2023-2025)"
 excerpt: "Analysis of training resources on location data interoperability <br/><img src='/images/dis4sme.png'>"
 collection: portfolio
 ---

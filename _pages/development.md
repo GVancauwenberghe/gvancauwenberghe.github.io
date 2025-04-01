@@ -43,7 +43,7 @@ author_profile: true
 ### SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
 **Year:** 2020-2024
 
-**Client/funding:** 
+**Client/funding:** European Commission – Erasmus+ Capacity Building for Higher Education
 
 **Role in the project:** Project Coordinator and Senior Expert
 
@@ -54,9 +54,9 @@ author_profile: true
 ### Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects
 **Year:** 2019-2020
 
-**Client/funding:**
+**Client/funding:** European Commission - DG DEVCO
 
-**Role in the project:**
+**Role in the project:** Senior Expert
 
 **Description:**
 
@@ -65,9 +65,9 @@ author_profile: true
 ### Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
 **Year:** 2019-2020
 
-**Client/funding:**
+**Client/funding:** World Bank and Government of Mozambique – Ministry of Transport and Communications
 
-**Role in the project:**
+**Role in the project:** Public Administration Expert
 
 **Description:**
 
@@ -76,7 +76,7 @@ author_profile: true
 ## Towards an Open Spatial Data Infrastructure in Peru
 **Year:** 2019-2020
 
-**Client/funding:**
+**Client/funding:** KU Leuven - Multi-stakeholder Grant
 
 **Role in the project:** Senior Researcher
 

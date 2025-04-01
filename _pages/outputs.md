@@ -13,6 +13,33 @@ A list of publications I authored throughout my career.
 Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven. [View Publication](https://lirias.kuleuven.be/1739126&lang=en)
 
 ## Reports _(selection)_
+Dangol, A., Vandenbroucke, D., Vancauwenberghe, G., Boguslawski, R., Borzacchiello , M.T, Pignatelli, F. (2020). **Improving the use of location information in e-government processes: methodology and use case**. Luxembourg: Publications Office of the European Union.
+
+Vandenbroucke , D., Vancauwenberghe, G., Boguslawski, R., Pignatelli, F. (2020). **Design of location-enabled e-government services**. Luxembourg: Publications Office of the European Union.
+
+Gruijthuijsen, W., De Brito Pontes, M.D S., Vancauwenberghe, G. (2019). **Skills shortages, gaps and mismatches between supply and (future) demand**. EO4GEO Management Report, Report No. D1.5, 1-77.
+
+Barbero, M.,, Lopez Potes M., Vancauwenberghe G., Vandenbroucke D.,Nunes de Lima V. (2019). **The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations**. Luxembourg: Publications Office of the European Union.
+
+Vancauwenberghe, G., & van Loenen, B. (2020). **SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda. AGILE 2018 Pre-conference Workshop Report**. Delft: TU Delft.
+
+Vancauwenberghe, G., & van Loenen, B. (2018). **Towards a Map of Open SDI/INSPIRE. INSPIRE Conference 2018 Workshop Report**. Delft: TU Delft. 
+
+Vandenbroucke, D., & Vancauwenberghe, G. (2015). **Geographic Information – Need to Know (GI-N2K) Towards a more demand-driven geospatial workforce education & training system - Progress Report**. Brussels: European Commission, Executive Agency, Education, Audiovisual and Culture.
+
+Vandenbroucke, D., Vancauwenberghe, G. (2014). **INSPIRE Strategy Romania**. Bucharest: ANCPI.
+
+Vandenbroucke, D., Vancauwenberghe, G., Crompvoets, J., Pignatelli, F., Smits, P., Boguslawski, R., Vowles, G., Borzacchiello, M.T. (2014). **Assessment of the Conditions for a European Union Location Framework**. Luxembourg: Publications Office of the European Union.
+
+Peters, R., Snethlage, M., van Gossum, H., Vancauwenberghe, G., Vandenbroucke, D., Mikos, V., Torre-Marin, A., Vertriest, L., Lammerant, J. (2014). **Active dissemination of environmental information in relation to the Birds and Habitats Directive. Final report on improving data availability for conservation of wild birds, natural habitats and flora and fauna conservation**. Luxembourg: European Commission.
+
+Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). **Study on the Geo-ICT sector in Europe**. SmeSpire.
+
+Vancauwenberghe, G., Crompvoets, J., Bouckaert, G., Kestens, H., Callens, H. (2011). **Een gemeentebrede kijk op GIS. Kwantitatieve analyse van het gebruik van geo-informatie in de Vlaamse gemeenten**. Leuven: Spatialist.
+
+Crompvoets, J., Dessers, E., Geudens, T., Janssen, K., Vancauwenberghe, G., Vandenbroucke, D., Van hoogenbemt, M. (2009). **Het GDI-netwerk in Vlaanderen. Een kwantitatieve verkenning van het gebruik en de uitwisseling van geodata in Vlaanderen**. Leuven: Instituut voor de Overheid.
+
+
 
 ## Books and book chapters _(selection)_
 Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures**. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.), Manual of Digital Earth. Singapore: Springer, pp. 161–190. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)

@@ -1,5 +1,5 @@
 ---
-title: "Assessing the openess of SDIs"
+title: " The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/opensdi.jpg'>"
 collection: portfolio
 ---

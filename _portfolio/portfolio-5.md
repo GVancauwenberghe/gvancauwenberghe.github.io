@@ -1,5 +1,5 @@
 ---
-title: " The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration"
+title: " The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019)"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/opensdi.jpg'>"
 collection: portfolio
 ---

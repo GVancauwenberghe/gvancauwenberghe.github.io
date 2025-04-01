@@ -25,7 +25,7 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 
 **Outputs:** 
 
-## Consultancy for the Development of NSDI Policy Documents in Georgia
+### Supporting Services to the National Spatial Data Infrastructure of Moldova
 **Year:**
 
 **Client/funding:**

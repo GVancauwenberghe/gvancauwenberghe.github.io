@@ -40,7 +40,7 @@ Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., & Vandenbroucke, D. (2010). 
 
 ## Articles _(selection)_
 
-Van Loenen, B., Zuiderwijk, A., Vancauwenberghe, G., Lopez-Pellicer, F. J., Mulder, I., Alexopoulos, C., Magnussen, R., Saddiqa, M., Dulong de Rosnay, M., Crompvoets, J., Polini, A., Re, B., & Casiano Flores, C. (2021). **Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda**. JeDEM - EJournal of EDemocracy and Open Government, 13(2), 1–27.[View Publication](https://jedem.org/index.php/jedem/article/view/644)
+Van Loenen, B., Zuiderwijk, A., Vancauwenberghe, G., Lopez-Pellicer, F. J., Mulder, I., Alexopoulos, C., Magnussen, R., Saddiqa, M., Dulong de Rosnay, M., Crompvoets, J., Polini, A., Re, B., & Casiano Flores, C. (2021). **Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda**. JeDEM - EJournal of EDemocracy and Open Government, 13(2), 1–27. [View Publication](https://jedem.org/index.php/jedem/article/view/644)
 
 Hofer, B., Casteleyn, S., Aguilar‐Moreno, E., Missoni‐Steinbacher, E. M., Albrecht, F., Lemmens, R., Lang, S., Albrecht, J., Stelmaszczuk‐Górska, M., Vancauwenberghe, G. & Monfort‐Muriach, A. (2020). **Complementing the European earth observation and geographic information body of knowledge with a business‐oriented perspective**. Transactions in GIS, 24(3), 587-601. [View Publication](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12628)
 

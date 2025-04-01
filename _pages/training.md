@@ -7,11 +7,122 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category:
-* [**International development**](https://gvancauwenberghe.github.io/projects)
-* [**Consultancy**](https://gvancauwenberghe.github.io/projects)
-* [**Education & Training**](https://gvancauwenberghe.github.io/projects)
-* [**Research & Innovation**](https://gvancauwenberghe.github.io/projects)
-  
+## Project 1
+**Year:** 
 
-## International development (7)
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 2
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 3
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 4
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 5
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 6
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 7
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 8
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 9
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Project 10
+**Year:** 
+
+**Client/funding:** 
+
+**Role in the project:** 
+
+**Description:** 
+
+**Activities performed:** 
+* 

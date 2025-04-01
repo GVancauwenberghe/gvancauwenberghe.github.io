@@ -15,6 +15,8 @@ Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructur
 ## Reports _(selection)_
 European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2024). **Supporting standardisation in the field of Space Traffic Management (STM) – EU space label – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/0215426) 
 
+European Commission: Joint Research Centre, Vancauwenberghe, G. and Hernández Quirós, L. (2022). **Evolution of the access to spatial data for environmental purposes – A study on the past, present and future of spatial data infrastructures in Europe**. Luxembourg: Publications Office of the European Union, 2022, [View Publication](https://data.europa.eu/doi/10.2760/723430). 
+
 European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2022). **Pilot project on space traffic management – The rise of importance of space traffic management (STM) – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/3462708)
 
 European Commission: Joint Research Centre, Nasi, G. Buongiorno S. C., et. al. (2022). **Leveraging the power of location information and technologies to improve public services at local level – Case study analysis**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/67126)
@@ -31,15 +33,17 @@ Vancauwenberghe, G., & van Loenen, B. (2020). **SDI Research and Strategies towa
 
 Vancauwenberghe, G., & van Loenen, B. (2018). **Towards a Map of Open SDI/INSPIRE. INSPIRE Conference 2018 Workshop Report**. Delft: TU Delft. 
 
+European Commission: Joint Research Centre, Boguslawski, R., Vandenbroucke, D., Vancauwenberghe, G., Pignatelli, F. et al. (2016). **European Union Location Framework – Guidelines for public procurement of geospatial technologies**. Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2788/374047).
+
+European Commission: DG Environment, Peters, R., Snethlage, M., van Gossum, H., Vancauwenberghe, G., Vandenbroucke, D., Mikos, V., Torre-Marin, A., Vertriest, L., Lammerant, J. (2015). **Active dissemination of environmental information in relation to the Birds and Habitats Directive. Final report on improving data availability for conservation of wild birds, natural habitats and flora and fauna conservation**. Luxembourg: European Commission. [View Publication](https://data.europa.eu/doi/10.2779/996311)
+
 Vandenbroucke, D., & Vancauwenberghe, G. (2015). **Geographic Information – Need to Know (GI-N2K) Towards a more demand-driven geospatial workforce education & training system - Progress Report**. Brussels: European Commission, Executive Agency, Education, Audiovisual and Culture.
 
 Vandenbroucke, D., Vancauwenberghe, G. (2014). **INSPIRE Strategy Romania**. Bucharest: ANCPI.
 
 Vandenbroucke, D., Vancauwenberghe, G., Crompvoets, J., Pignatelli, F., Smits, P., Boguslawski, R., Vowles, G., Borzacchiello, M.T. (2014). **Assessment of the Conditions for a European Union Location Framework**. Luxembourg: Publications Office of the European Union.
 
-European Commission: DG Environment, Peters, R., Snethlage, M., van Gossum, H., Vancauwenberghe, G., Vandenbroucke, D., Mikos, V., Torre-Marin, A., Vertriest, L., Lammerant, J. (2014). **Active dissemination of environmental information in relation to the Birds and Habitats Directive. Final report on improving data availability for conservation of wild birds, natural habitats and flora and fauna conservation**. Luxembourg: European Commission. [View Publication](https://data.europa.eu/doi/10.2779/996311)
-
-Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). **Study on the Geo-ICT sector in Europe**. SmeSpire.
+Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). **Study on the Geo-ICT sector in Europe**. SmeSpire. [View Publication](http://www.smespire.eu/published-by-smespire-the-first-study-on-the-geo-ict-sector-in-europe/)
 
 Vancauwenberghe, G., Crompvoets, J., Bouckaert, G., Kestens, H., Callens, H. (2011). **Een gemeentebrede kijk op GIS. Kwantitatieve analyse van het gebruik van geo-informatie in de Vlaamse gemeenten**. Leuven: Spatialist.
 

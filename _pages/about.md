@@ -11,7 +11,7 @@ I'm a senior consultant, researcher and research manager in the domains of **geo
 
 Career Snapshot
 ------
-* **[18 years of expertise](/projects)** in consultancy and research, specializing in geospatial data, data infrastructures, and digital transformation
+* **[18 years of expertise](/cv-json)** in consultancy and research, specializing in geospatial data, data infrastructures, and digital transformation
 * Contributed to **[35+ projects](/projects)** in international development, research, consultancy, and capacity building
 * Author of **[over 100 publications](/outputs)**, including research papers, reports, book chapters and articles
 * Extensive international experience **[across 30+ countries](/talkmap)** in diverse regions

@@ -10,7 +10,7 @@ author_profile: true
 ## RESIST - Regions for climate change resilience through Innovation
 **Year:** Z023-2024
 
-**Client/funding:** 
+**Client/funding:** European Commission – Horizon Europe
 
 **Role in the project:** Scientific Expert
 
@@ -22,7 +22,7 @@ author_profile: true
 ## USAGE – Urban Data Space for Green Deal
 **Year:** 2022 - 2025
 
-**Client/funding:** 
+**Client/funding:** European Commission – Horizon Europe
 
 **Role in the project:** Senior Researcher
 
@@ -34,7 +34,7 @@ author_profile: true
 ## ELISE 2020 - Leveraging the power of location information and technologies to improve public services at local level: an EU-wide analysis
 **Year:** 2020 - 2021
 
-**Client/funding:** 
+**Client/funding:** European Commission – Joint Research Center
 
 **Role in the project:** Public Administration Expert
 
@@ -46,7 +46,7 @@ author_profile: true
 ## The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration
 **Year:** 2018 - 2019
 
-**Client/funding:** 
+**Client/funding:** European Commission – DG DIGT & Joint Research Center
 
 **Role in the project:** Senior Expert
 
@@ -58,7 +58,7 @@ author_profile: true
 ## Effective Governance of Open Spatial Data
 **Year:** 2016-2018
 
-**Client/funding:** 
+**Client/funding:** European Commission, MSCA Postdoctoral Fellowships
 
 **Role in the project:** Research Manager & Researcher
 
@@ -70,7 +70,7 @@ author_profile: true
 ## CENTRIC – Centre of Excellence in Territorial management and Cadastre
 **Year:** 2015 - 2016 
 
-**Client/funding:** 
+**Client/funding:** European Commission – Horizon 2020 Teaming
 
 **Role in the project:** Senior GI Expert
 
@@ -82,7 +82,7 @@ author_profile: true
 ##  SmeSpire - A European Community of SMEs built on Environmental Digital Content and Languages
 **Year:** 2012 - 2014
 
-**Client/funding:** 
+**Client/funding:** European Commission – FP7 Support Action
 
 **Role in the project:** Researcher
 
@@ -94,7 +94,7 @@ author_profile: true
 ## SPATIALIST - SDI for Public Sector Innovation
 **Year:** 2007-2011
 
-**Client/funding:** 
+**Client/funding:** Flemish Government - IWT
 
 **Role in the project:** Junior Researcher
 

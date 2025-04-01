@@ -1,5 +1,5 @@
 ---
-title: "Effective Governance of Open Spatial Data (2016)2018)"
+title: "Effective Governance of Open Spatial Data (2016-2018)"
 excerpt: "Governance of (open) data infrastructures 1<br/><img src='/images/governance.png'>"
 collection: portfolio
 ---

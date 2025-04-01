@@ -7,120 +7,120 @@ author_profile: true
 
 {% include base_path %}
 
-## Project 1
-**Year:** 
+## Impact Assessment for the new EU Space Law 
+**Year:** 2023 - 2024
 
-**Client/funding:** 
+**Client/funding:** European Commission – DG DEFIS
 
-**Role in the project:** 
-
-**Description:** 
-
-**Activities performed:** 
-* 
-
-## Project 2
-**Year:** 
-
-**Client/funding:** 
-
-**Role in the project:** 
+**Role in the project:** Policy Research Expert
 
 **Description:** 
 
 **Activities performed:** 
 * 
 
-## Project 3
-**Year:** 
+## Support to Space Traffic Management Standardisation
+**Year:** 2022 - 2024
 
-**Client/funding:** 
+**Client/funding:** European Commission – DG DEFIS
 
-**Role in the project:** 
-
-**Description:** 
-
-**Activities performed:** 
-* 
-
-## Project 4
-**Year:** 
-
-**Client/funding:** 
-
-**Role in the project:** 
+**Role in the project:** Policy Research Expert
 
 **Description:** 
 
 **Activities performed:** 
 * 
 
-## Project 5
-**Year:** 
+## Pilot Project on Space Traffic Management - The rise of importance of Space Traffic Management
+**Year:** 2020-2022
 
-**Client/funding:** 
+**Client/funding:** European Commission – DG DEFIS
 
-**Role in the project:** 
-
-**Description:** 
-
-**Activities performed:** 
-* 
-
-## Project 6
-**Year:** 
-
-**Client/funding:** 
-
-**Role in the project:** 
+**Role in the project:** Policy Research Expert
 
 **Description:** 
 
 **Activities performed:** 
 * 
 
-## Project 7
-**Year:** 
+## The costs and benefits of geospatial web services of the national Spanish SDI-node
+**Year:** 2020 - 2021
 
-**Client/funding:** 
+**Client/funding:** National Center for Geographic Information, Spain
 
-**Role in the project:** 
-
-**Description:** 
-
-**Activities performed:** 
-* 
-
-## Project 8
-**Year:** 
-
-**Client/funding:** 
-
-**Role in the project:** 
+**Role in the project:** Senior Researcher
 
 **Description:** 
 
 **Activities performed:** 
 * 
 
-## Project 9
-**Year:** 
+## Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation
+**Year:** 2019
 
-**Client/funding:** 
+**Client/funding:** European Commission – DG GROW
 
-**Role in the project:** 
+**Role in the project:** Senior Expert
 
 **Description:** 
 
 **Activities performed:** 
 * 
 
-## Project 10
-**Year:** 
+## Review of the federal geo-ICT infrastructure in view of alignment with SDI and INSPIRE requirements
+**Year:** 2014 - 2016
 
-**Client/funding:** 
+**Client/funding:** Belgian Federal Government – National Geographic Institute (NGI)
+
+**Role in the project:** Governance and Data Policy Expert
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Active dissemination of environmental information in relation to the Birds and Habitats Directive
+**Year:** 2014 - 2015
+
+**Client/funding:** European Commission – DG ENV
+
+**Role in the project:** Senior INSPIRE Expert
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## INSPIRE Strategy Romania
+**Year:** 2014 - 2015
+
+**Client/funding:** Romanian Government – National Agency for Cadastre and Land Registration (ANCPI)
+
+**Role in the project:** Senior INSPIRE Expert
+
+**Description:** 
+
+**Activities performed:** 
+* 
+
+## Support for the establishment of a European Union Location Framework (EULF) 
+**Year:** 2013 - 2016
+
+**Client/funding:** European Commission – Joint Research Center
 
 **Role in the project:** 
+
+**Description:** Senior Consultant:
+
+**Activities performed:** 
+* 
+
+## SDI Benchmarking and Good Practices in INSPIRE Implementation
+**Year:** 2013
+
+**Client/funding:** Public Service of Wallonia, Geomatics Department, Belgium
+
+**Role in the project:** SDI Assessment Expert
 
 **Description:** 
 

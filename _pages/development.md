@@ -14,4 +14,24 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 * [**Research & Innovation**](https://gvancauwenberghe.github.io/projects)
   
 
-## International development (7)
+## Consultancy for the Development of NSDI Policy Documents in Georgia
+**Year:**
+
+**Client/funding:**
+
+**Role in the project:**
+
+**Description:**
+
+**Outputs:** 
+
+## Consultancy for the Development of NSDI Policy Documents in Georgia
+**Year:**
+
+**Client/funding:**
+
+**Role in the project:**
+
+**Description:**
+
+**Outputs:** 

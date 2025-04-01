@@ -1,6 +1,6 @@
 ---
-title: "Analysis of training resources on location data interoperability"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/dis4sme.png'>"
+title: "SPIDER - Open Spatial Data Infrastructure Education Network (2020-2022) "
+excerpt: "Map of SDI Education in Europe<br/><img src='/images/dis4sme.png'>"
 collection: portfolio
 ---
 

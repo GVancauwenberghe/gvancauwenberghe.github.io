@@ -21,7 +21,7 @@ European Commission: Directorate-General for Defence Industry and Space, Deloitt
 
 European Commission: Joint Research Centre, Nasi, G. Buongiorno S. C., et. al. (2022). **Leveraging the power of location information and technologies to improve public services at local level – Case study analysis**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/67126)
 
-European Commission: Joint Research Centre, Dangol, A., Vandenbroucke, D., Vancauwenberghe, G., Boguslawski, R., Borzacchiello , M.T, Pignatelli, F. (2020). **Improving the use of location information in e-government processes: methodology and use case**. Luxembourg: Publications Office of the European Union.[View Publication] (https://data.europa.eu/doi/10.2760/073656)
+European Commission: Joint Research Centre, Dangol, A., Vandenbroucke, D., Vancauwenberghe, G., Boguslawski, R., Borzacchiello , M.T, Pignatelli, F. (2020). **Improving the use of location information in e-government processes: methodology and use case**. Luxembourg: Publications Office of the European Union.[View Publication](https://data.europa.eu/doi/10.2760/073656)
 
 European Commission: Joint Research Centre, Vandenbroucke , D., Vancauwenberghe, G., Boguslawski, R., Pignatelli, F. (2020). **Design of location-enabled e-government services**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/860082). 
 

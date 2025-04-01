@@ -13,7 +13,7 @@ A list of publications I authored throughout my career.
 Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven.
 
 ## Books and book chapters
-Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures. In: Huadong, G., Goodcile, M.F. & Annoni, A. (Eds.)**, Manual of Digital Earth. Singapore: Springer, pp. 161–190.
+Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.)**, Manual of Digital Earth. Singapore: Springer, pp. 161–190.
 
 Vancauwenberghe, G., & van Loenen, B. (2019). **Governing Open Spatial Data Infrastructures: The Case of the United Kingdom**. In:  Rodríguez Bolívar M., Bwalya K., Reddick C. (Eds.), Governance Models for Creating Public Value in Open Data Initiatives. Public Administration and Information Technology, vol 31. Springer, Champ, pp. 33-54.
 

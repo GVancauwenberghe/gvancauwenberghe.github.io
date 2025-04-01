@@ -1,5 +1,5 @@
 ---
-title: "Open data assessment frameworks"
+title: "European Union Location Framework"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/assessment.png'>"
 collection: portfolio
 ---

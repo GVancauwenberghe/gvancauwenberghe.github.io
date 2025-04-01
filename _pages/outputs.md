@@ -15,7 +15,9 @@ Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructur
 ## Reports _(selection)_
 European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2024). **Supporting standardisation in the field of Space Traffic Management (STM) – EU space label – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/0215426). 
 
-European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2022). **Pilot project on space traffic management – The rise of importance of space traffic management (STM) – Final report**. Luxembourg: Publications Office of the European Union, 2022, [View Publication](https://data.europa.eu/doi/10.2889/3462708)
+European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2022). **Pilot project on space traffic management – The rise of importance of space traffic management (STM) – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/3462708)
+
+European Commission: Joint Research Centre, Nasi, G. Buongiorno S. C., et. al. (2022). **Leveraging the power of location information and technologies to improve public services at local level – Case study analysis**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/67126)
 
 Dangol, A., Vandenbroucke, D., Vancauwenberghe, G., Boguslawski, R., Borzacchiello , M.T, Pignatelli, F. (2020). **Improving the use of location information in e-government processes: methodology and use case**. Luxembourg: Publications Office of the European Union.
 
@@ -23,7 +25,7 @@ Vandenbroucke , D., Vancauwenberghe, G., Boguslawski, R., Pignatelli, F. (2020).
 
 Gruijthuijsen, W., De Brito Pontes, M.D S., Vancauwenberghe, G. (2019). **Skills shortages, gaps and mismatches between supply and (future) demand**. EO4GEO Management Report, Report No. D1.5, 1-77.
 
-Barbero, M.,, Lopez Potes M., Vancauwenberghe G., Vandenbroucke D.,Nunes de Lima V. (2019). **The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations**. Luxembourg: Publications Office of the European Union.
+European Commission: Joint Research Centre, Barbero, M., Lopez Potes M., Vancauwenberghe G., & Vandenbroucke D. (2019). **The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/324167)
 
 Vancauwenberghe, G., & van Loenen, B. (2020). **SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda. AGILE 2018 Pre-conference Workshop Report**. Delft: TU Delft.
 

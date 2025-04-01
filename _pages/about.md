@@ -17,7 +17,7 @@ Career Snapshot
 * Extensive international experience **[across 30+ countries](/talkmap)** in diverse regions
 * **[PhD in Social Sciences](/cv)** at KU Leuven (Belgium) on the topic 'Coordination within Spatial Data Infrastructures' 
 * Awarded a **[Marie Skłodowska-Curie Postdoctoral Fellowship](/cv)** at TU Delft (Netherlands) on the topic 'Governance of open geospatial data and data infrastructures'
-* **[Extensive experience](/expert)** in designing, implementing, managing, and evaluating international projects, funded by the World Bank, European Union, and other international organizations
+* **[Comprehensive experience](/expert)** in designing, implementing, managing, and evaluating international projects, funded by the World Bank, European Union, and other international organizations
 * Expert in **[capacity building](/teaching)**, conducting skills needs assessments, designing courses, and delivering education and training to enhance expertise across various domains.
 * Provided support to **various key EU policy initiatives**, on geospatial data, open data, digital transformation & space
 * Owner of **GEONOTGEO**, a recently established consultancy company targetting sustainable development and policy impact through research and capacity building

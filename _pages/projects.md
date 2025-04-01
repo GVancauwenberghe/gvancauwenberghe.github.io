@@ -83,7 +83,7 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **Senior Researcher and Supervisor:** Contributing to the training programme and supervising research on the value of data ecosystems
 
 **<ins>2020 - 2022</ins>   SPIDER - Open Spatial Data Infrastructure Education Network _(German Academic Exchange Service)_ -**
-**Senior Researcher & Teacher:** Design, development and implementation of active teaching about SDI
+**Senior Researcher & Teacher:** Design, development and implementation of active teaching practices about SDI and Open SDI
 
 **<ins>2019 - 2021</ins>   ELISE Knowledge Transfer II : Digital Transformation and the future of SDI  _(European Commission –   DG DIGIT  & Joint Research Centre)_ -**
 **Senior Expert:** Study on the use of spatial data for environmental purposes

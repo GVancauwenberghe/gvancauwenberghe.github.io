@@ -1,5 +1,5 @@
 ---
-title: "Network analysis of the SDI of Flanders"
+title: "SPATIALIST - SDI for Public Sector Innovation (2007-2011)"
 excerpt: "Network analysis of the SDI of Flanders 1<br/><img src='/images/network.png'>"
 collection: portfolio
 ---

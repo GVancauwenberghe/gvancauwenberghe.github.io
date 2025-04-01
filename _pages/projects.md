@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category:
-* [**International development**](https://gvancauwenberghe.github.io/projects)
-* [**Consultancy**](https://gvancauwenberghe.github.io/projects)
-* [**Education & Training**](https://gvancauwenberghe.github.io/projects)
-* [**Research & Innovation**](https://gvancauwenberghe.github.io/projects)
+* [**International development**](https://gvancauwenberghe.github.io/development)
+* [**Consultancy**](https://gvancauwenberghe.github.io/consultancy)
+* [**Education & Training**](https://gvancauwenberghe.github.io/training)
+* [**Research & Innovation**](https://gvancauwenberghe.github.io/research)
   
 
 ## International development (7) 
@@ -36,7 +36,7 @@ Public Administration Expert:**   Analysis of geospatial production processes th
 **<ins>2019 - 2020</ins> Towards an Open Spatial Data Infrastructure in Peru _(KU Leuven - Multi-stakeholder Grant)_ -
 Senior Researcher:**   Project management, engagement of local stakeholders, capacity building on SDI and open data, design and implementation of research project on open spatial data in Peru
 
-More information about these [**international development projects**](https://gvancauwenberghe.github.io/projects).
+More information about these [**international development projects**](https://gvancauwenberghe.github.io/development).
 
 ## Consultancy (10)
 
@@ -70,7 +70,7 @@ More information about these [**international development projects**](https://gv
 **<ins>2013 - 2013</ins>   SDI Benchmarking and Good Practices in INSPIRE Implementation _(Public Service of Wallonia, Geomatics Department, Belgium)_ -
 SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infrastructures in Europe
 
-More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).
+More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/consultancy).
 
 ## Education & Training (10)
 **<ins>2024 - 2025</ins>    SpaceSUITE -  SPACE downstream Skills development and User uptake through Innovative Curricula in Training and Education _(European Commission –  Erasmus+ Sector Skills Alliances)_-
@@ -103,7 +103,7 @@ Senior Researcher:**   Provision of skills intelligence and design of skills str
 **<ins>2013 - 2015</ins>   LINKVIT -  Leveraging Inspire Knowledge into Vocational Innovative Training _(European Commission –   European Commission, LLP  Leonardo da Vinci Transfer of Innovation)_ -**
 **Senior Expert:** Analysis, preparation and organisation of training material, tutor of sessions on INSPIRE Advanced and Basics of INSPIRE Data and service sharing
 
-More information about these [**education and training projects**](https://gvancauwenberghe.github.io/projects).
+More information about these [**education and training projects**](https://gvancauwenberghe.github.io/training).
 
 ## Research & Innovation (8)
 **<ins>2023 - 2024</ins>   RESIST -   Regions for climate change resilience through Innovation _(European Commission –   Horizon Europe)_ -**
@@ -130,7 +130,7 @@ Research Manager & Researcher:**   Research design, case study research, in-dept
 **<ins>2007 - 2011</ins>   SPATIALIST - SDI for Public Sector Innovation _(Flemish Government - IWT)_ -
 Junior Researcher:**   Analysis of coordination instruments and mechanisms, research design, data collection via surveys and in-depth interviews
 
-More information about these [**research and innovation projects**](https://gvancauwenberghe.github.io/projects).
+More information about these [**research and innovation projects**](https://gvancauwenberghe.github.io/research).
 
 
 

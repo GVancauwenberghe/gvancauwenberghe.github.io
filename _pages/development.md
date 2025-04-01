@@ -10,9 +10,9 @@ author_profile: true
 ## Consultancy for the Development of NSDI Policy Documents in Georgia
 **Year:** 2024-2025
 
-**Client/funding:**
+**Client/funding:** World Bank and the National Agency of Public Registry (NAPR) of Georgia
 
-**Role in the project:**
+**Role in the project:** SDI Policy Expert
 
 **Description:**
 
@@ -21,9 +21,9 @@ author_profile: true
 ## Supporting Services to the National Spatial Data Infrastructure of Moldova
 **Year:** 2022-2024
 
-**Client/funding:**
+**Client/funding:** World Bank and National Mapping and Cadastre Agency of Moldova (ALRC)
 
-**Role in the project:**
+**Role in the project:** Senior Expert
 
 **Description:**
 
@@ -32,9 +32,9 @@ author_profile: true
 ## International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center 
 **Year:** 2021-2022
 
-**Client/funding:**
+**Client/funding:** World Bank
 
-**Role in the project:**
+**Role in the project:** Senior Expert
 
 **Description:**
 
@@ -43,9 +43,9 @@ author_profile: true
 ### SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
 **Year:** 2020-2024
 
-**Client/funding:**
+**Client/funding:** 
 
-**Role in the project:**
+**Role in the project:** Project Coordinator and Senior Expert
 
 **Description:**
 
@@ -73,12 +73,12 @@ author_profile: true
 
 **Outputs:** 
 
-## Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
+## Towards an Open Spatial Data Infrastructure in Peru
 **Year:** 2019-2020
 
 **Client/funding:**
 
-**Role in the project:**
+**Role in the project:** Senior Researcher
 
 **Description:**
 

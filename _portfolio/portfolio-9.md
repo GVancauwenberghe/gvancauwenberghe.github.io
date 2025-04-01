@@ -1,6 +1,6 @@
 ---
-title: "Analysis of training resources on location data interoperability"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/dis4sme.png'>"
+title: "SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa (2020-2024)"
+excerpt: "SEED4NA Curriculum on SDI/EO<br/><img src='/images/seed4na.png'>"
 collection: portfolio
 ---
 

@@ -89,6 +89,10 @@ Vandenbroucke, D., Crompvoets, J., Vancauwenberghe, G., Dessers, E., & Van Orsho
 
 
 ## Conference papers & presentations _(selection)_
+Kaddour, M., Aribi, N., Crompvoets, J., & Vancauwenberghe, G. (2022). **Mapping and Understanding the GI/EO Ecosystem in Algeria: An Overview of the Recent Development and Main Challenges**. TEANGEO 2022, 18-20 October, 2022.
+
+Welle Donker, F., van Loenen, B., Keßler, C., Küppers, N., Panek, M., Mansourian, A., Zhao, P., Vancauwenberghe, G., Tomić, H., and Kević, K.: **Showcase of Active Learning and Teaching Practices in Spatial Data Infrastructure (SDI) Education**. AGILE GIScience Ser., 3, 18, 2022.
+
 Stelmaszczuk-Górska, M., A., Aguilar-Moreno, E., Casteleyn, S., Vandenbroucke, D., M. Miguel-Lago, Dubois, D., Lemmens, R., Vancauwenberghe, G., Olijslagers, M., Lang, S., Albrecht, F., Belgiu, M., Krieger, V., Jagdhuber, T., Fluhrer, A., Soja, M. J., Mouratidis, A., Persson, H. J., Colombo, R. & Masiello, G. (2020). **Body of Knowledge for the Earth Observation and Geoinformation sector – A Basis for Innovative Skills Development**. XXIV ISPRS Congress, Commission V and Youth Forum, Digital event, 24 Augustus 2020.
 
 Vancauwenberghe, G., Barbero, M. Vandenbroucke, D. & Lopez Potes, M. (2020). **The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations**. INSPIRE Conference 2020 – Workshop on Building the European Green Data Space. Virtual conference, 3 June, 2020.

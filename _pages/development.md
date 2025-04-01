@@ -7,13 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the projects I have worked on throughout my career. Detailed descriptions of these projects and my specific contributions are available for each project category:
-* [**International development**](https://gvancauwenberghe.github.io/projects)
-* [**Consultancy**](https://gvancauwenberghe.github.io/projects)
-* [**Education & Training**](https://gvancauwenberghe.github.io/projects)
-* [**Research & Innovation**](https://gvancauwenberghe.github.io/projects)
-  
-
 ## Consultancy for the Development of NSDI Policy Documents in Georgia
 **Year:**
 
@@ -25,7 +18,7 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 
 **Outputs:** 
 
-### Supporting Services to the National Spatial Data Infrastructure of Moldova
+## Supporting Services to the National Spatial Data Infrastructure of Moldova
 **Year:**
 
 **Client/funding:**
@@ -36,7 +29,7 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 
 **Outputs:** 
 
-### International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center 
+## International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center 
 **Year:**
 
 **Client/funding:**
@@ -47,7 +40,7 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 
 **Outputs:** 
 
-### SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
+## SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
 **Year:**
 
 **Client/funding:**
@@ -58,7 +51,7 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 
 **Outputs:** 
 
-### Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects
+## Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects
 **Year:**
 
 **Client/funding:**
@@ -69,7 +62,7 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 
 **Outputs:** 
 
-### Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
+## Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
 **Year:**
 
 **Client/funding:**
@@ -80,7 +73,7 @@ A list of all the projects I have worked on throughout my career. Detailed descr
 
 **Outputs:** 
 
-### Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
+## Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
 **Year:**
 
 **Client/funding:**

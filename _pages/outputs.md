@@ -8,7 +8,12 @@ author_profile: true
 {% include base_path %}
 
 A list of publications I authored throughout my career. 
-
+* [**PhD Thesis**](https://github.com/GVancauwenberghe/gvancauwenberghe.github.io/edit/master/_pages/outputs.md#phd-thesis)
+* [**Reports**](https://gvancauwenberghe.github.io/projects)
+* [**Books and book chapters**](https://github.com/GVancauwenberghe/gvancauwenberghe.github.io/edit/master/_pages/outputs.md#books-and-book-chapters)
+* [**Articles**](https://gvancauwenberghe.github.io/projects)
+* [**Conference papers & presentations**](https://gvancauwenberghe.github.io/projects)
+  
 ## PhD Thesis
 Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven.
 
@@ -38,7 +43,7 @@ Vancauwenberghe, G., Crompvoets, J., Bouckaert, G., Vandenbroucke, D. (2011). **
 Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., Vandenbroucke, D. (2010). **Practices to develop Spatial Data Infrastructures: Exploring the contribution to E-government**. In: , Practical Studies in E-Government, Chapt. 13. New York: Springer, 229-248.
 
 
-## Consultancy (10)
+## Articles
 
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
@@ -72,4 +77,4 @@ SDI Assessment Expert:**   Assessment of national and regional Spatial Data Infr
 
 More information about these [**consultancy projects**](https://gvancauwenberghe.github.io/projects).
 
-## Education & Training (10)
+## Conference papers & presentations (10)

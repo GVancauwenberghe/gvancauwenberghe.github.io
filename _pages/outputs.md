@@ -10,7 +10,7 @@ author_profile: true
 A list of publications I authored throughout my career. 
   
 ## PhD Thesis
-Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven.
+Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven. ([View Publication](https://lirias.kuleuven.be/1739126&lang=en)
 
 ## Reports _(selection)_
 
@@ -19,7 +19,7 @@ Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Ma
 
 Vancauwenberghe, G., & van Loenen, B. (2019). **Governing Open Spatial Data Infrastructures: The Case of the United Kingdom**. In:  Rodríguez Bolívar M., Bwalya K., Reddick C. (Eds.), Governance Models for Creating Public Value in Open Data Initiatives. Public Administration and Information Technology, vol 31. Springer, Champ, pp. 33-54. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Van Loenen, B., Vancauwenberghe, G., & Crompvoets, J. (2018). **Open Data Exposed**. Information Technology and Law Series, vol. 30. The Hague: TMC Asser Press. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Van Loenen, B., Vancauwenberghe, G., & Crompvoets, J. (2018). **Open Data Exposed**. Information Technology and Law Series, vol. 30. The Hague: TMC Asser Press. [View Publication](https://link.springer.com/book/10.1007/978-94-6265-261-3)
 
 Vancauwenberghe, G., & van Loenen, B. (2018). **Exploring the Emergence of Open Spatial Data Infrastructures: Analysis of Recent Developments and Trends in Europe**. In: Saeed S., Ramayah T., & Mahmood Z. (Eds.), User Centric E-government. Challenges and opportunities. New York: Springer International Publishing, pp. 23-45. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 

@@ -1,6 +1,6 @@
 ---
-title: "SEED4NA Curriculum on SDI & EO"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/seed4na.png'>"
+title: "EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake (2018-2022)"
+excerpt: "GI/EO job advertisements analysis<br/><img src='/images/eo4geo.png'>"
 collection: portfolio
 ---
 

@@ -42,19 +42,19 @@ Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., Vandenbroucke, D. (2010). **
 
 Hofer, B., Casteleyn, S., Aguilar‐Moreno, E., Missoni‐Steinbacher, E. M., Albrecht, F., Lemmens, R., Lang, S., Albrecht, J., Stelmaszczuk‐Górska, M., Vancauwenberghe, G. & Monfort‐Muriach, A. (2020). **Complementing the European earth observation and geographic information body of knowledge with a business‐oriented perspective**. Transactions in GIS, 24(3), 587-601. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Crompvoets, J., Vancauwenberghe, G., Ho, S., Masser, I., & de Vries, W. T. (2018). **Governance of national spatial data infrastructures in Europe**. International Journal of Spatial Data Infrastructures Research, 13.International Journal of Spatial Data Infrastructures Research, 13.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Crompvoets, J., Vancauwenberghe, G., Ho, S., Masser, I., & de Vries, W. T. (2018). **Governance of national spatial data infrastructures in Europe**. International Journal of Spatial Data Infrastructures Research, 13.International Journal of Spatial Data Infrastructures Research, 13. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., Valečkaitė, K., van Loenen, B. & Welle Donker, F. (2018). **Assessing the Openness of Spatial Data Infrastructures: Towards a Map of Open SDI**. International Journal of Spatial Data Infrastructures Research, 13.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Vancauwenberghe, G., Valečkaitė, K., van Loenen, B. & Welle Donker, F. (2018). **Assessing the Openness of Spatial Data Infrastructures: Towards a Map of Open SDI**. International Journal of Spatial Data Infrastructures Research, 13. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vandenbroucke, D. & Vancauwenberghe, G. (2016). **Towards a new Body of Knowledge for Geographic Information Science and Technology**. International Scientific Journal Micro Macro & Mezzo Geo Information, 6, 7-19.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Vandenbroucke, D. & Vancauwenberghe, G. (2016). **Towards a new Body of Knowledge for Geographic Information Science and Technology**. International Scientific Journal Micro Macro & Mezzo Geo Information, 6, 7-19. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Dessers, E., Vancauwenberghe, G., Vandenbroucke, D., Crompvoets, J., & Van Hootegem, G. (2014). **Analysing spatial data performance in inter-organisational processes**. International Journal of Digital Earth.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Dessers, E., Vancauwenberghe, G., Vandenbroucke, D., Crompvoets, J., & Van Hootegem, G. (2014). **Analysing spatial data performance in inter-organisational processes**. International Journal of Digital Earth. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Dessers, E., Crompvoets, J., Janssen, K., Vancauwenberghe, G., Vandenbroucke, D., Van Haverbeke, L., & Van Hootegem, G. (2012). **A Multidisciplinary Research Framework for Analysing the Spatial Enablement of Public Sector Processes**. International Journal of Spatial Data Infrastructures Research, 7, 125-150.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Dessers, E., Crompvoets, J., Janssen, K., Vancauwenberghe, G., Vandenbroucke, D., Van Haverbeke, L., & Van Hootegem, G. (2012). **A Multidisciplinary Research Framework for Analysing the Spatial Enablement of Public Sector Processes**. International Journal of Spatial Data Infrastructures Research, 7, 125-150. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vancauwenberghe, G., Crompvoets, J., & Bouckaert, G. (2011). **Interorganizational Information Sharing as a Driver of Change in Public Administration**. The NISPAcee Journal of Public Administration and Policy, 3 (2), 87-106.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Vancauwenberghe, G., Crompvoets, J., & Bouckaert, G. (2011). **Interorganizational Information Sharing as a Driver of Change in Public Administration**. The NISPAcee Journal of Public Administration and Policy, 3 (2), 87-106. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
-Vandenbroucke, D., Crompvoets, J., Vancauwenberghe, G., Dessers, E., & Van Orshoven, J. (2009). **A Network Perspective on Spatial Data Infrastructures: Application to the Sub-national SDI of Flanders (Belgium)**. Transactions in GIS, 13 (1), 105-122.[View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
+Vandenbroucke, D., Crompvoets, J., Vancauwenberghe, G., Dessers, E., & Van Orshoven, J. (2009). **A Network Perspective on Spatial Data Infrastructures: Application to the Sub-national SDI of Flanders (Belgium)**. Transactions in GIS, 13 (1), 105-122. [View Publication](https://link.springer.com/chapter/10.1007/978-981-32-9915-3_5)
 
 
 ## Conference papers & presentations _(selection)_

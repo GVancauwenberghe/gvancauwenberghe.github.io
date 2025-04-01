@@ -79,6 +79,9 @@ author_profile: true
 **Description:** The general purpose of the project was to demonstrate the added-value of remote sensing in three specific international development cooperation projects in order to develop a long-term, robust and sustainable framework for using Copernicus observation data in development cooperation. In particular, the study team supported DG DEVCO with the preparation of three feasibility studies covering a thorough situation analysis (including assessment of the relevant legal frameworks), a technical/operational analysis and economic analysis for three candidate pilot projects. The three projects were identified as (a) an emergency service data centre in Panama, (b) reuse of water management remote sensing globally, and (c) reuse of land use remote sensing globally.
 
 **Activities performed:** 
+* Definition of project scope, methodology, stakeholder engagement strategy, risk assessment and detailed work plan in the project proposal and inception report
+* Feasibility assessments covering also the legal, governance and economic aspects and financial risks of various projects
+* Interviews with experts and key stakeholders 
 
 ## Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
 **Year:** 2019-2020
@@ -90,6 +93,11 @@ author_profile: true
 **Description:** The aim of the assignment was to support the Government of Mozambique in its understanding and the  implementation of international and other standards as part of NSDI developments, and to set-up and improve procedures for the production of geographic information. The aim was to help reducing the costs of implementing and maintaining the national Spatial Data Infrastructure (SDI) of Mozambique and to facilitate policy and decision making. Other aspects addressed in the project included the establishment of a national SDI governance structure and the design of an approach for measuring and monitoring the benefits of the SDI.
 
 **Activities performed:** 
+* Detailed assessment of the use and exchange of geospatial data in Mozambique
+* Training on SDI and (open) data policies, covering aspects such as open data, licensing models, data sharing arrangements and legal frameworks 
+* Collection of best practices in cost-benefit analyses of Spatial Data Infrastructures
+* Guidance on quality management systems and standards related to geospatial data
+* Interviews and workshops with local stakeholders
 
 ## Towards an Open Spatial Data Infrastructure in Peru
 **Year:** 2019-2020
@@ -100,4 +108,9 @@ author_profile: true
 
 **Description:** The aim of this project was to evaluate the openness of the Peruvian Spatial Data Infrastructure (SDI), which consists of a set of policies, standards, organizations, human and technological resources to facilitate the access to and sharing of spatial data in Peru. In an open SDI, also citizens can participate in and benefit from the development of the infrastructure. With this new approach to the study and assessment of SDIs we aimed to contribute to the realization of a more open SDI in Peru as a key enabler for improved public services, transparency, accountability, and citizen participation. In this project, an assessment framework was developed to assess the openness of SDIs, with particular attention to the participation of citizens and the delivery of spatially enabled e-services to citizens as key dimension of Open SDI. This framework was applied to the SDI in order to gain insight in the openness of the Peruvian SDI and contribute to the development of an action plan towards a more Open SDI in Peru. The project was executed in collaboration with local researchers and NGOs. 
 
-**Activities performed:** 
+**Activities performed:**
+* Collection of best practices in the assessment of (open) SDIs
+* Review & revision of the Open SDI Assessment Framework
+* Assessment of access and use restrictions to geospatial data
+* Teaching on SDI & Digital Transformation
+* Workshops with local stakeholders in different sectors 

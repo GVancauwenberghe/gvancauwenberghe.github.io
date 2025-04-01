@@ -21,17 +21,17 @@ European Commission: Directorate-General for Defence Industry and Space, Deloitt
 
 European Commission: Joint Research Centre, Nasi, G. Buongiorno S. C., et. al. (2022). **Leveraging the power of location information and technologies to improve public services at local level – Case study analysis**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/67126)
 
-Dangol, A., Vandenbroucke, D., Vancauwenberghe, G., Boguslawski, R., Borzacchiello , M.T, Pignatelli, F. (2020). **Improving the use of location information in e-government processes: methodology and use case**. Luxembourg: Publications Office of the European Union.
+European Commission: Joint Research Centre, Dangol, A., Vandenbroucke, D., Vancauwenberghe, G., Boguslawski, R., Borzacchiello , M.T, Pignatelli, F. (2020). **Improving the use of location information in e-government processes: methodology and use case**. Luxembourg: Publications Office of the European Union.[View Publication](https://data.europa.eu/doi/10.2760/073656)
 
-Vandenbroucke , D., Vancauwenberghe, G., Boguslawski, R., Pignatelli, F. (2020). **Design of location-enabled e-government services**. Luxembourg: Publications Office of the European Union.
+European Commission: Joint Research Centre, Vandenbroucke , D., Vancauwenberghe, G., Boguslawski, R., Pignatelli, F. (2020). **Design of location-enabled e-government services**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/860082). 
 
-Gruijthuijsen, W., De Brito Pontes, M.D S., Vancauwenberghe, G. (2019). **Skills shortages, gaps and mismatches between supply and (future) demand**. EO4GEO Management Report, Report No. D1.5, 1-77.
+Gruijthuijsen, W., De Brito Pontes, M.D S., Vancauwenberghe, G. (2019). **Skills shortages, gaps and mismatches between supply and (future) demand**. EO4GEO Management Report, Report No. D1.5, 1-77. [View Publication](http://www.eo4geo.eu/download/eo4geo_d1-5-skills-shortages-gaps-and-mismatches-between-supply-and-future-demand_v2-1/?wpdmdl=3844&masterkey=5cfe852d29fdf).
 
 European Commission: Joint Research Centre, Barbero, M., Lopez Potes M., Vancauwenberghe G., & Vandenbroucke D. (2019). **The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/324167)
 
-Vancauwenberghe, G., & van Loenen, B. (2020). **SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda. AGILE 2018 Pre-conference Workshop Report**. Delft: TU Delft.
+Vancauwenberghe, G., & van Loenen, B. (2020). **SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda. AGILE 2018 Pre-conference Workshop Report**. Delft: TU Delft.[View Publication](http://resolver.tudelft.nl/uuid:0b472322-ab50-4c3d-ad48-e6946e2b754d). 
 
-Vancauwenberghe, G., & van Loenen, B. (2018). **Towards a Map of Open SDI/INSPIRE. INSPIRE Conference 2018 Workshop Report**. Delft: TU Delft. 
+Vancauwenberghe, G., & van Loenen, B. (2018). **Towards a Map of Open SDI/INSPIRE. INSPIRE Conference 2018 Workshop Report**. Delft: TU Delft. [View Publication](http://resolver.tudelft.nl/uuid:9fd7a958-c840-4247-a707-a89cd29760ec). 
 
 European Commission: Joint Research Centre, Boguslawski, R., Vandenbroucke, D., Vancauwenberghe, G., Pignatelli, F. et al. (2016). **European Union Location Framework – Guidelines for public procurement of geospatial technologies**. Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2788/374047).
 

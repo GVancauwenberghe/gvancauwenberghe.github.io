@@ -40,7 +40,7 @@ author_profile: true
 
 **Outputs:** 
 
-### SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
+## SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
 **Year:** 2020-2024
 
 **Client/funding:** European Commission – Erasmus+ Capacity Building for Higher Education
@@ -51,7 +51,7 @@ author_profile: true
 
 **Outputs:** 
 
-### Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects
+## Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects
 **Year:** 2019-2020
 
 **Client/funding:** European Commission - DG DEVCO
@@ -62,7 +62,7 @@ author_profile: true
 
 **Outputs:** 
 
-### Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
+## Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
 **Year:** 2019-2020
 
 **Client/funding:** World Bank and Government of Mozambique – Ministry of Transport and Communications

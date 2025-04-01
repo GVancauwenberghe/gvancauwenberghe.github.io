@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Consultancy for the Development of NSDI Policy Documents in Georgia
-**Year:**
+**Year:** 2024-2025
 
 **Client/funding:**
 
@@ -19,7 +19,7 @@ author_profile: true
 **Outputs:** 
 
 ## Supporting Services to the National Spatial Data Infrastructure of Moldova
-**Year:**
+**Year:** 2022-2024
 
 **Client/funding:**
 
@@ -30,7 +30,7 @@ author_profile: true
 **Outputs:** 
 
 ## International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center 
-**Year:**
+**Year:** 2021-2022
 
 **Client/funding:**
 
@@ -41,7 +41,7 @@ author_profile: true
 **Outputs:** 
 
 ## SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
-**Year:**
+**Year:** 2020-2024
 
 **Client/funding:**
 
@@ -52,7 +52,7 @@ author_profile: true
 **Outputs:** 
 
 ## Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects
-**Year:**
+**Year:** 2019-2020
 
 **Client/funding:**
 
@@ -63,7 +63,7 @@ author_profile: true
 **Outputs:** 
 
 ## Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
-**Year:**
+**Year:** 2019-2020
 
 **Client/funding:**
 
@@ -74,7 +74,7 @@ author_profile: true
 **Outputs:** 
 
 ## Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique
-**Year:**
+**Year:** 2019-2020
 
 **Client/funding:**
 

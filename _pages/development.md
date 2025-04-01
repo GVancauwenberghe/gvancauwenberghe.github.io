@@ -17,6 +17,10 @@ author_profile: true
 **Description:** Georgia has been progressively working towards establishing a National Spatial Data Infrastructure (NSDI) to strengthen geospatial data management and increase the use of geospatial information for evidence-based decision-making.  In the recent NSDI law, the National Agency of Public Registry (NAPR) was designated as the Coordinator for the NSDI of Georgia. The main objective of the assignment is to support the National Agency of Public Registry in the preparation of three key policy documents related to the NSDI. The Terms and Conditions of Access, Use and Sharing of the Spatial Data Resources Published on the National Geoportal,  The National Profile of the Data Exchange and Joint Use Model and the NSDI Strategy.
 
 **Activities performed:** 
+* Guidance and capacity building on SDI licensing and SDI business models
+* Collection and analysis of international good practices in SDI licensing and SDI business models
+* Design of the licensing model and business model for the NSDI
+* Review and revision of the NSDI Strategy
 
 ## Supporting Services to the National Spatial Data Infrastructure of Moldova
 **Year:** 2022-2024
@@ -28,6 +32,12 @@ author_profile: true
 **Description:** With this project the National Mapping and Cadastre Agency of Moldova (ALRC) aimed to get support for the development of the NSDI of Moldova. The focus was on two specific objectives: 1) Support to the implementation of the NSDI Action Plan, Business Model and Business Plan and 2) Support to the NSDI use-case development. The work on the Action and Business Plan, and Business Model entails many aspects, including the monitoring and evaluating the status and impact of the SDI. The use case component of the project deals with developing and implementing specific use cases to demonstrate the practical use of the available data sets to meet the government priority needs.
 
 **Activities performed:** 
+* Elaboration of the Business Model of the NSDI Centre of Innovation in Moldova, including an analysis of international best practices in NSDI Business Models
+* Development of Roadmap and Implementation Plan for the Centre, including a detailed cost-benefit analysis
+* Design of Monitoring & Evaluation approach for the NSDI
+* Identification of NSDI use cases
+* Preparation of future project proposals
+
 
 ## International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center 
 **Year:** 2021-2022

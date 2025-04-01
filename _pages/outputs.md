@@ -41,14 +41,9 @@ Vandenbroucke, D., & Vancauwenberghe, G. (2015). **Geographic Information – Ne
 
 Vandenbroucke, D., Vancauwenberghe, G. (2014). **INSPIRE Strategy Romania**. Bucharest: ANCPI.
 
-Vandenbroucke, D., Vancauwenberghe, G., Crompvoets, J., Pignatelli, F., Smits, P., Boguslawski, R., Vowles, G., Borzacchiello, M.T. (2014). **Assessment of the Conditions for a European Union Location Framework**. Luxembourg: Publications Office of the European Union.
+European Commission: Joint Research Centre, Vandenbroucke, D., Vancauwenberghe, G., Crompvoets, J., Pignatelli, F., Smits, P., Boguslawski, R., Vowles, G., Borzacchiello, M.T. (2014). **Assessment of the Conditions for a European Union Location Framework**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2788/37545).
 
 Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). **Study on the Geo-ICT sector in Europe**. SmeSpire. [View Publication](http://www.smespire.eu/published-by-smespire-the-first-study-on-the-geo-ict-sector-in-europe/)
-
-Vancauwenberghe, G., Crompvoets, J., Bouckaert, G., Kestens, H., Callens, H. (2011). **Een gemeentebrede kijk op GIS. Kwantitatieve analyse van het gebruik van geo-informatie in de Vlaamse gemeenten**. Leuven: Spatialist.
-
-Crompvoets, J., Dessers, E., Geudens, T., Janssen, K., Vancauwenberghe, G., Vandenbroucke, D., Van hoogenbemt, M. (2009). **Het GDI-netwerk in Vlaanderen. Een kwantitatieve verkenning van het gebruik en de uitwisseling van geodata in Vlaanderen**. Leuven: Instituut voor de Overheid.
-
 
 
 ## Books and book chapters _(selection)_

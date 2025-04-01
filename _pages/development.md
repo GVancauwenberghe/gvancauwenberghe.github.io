@@ -49,6 +49,9 @@ author_profile: true
 **Description:** The major objective of this project was to support the establishment and operation of the Mekong Delta Center by presenting international good practices of funding Spatial Data Infrastructures (SDIs) and providing detailed recommendations for the funding of the Center. The project consisted a four main activities: 1) a literature review on international experiences in sustainable funding of SDIs and similar initiatives; 2) a series of case studies of SDIs with operational and funding modalities other than central government budget funds; 3) an assessment of the regulations on Vietnamese public service organizations’ funding and governance; and 4) the development of recommendations for the long-term funding of the Mekong Delta Center. Responsible for the literature review on SDI business models and funding models, the design and implementation of six cases studies on international SDI initiatives and the development of recommendations covering the different phases of establishing and operating an SDI, based on the results and findings of the literature review, case studies and assessment of the local context. 
 
 **Activities performed:** 
+* Literature review on SDI business models and funding models
+* In-depth analysis of the business and funding model of six international SDI initiatives
+* Drafting of recommendations on the business and funding model of the Mekong Data Center
 
 ## SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
 **Year:** 2020-2024
@@ -59,7 +62,12 @@ author_profile: true
 
 **Description:** The main objective of SEED4NA was to improve the quality of higher education in the fields of SDI and EO, and to enhance its relevance for the labour market and society through the development of new and innovative SDI/EO curricula and the improvement of existing curricula. SEED4NA focused on SDI and EO education and training in four North-African countries: Algeria, Egypt, Morocco and Tunisia. Specific objectives of SEED4NA were: to investigate, determine and analyze the needs and requirements for SDI/EO education in North Africa; to develop, test and adapt new curricula, courses, learning material and tools within the field of SDI and EO;  to improve the education and teaching skills and competences of the teachers involved in SDI/EO education at partner HEIs; and to increase the impact of the partner HEIs on SDI/EO developments in society.
 
-**Activities performed:** 
+**Activities performed:**
+* Definition of project scope, methodology, stakeholder engagement strategy, risk assessment and detailed work plan
+* Engagement of NSDI stakeholders in Algeria, Egypt, Morocco and Tunisia
+* Developing and implementing curriculum on SDI and EO
+* Provision of training on topics such as SDI implementation, SDI Assessment and SDI business and funding models
+* Monitoring and evaluation of the project and its impact
 
 ## Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects
 **Year:** 2019-2020

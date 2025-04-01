@@ -12,12 +12,15 @@ I'm a senior consultant, researcher and research manager in the domains of **geo
 Career Snapshot
 ------
 * **[18 years of expertise](/projects)** in consultancy and research, specializing in geospatial data, data infrastructures, and digital transformation
-* **[Extensive experience](/expert)** in designing, implementing, managing, and evaluating international projects
+* Contributed to **[35+ projects](/projects)** in international development, research, consultancy, and capacity building
 * Author of **[over 100 publications](/outputs)**, including research papers, reports, book chapters and articles
 * Extensive international experience **[across 30+ countries](/talkmap)** in diverse regions
 * **[PhD in Social Sciences](/cv)** at KU Leuven (Belgium) on the topic 'Coordination within Spatial Data Infrastructures' 
 * Awarded a **[Marie Skłodowska-Curie Postdoctoral Fellowship](/cv)** at TU Delft (Netherlands) on the topic 'Governance of open geospatial data and data infrastructures'
-
+* **[Extensive experience](/expert)** in designing, implementing, managing, and evaluating international projects
+* **Provided support to **various key EU policy initiatives**, on geospatial data, open data, digital transformation & space
+* Owner of GEONOTGEO, a recently established consultancy company targetting sustainable development and policy impact through research and capacity building
+  
 Expertise
 ------
 

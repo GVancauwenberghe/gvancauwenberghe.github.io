@@ -13,7 +13,7 @@ A list of publications I authored throughout my career.
 Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven. [View Publication](https://lirias.kuleuven.be/1739126&lang=en)
 
 ## Reports _(selection)_
-European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2024). **Supporting standardisation in the field of Space Traffic Management (STM) – EU space label – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/0215426). 
+European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2024). **Supporting standardisation in the field of Space Traffic Management (STM) – EU space label – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/0215426) 
 
 European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2022). **Pilot project on space traffic management – The rise of importance of space traffic management (STM) – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/3462708)
 

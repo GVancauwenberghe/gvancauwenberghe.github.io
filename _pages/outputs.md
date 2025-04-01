@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 A list of publications I authored throughout my career. 
-* [**PhD Thesis**](https://github.com/GVancauwenberghe/gvancauwenberghe.github.io/edit/master/_pages/outputs.md#phd-thesis)
-* [**Reports**](https://gvancauwenberghe.github.io/projects)
-* [**Books and book chapters**](https://github.com/GVancauwenberghe/gvancauwenberghe.github.io/edit/master/_pages/outputs.md#books-and-book-chapters)
-* [**Articles**](https://gvancauwenberghe.github.io/projects)
+* [**PhD Thesis**](https://gvancauwenberghe.github.io/outputs.md#phd-thesis)
+* [**Reports**](https://gvancauwenberghe.github.io/outputs.md#reports-selection) 
+* [**Books and book chapters**](https://gvancauwenberghe.github.io/outputs.md#books-and-book-chapters)
+* [**Articles**](https://gvancauwenberghe.github.io/outputs.md#articles)
 * [**Conference papers & presentations**](https://gvancauwenberghe.github.io/projects)
   
 ## PhD Thesis

@@ -12,6 +12,8 @@ A list of publications I authored throughout my career.
 ## PhD Thesis
 Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium)** [In Dutch]. KU Leuven: Leuven.
 
+## Reports _(selection)_
+
 ## Books and book chapters
 Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). **Geospatial Information Infrastructures**. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.), Manual of Digital Earth. Singapore: Springer, pp. 161–190.
 

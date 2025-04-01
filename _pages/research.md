@@ -12,9 +12,9 @@ author_profile: true
 
 **Client/funding:** 
 
-**Role in the project:** 
+**Role in the project:** Scientific Expert
 
-**Description:** Scientific Expert
+**Description:** 
 
 **Activities performed:** 
 * 
@@ -24,9 +24,9 @@ author_profile: true
 
 **Client/funding:** 
 
-**Role in the project:** 
+**Role in the project:** Senior Researcher
 
-**Description:** Senior Researcher
+**Description:** 
 
 **Activities performed:** 
 * 

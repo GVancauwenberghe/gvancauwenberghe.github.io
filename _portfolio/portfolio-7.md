@@ -1,5 +1,5 @@
 ---
-title: "GI/EO job advertisements analysis"
+title: "ELISE Knowledge Transfer (2019-2021)"
 excerpt: "Short of portfolio item number 1<br/><img src='/images/eo4geo.png'>"
 collection: portfolio
 ---

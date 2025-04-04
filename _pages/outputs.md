@@ -45,7 +45,7 @@ Gruijthuijsen, W., De Brito Pontes, M.D S., Vancauwenberghe, G. (2019). **Skills
 
 European Commission: Joint Research Centre, Barbero, M., Lopez Potes M., Vancauwenberghe G., & Vandenbroucke D. (2019). **The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2760/324167)
 
-Vancauwenberghe, G., & van Loenen, B. (2020). **SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda. AGILE 2018 Pre-conference Workshop Report**. Delft: TU Delft. [View Publication](http://resolver.tudelft.nl/uuid:0b472322-ab50-4c3d-ad48-e6946e2b754d). 
+Vancauwenberghe, G., & van Loenen, B. (2018). **SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda. AGILE 2018 Pre-conference Workshop Report**. Delft: TU Delft. [View Publication](http://resolver.tudelft.nl/uuid:0b472322-ab50-4c3d-ad48-e6946e2b754d). 
 
 Vancauwenberghe, G., & van Loenen, B. (2018). **Towards a Map of Open SDI/INSPIRE. INSPIRE Conference 2018 Workshop Report**. Delft: TU Delft. [View Publication](http://resolver.tudelft.nl/uuid:9fd7a958-c840-4247-a707-a89cd29760ec). 
 

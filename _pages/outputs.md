@@ -15,6 +15,12 @@ Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructur
 ## Reports _(selection)_
 European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2024). **Supporting standardisation in the field of Space Traffic Management (STM) – EU space label – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/0215426) 
 
+Vancauwenberghe, G. (2024). **Guidelines for policy co-design processes. Second Version**. USAGE - Project Deliverable 2.5.
+
+Vancauwenberghe, G., Thiru, N. & Vandenbroucke, D. (2023). **Trends and challenges on location data interoperability education and training**. DIS4SME - Project Deliverable 2.1. 
+
+Vancauwenberghe, G. & Casiano Flores, C.(2023). **Guidelines for policy co-design processes. First Version**. USAGE - Project Deliverable 2.4. [View Publication]([https://data.europa.eu/doi/10.2889/0215426](https://drive.google.com/file/d/1UO_nL7T_dBu_ptPNcZEH3KLDj22w3T9A/view) 
+
 European Commission: Joint Research Centre, Vancauwenberghe, G. and Hernández Quirós, L. (2022). **Evolution of the access to spatial data for environmental purposes – A study on the past, present and future of spatial data infrastructures in Europe**. Luxembourg: Publications Office of the European Union, 2022. [View Publication](https://data.europa.eu/doi/10.2760/723430). 
 
 European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2022). **Pilot project on space traffic management – The rise of importance of space traffic management (STM) – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/3462708)

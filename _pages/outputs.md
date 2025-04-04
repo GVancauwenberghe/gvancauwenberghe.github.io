@@ -15,17 +15,21 @@ Vancauwenberghe, G. (2013). **Coordination within the Spatial Data Infrastructur
 ## Reports _(selection)_
 European Commission: Directorate-General for Defence Industry and Space, Deloitte & KU Leuven (2024). **Supporting standardisation in the field of Space Traffic Management (STM) – EU space label – Final report**. Luxembourg: Publications Office of the European Union. [View Publication](https://data.europa.eu/doi/10.2889/0215426) 
 
-Vancauwenberghe, G. (2024). **Guidelines for policy co-design processes. Second Version**. USAGE - Project Deliverable 2.5.
+Vancauwenberghe, G. (2024). **Guidelines for policy co-design processes - Second Version**. USAGE - Project Deliverable 2.5.
 
 Vancauwenberghe, G. (2024). **NSDI Monitoring & Evaluation Methodology**. Consulting Services to supporting NSDI Action Plan and Business Model Implementation - Deliverable 2.1.
 
+Vancauwenberghe G. (2024). **SEED4NA Final Report**. Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa. [View Publication](https://erasmus-plus.ec.europa.eu/nl/projects/search/details/610328-EPP-1-2019-1-BE-EPPKA2-CBHE-JP)
+
 Unger, E., Crompvoets, J., & Vancauwenberghe, G. (2024). **D3.3 Industry Needs Assessment**. Consulting Services to supporting NSDI Action Plan and Business Model Implementation - Deliverable 3.3.
+
+Vancauwenberghe, G. & Lacroix, L. (2023). **Specification of project curriculum in SDI and EO**. SEED4NA Project Deliverable 1.4. [View Publication](https://ec.europa.eu/programmes/erasmus-plus/project-result-content/ff7f2ba0-1662-42a4-8bd7-910143e22766/SEED4NA_D1.4_Specification_of_project_curriculum_in_SDI_and_EO_final.pdf) 
 
 Vancauwenberghe, G. (2023). **Selection of priority use cases**. Consulting Services to supporting NSDI Action Plan and Business Model Implementation - Deliverable 3.4.
 
-Vancauwenberghe, G., Thiru, N. & Vandenbroucke, D. (2023). **Trends and challenges on location data interoperability education and training**. DIS4SME - Project Deliverable 2.1. 
+Vancauwenberghe, G., Thiru, N., & Vandenbroucke, D. (2023). **Trends and challenges on location data interoperability education and training**. DIS4SME - Project Deliverable 2.1. 
 
-Vancauwenberghe, G., & Casiano Flores, C.(2023). **Guidelines for policy co-design processes. First Version**. USAGE - Project Deliverable 2.4. [View Publication](https://drive.google.com/file/d/1UO_nL7T_dBu_ptPNcZEH3KLDj22w3T9A/view) 
+Vancauwenberghe, G., & Casiano Flores, C.(2023). **Guidelines for policy co-design processes - First Version**. USAGE - Project Deliverable 2.4. [View Publication](https://drive.google.com/file/d/1UO_nL7T_dBu_ptPNcZEH3KLDj22w3T9A/view) 
 
 European Commission: Joint Research Centre, Vancauwenberghe, G. and Hernández Quirós, L. (2022). **Evolution of the access to spatial data for environmental purposes – A study on the past, present and future of spatial data infrastructures in Europe**. Luxembourg: Publications Office of the European Union, 2022. [View Publication](https://data.europa.eu/doi/10.2760/723430). 
 

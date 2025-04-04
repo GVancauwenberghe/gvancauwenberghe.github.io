@@ -27,7 +27,7 @@ Vancauwenberghe, G. & Lacroix, L. (2023). **Specification of project curriculum 
 
 Vancauwenberghe, G. (2023). **Selection of priority use cases**. Consulting Services to supporting NSDI Action Plan and Business Model Implementation - Deliverable 3.4.
 
-Vancauwenberghe, G., Thiru, N., & Vandenbroucke, D. (2023). **Trends and challenges on location data interoperability education and training**. DIS4SME - Project Deliverable 2.1. [View Publication](/files/DIS4SME_D2.1.pdf).
+Vancauwenberghe, G., Thiru, N., & Vandenbroucke, D. (2023). **Trends and challenges on location data interoperability education and training**. DIS4SME - Project Deliverable 2.1. [View Publication](https://gvancauwenberghe.github.io/files/DIS4SME_D2.1.pdf).
 
 Vancauwenberghe, G., & Casiano Flores, C.(2023). **Guidelines for policy co-design processes - First Version**. USAGE - Project Deliverable 2.4. [View Publication](https://drive.google.com/file/d/1UO_nL7T_dBu_ptPNcZEH3KLDj22w3T9A/view) 
 

@@ -30,8 +30,7 @@ Building on my background in public administration research, I have gained exper
 * SPATIALIST - SDI for Public Sector Innovation (2007-2011)
 
 ## Digital transformation
-
-This area of expertise is demonstrated in projects such as:
+Initially focused on the role of geospatial data and data infrastructures in digital transformation, I have broadened my expertise to encompass all aspects of digital transformation. This includes driving innovation through emerging technologies, fostering organizational change, and implementing data-driven strategies. This area of expertise is demonstrated in projects such as:
 * DIS4SME - Data Interoperability Skills for SMEs (2023-2024)
 * ELISE Knowledge Transfer: Location Interoperability for Digital Transformation (2019-2020)
 * The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019)

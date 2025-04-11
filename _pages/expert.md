@@ -49,8 +49,7 @@ Examples from my work in this area include:
 * EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake (2018-2022)
 
 ## Monitoring & evaluation
-
-This expertise is reflected in projects such as:
+Monitoring and evaluation (M&E) is a dedicated area of my expertise, focused on assessing the performance and impact of policies, programmes, and projects. I support the development of tailored M&E frameworks, combining qualitative and quantitative methods to generate accurate and actionable insights. This expertise is reflected in projects such as:
 * Impact Assessment for the new EU Space Law (2023-2024)
 * The costs and benefits of geospatial web services of the national Spanish SDI-node (2020-2021)
 * Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020)

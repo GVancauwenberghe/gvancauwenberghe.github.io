@@ -20,8 +20,7 @@ Projects in this area include:
 * GI-N2K – Geographic Information Need to Know (2013-2016)
 
 ## Data sharing & data infrastructures
-
-Illustrative projects in this area include:
+Data sharing is a key area of focus in my work, with a particular emphasis on setting up effective data infrastructures and supporting sustainable data ecosystems. I have been working on promoting data transparency and data sharing, developing licensing models and business models and optimizing legal & instititunal frameworks for effective data sharing. Illustrative projects in this area include:
 * USAGE – Urban Data Space for Green Deal (2022-2025)
 * ODECO – Towards a sustainable Open Data ECOsystem (2021-2025)
 * Towards an Open Spatial Data Infrastructure in Peru (2019-2020)

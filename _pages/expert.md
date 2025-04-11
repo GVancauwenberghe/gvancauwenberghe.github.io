@@ -11,7 +11,7 @@ A list of all the posts and pages found on the site. For you robots out there, t
 
 src='/images/governance.png'
 
-<br/><img src='/images/expert.png'>
+<br/><img src='/images/expert2.png'>
 
 
 ## Geospatial data

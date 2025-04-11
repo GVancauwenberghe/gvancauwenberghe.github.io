@@ -11,21 +11,23 @@ My professional expertise can be summarised in **eight key areas**, which includ
 <br/><img src='/images/expert4.png'>
 
 
-## Geospatial data
+## Geospatial data & technology
 
 
 ## Data sharing & data infrastructures
 
 
+## Governance and institutional frameworks
+
+
 ## Digital transformation
 
+## Policy & decision making
 
-## Project quality & impact
+## Skills & Capacity building
 
+## Monitoring & evaluation
 
-## Capacity building
-
-
-## Responsible research
+## Responsible research & innovation
 
 

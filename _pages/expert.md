@@ -30,7 +30,7 @@ Illustrative projects in this area include:
 Project examples in this area are:
 * International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center (2021-2022)
 * Effective Governance of Open Spatial Data (2016-2018)
-* 
+* SPATIALIST - SDI for Public Sector Innovation (2007-2011)
 
 ## Digital transformation
 
@@ -64,6 +64,7 @@ This expertise is reflected in projects such as:
 
 Relevant project examples include:
 * Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation (2019)
+* CENTRIC – Centre of Excellence in Territorial management and Cadastre (European Commission – Horizon 2020 Teaming) - Senior GI Expert
 * SmeSpire - A European Community of SMEs built on Environmental Digital Content and Languages (2012-2014)
-* SPATIALIST - SDI for Public Sector Innovation (2007-2011)
+
 

@@ -15,16 +15,15 @@ My professional expertise can be summarised in **eight key areas**, which includ
 
 Project in this area include:
 *
-*
+* GI-N2K – Geographic Information Need to Know (2013-2016)
 *
 
 ## Data sharing & data infrastructures
 
 Illustrative projects in this area include:
-* Supporting Services to the National Spatial Data Infrastructure of Moldova (2022-2024)
+* USAGE – Urban Data Space for Green Deal (2022-2025)
 * ODECO – Towards a sustainable Open Data ECOsystem (2021-2025)
 * Towards an Open Spatial Data Infrastructure in Peru (2019-2020)
-*
 
 ## Governance & institutional frameworks
 

@@ -48,14 +48,13 @@ Skills and capacity building is a central focus of my work, aimed at strengtheni
 * EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake (2018-2022)
 
 ## Monitoring & evaluation
-Monitoring and evaluation (M&E) is a dedicated area of my expertise, focused on assessing the performance and impact of policies, programmes, and projects. I support the development of tailored M&E frameworks, combining qualitative and quantitative methods to generate accurate and actionable insights. This expertise is reflected in projects such as:
+Monitoring and evaluation (M&E) is another dedicated area of my expertise, focused on assessing the performance and impact of policies, programmes, and projects. I support the development of tailored M&E frameworks, combining qualitative and quantitative methods to generate accurate and actionable insights. This expertise is reflected in projects such as:
 * Impact Assessment for the new EU Space Law (2023-2024)
 * The costs and benefits of geospatial web services of the national Spanish SDI-node (2020-2021)
 * Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020)
 
 ## Responsible research & innovation
-
-Relevant project examples include:
+With a strong belief in the importance of research as a driver of positive change, I have developed expertise in responsible research and innovation (RRI). In designing, conducting, and disseminating research, I aim to ensure that outcomes are not only scientifically rigorous but also socially relevant, ethical, and sustainable. Relevant project examples include:
 * Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation (2019)
 * CENTRIC – Centre of Excellence in Territorial management and Cadastre (European Commission – Horizon 2020 Teaming) - Senior GI Expert
 * SmeSpire - A European Community of SMEs built on Environmental Digital Content and Languages (2012-2014)

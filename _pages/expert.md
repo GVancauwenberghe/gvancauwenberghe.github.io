@@ -13,21 +13,57 @@ My professional expertise can be summarised in **eight key areas**, which includ
 
 ## Geospatial data & technology
 
+Project in this area include:
+*
+*
+*
 
 ## Data sharing & data infrastructures
 
+Illustrative projects in this area include:
+*
+*
+*
 
 ## Governance & institutional frameworks
 
+Project examples in this area are:
+*
+*
+*
 
 ## Digital transformation
 
+This area of expertise is demonstrated in projects such as:
+* DIS4SME - Data Interoperability Skills for SMEs (2023-2024)
+* ELISE Knowledge Transfer: Location Interoperability for Digital Transformation (2019-2020)
+* The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019)
+
 ## Policy & decision making
+
+Examples of projects in this area are:
+* Consultancy for the Development of NSDI Policy Documents in Georgia (2024-2025)
+*
+* 
 
 ## Skills & capacity building
 
+Examples from my work in this area include:
+*
+*
+*
+
 ## Monitoring & evaluation
+
+This expertise is reflected in projects such as:
+* Impact Assessment for the new EU Space Law (2023-2024)
+* The costs and benefits of geospatial web services of the national Spanish SDI-node (2020-2021)
+*
 
 ## Responsible research & innovation
 
+Relevant project examples include:
+*
+*
+*
 

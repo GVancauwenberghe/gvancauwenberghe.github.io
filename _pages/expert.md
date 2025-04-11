@@ -37,8 +37,7 @@ This area of expertise is demonstrated in projects such as:
 * The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019)
 
 ## Policy & decision making
-
-Examples of projects in this area are:
+I have been supporting government organizations worldwide across various stages of the policy process, including design, formulation, implementation, and evaluation. This includes providing support in drafting policy and strategic documents, identifying and evaluating policy options, and engaging stakeholders in the policy process through co-creation. Examples of projects in this area are:
 * Consultancy for the Development of NSDI Policy Documents in Georgia (2024-2025)
 * Support to Space Traffic Management Standardisation (2022-2024)
 * INSPIRE Strategy Romania (2014-2015)

@@ -21,15 +21,16 @@ Project in this area include:
 ## Data sharing & data infrastructures
 
 Illustrative projects in this area include:
-*
-*
+* Supporting Services to the National Spatial Data Infrastructure of Moldova (2022-2024)
+* Towards an Open Spatial Data Infrastructure in Peru (2019-2020)
 *
 
 ## Governance & institutional frameworks
 
 Project examples in this area are:
-*
-*
+* International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center 
+* Effective Governance of Open Spatial Data (2016-2018)
+* 
 *
 
 ## Digital transformation
@@ -43,7 +44,7 @@ This area of expertise is demonstrated in projects such as:
 
 Examples of projects in this area are:
 * Consultancy for the Development of NSDI Policy Documents in Georgia (2024-2025)
-*
+* Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020)
 * 
 
 ## Skills & capacity building

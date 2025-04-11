@@ -17,14 +17,14 @@ My professional expertise can be summarised in **eight key areas**, which includ
 ## Data sharing & data infrastructures
 
 
-## Governance and institutional frameworks
+## Governance & institutional frameworks
 
 
 ## Digital transformation
 
 ## Policy & decision making
 
-## Skills & Capacity building
+## Skills & capacity building
 
 ## Monitoring & evaluation
 

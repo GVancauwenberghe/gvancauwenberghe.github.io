@@ -14,7 +14,7 @@ Career Snapshot
 * **[18 years of expertise](/cv-json)** in consultancy and research, specializing in geospatial data, data infrastructures, and digital transformation
 * Contributed to **[35+ projects](/projects)** in international development, research, consultancy, and capacity building
 * Author of **[over 100 publications](/outputs)**, including research papers, reports, book chapters and articles
-* Extensive international experience **[across 30+ countries](/talkmap)** in diverse regions
+* Extensive international experience **[across 20+ countries](/talkmap)** in diverse regions
 * **[PhD in Social Sciences](/portfolio-1)** at KU Leuven (Belgium) on the topic 'Coordination within Spatial Data Infrastructures' 
 * Awarded a **[Marie Skłodowska-Curie Postdoctoral Fellowship](/portfolio-4)** at TU Delft (Netherlands) on the topic 'Governance of open geospatial data and data infrastructures'
 * **[Comprehensive experience](/expert)** in designing, implementing, managing, and evaluating international projects, funded by the World Bank, European Union, and other international organizations

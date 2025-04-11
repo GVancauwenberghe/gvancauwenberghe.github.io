@@ -14,9 +14,9 @@ My professional expertise can be summarised in **eight key areas**, which includ
 ## Geospatial data & technology
 
 Project in this area include:
-*
+* ELISE 2020 - Leveraging the power of location information and technologies to improve public services at local level (2020-2021)
+* Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique (2019-2020)
 * GI-N2K – Geographic Information Need to Know (2013-2016)
-*
 
 ## Data sharing & data infrastructures
 
@@ -49,9 +49,9 @@ Examples of projects in this area are:
 ## Skills & capacity building
 
 Examples from my work in this area include:
+* SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa (2020-2024)
 *
-*
-*
+* EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake (2018-2022)
 
 ## Monitoring & evaluation
 

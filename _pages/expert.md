@@ -13,7 +13,8 @@ My professional expertise can be summarised in **eight key areas**, which includ
 
 ## Geospatial data & technology
 Geospatial data and technologies have been at the core of my work, since the early stages of my career. My experience spans from examining the value of geospatial data over identifying and describing key topics related to GIS&T to supporting the collection, management, use and sharing of geospatial data. 
-Project in this area include:
+
+Projects in this area include:
 * ELISE 2020 - Leveraging the power of location information and technologies to improve public services at local level (2020-2021)
 * Elaboration of standards, norms and procedures in the acquisition and dissemination of geospatial information in Mozambique (2019-2020)
 * GI-N2K – Geographic Information Need to Know (2013-2016)

@@ -18,14 +18,13 @@ Geospatial data and technologies have been at the core of my work, since the ear
 * GI-N2K – Geographic Information Need to Know (2013-2016)
 
 ## Data sharing & data infrastructures
-Data sharing is a key area of focus in my work, with a particular emphasis on setting up effective data infrastructures and supporting sustainable data ecosystems. I have been working on promoting data transparency and data sharing, developing licensing models and business models and optimizing legal & instititunal frameworks for effective data sharing. Illustrative projects in this area include:
+Data sharing is a key area of focus in my work, with a particular emphasis on setting up effective data infrastructures and supporting sustainable data ecosystems. I have been working on promoting data transparency and data sharing, developing licensing models and business models and optimizing legal & institutional frameworks for effective data sharing. Illustrative projects in this area include:
 * USAGE – Urban Data Space for Green Deal (2022-2025)
 * ODECO – Towards a sustainable Open Data ECOsystem (2021-2025)
 * Towards an Open Spatial Data Infrastructure in Peru (2019-2020)
 
 ## Governance & institutional frameworks
-
-Project examples in this area are:
+Building on my background in public administration research, I have gained expertise in governance and institutional frameworks. This allows me to investigate and evaluate governance & institutional frameworks in place, and to support governments and organisations in shaping effective governance structures. Project examples in this area are:
 * International Lessons Learned and Recommendations on Business and Funding Models for Mekong Delta Center (2021-2022)
 * Effective Governance of Open Spatial Data (2016-2018)
 * SPATIALIST - SDI for Public Sector Innovation (2007-2011)

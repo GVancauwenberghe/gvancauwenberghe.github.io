@@ -42,8 +42,7 @@ I have been supporting government organizations worldwide across various stages 
 * INSPIRE Strategy Romania (2014-2015)
 
 ## Skills & capacity building
-
-Examples from my work in this area include:
+Skills and capacity building is a central focus of my work, aimed at strengthening individual and organisational capabilities. My work includes mapping existing training offers, assessing skills needs and gaps, and designing tailored educational and training responses. I am involved in the full cycle of capacity development—from analysing needs and desiging curricula to preparing learning activities and and delivering training. Examples from my work in this area include:
 * SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa (2020-2024)
 * giCASES - Creating a University-Enterprise Alliance for a Spatially Enabled Society (2015-2016)
 * EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake (2018-2022)

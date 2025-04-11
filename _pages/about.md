@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior consultant, researcher and research manager in the domains of **geospatial data, data infrastructures and digital transformation**. My main field of expertise is related to the governance and and policy aspects of geospatial data and data infrastructures.
+I'm a senior consultant, researcher and research manager in the domains of **geospatial data, data infrastructures and digital transformation**. My main field of expertise is related to the governance and policy aspects of geospatial data and data infrastructures.
 
 Career Snapshot
 ------

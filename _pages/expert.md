@@ -50,7 +50,7 @@ Examples of projects in this area are:
 
 Examples from my work in this area include:
 * SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa (2020-2024)
-*
+* giCASES - Creating a University-Enterprise Alliance for a Spatially Enabled Society (2015-2016)
 * EO4GEO - Towards an innovative strategy for skills development and capacity building in the space and geo-information sector to support Copernicus user uptake (2018-2022)
 
 ## Monitoring & evaluation
@@ -64,6 +64,6 @@ This expertise is reflected in projects such as:
 
 Relevant project examples include:
 * Copernicus Service Component R&D needs collection and analysis for Horizon Europe and stakeholder consultation (2019)
-* 
-*
+* SmeSpire - A European Community of SMEs built on Environmental Digital Content and Languages (2012-2014)
+* SPATIALIST - SDI for Public Sector Innovation (2007-2011)
 

@@ -67,4 +67,4 @@ Relevant project examples include:
 * CENTRIC – Centre of Excellence in Territorial management and Cadastre (European Commission – Horizon 2020 Teaming) - Senior GI Expert
 * SmeSpire - A European Community of SMEs built on Environmental Digital Content and Languages (2012-2014)
 
-
+Most of the projects mentioned cut across multiple areas of expertise. Detailed descriptions of these projects can be accessed via [Projects](https://gvancauwenberghe.github.io/projects).

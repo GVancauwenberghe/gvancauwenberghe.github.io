@@ -3,7 +3,7 @@ title: "Evolution of the access to spatial data for environmental purposes (2022
 excerpt: "Problems with spatial data experienced by practioners, differences between 2009 & 2020<br/><img src='/images/eia2.png'>"
 collection: portfolio
 ---
-_This is a summary of the report "European Commission: Joint Research Centre, Vancauwenberghe, G. and Hernández Quirós, L. (2022). Evolution of the access to spatial data for environmental purposes – A study on the past, present and future of spatial data infrastructures in Europe. Luxembourg: Publications Office of the European Union, 2022. The full report can be found [here](https://data.europa.eu/doi/10.2760/723430)._
+_This is a summary of the report 'European Commission: Joint Research Centre, Vancauwenberghe, G. and Hernández Quirós, L. (2022). Evolution of the access to spatial data for environmental purposes – A study on the past, present and future of spatial data infrastructures in Europe. Luxembourg: Publications Office of the European Union, 2022'. The full report can be found [here](https://data.europa.eu/doi/10.2760/723430)._
 
 
 **Solving all the problems related to the access and use of spatial data could result in savings of around € 150 million**. That was one of the main conclusions of the 2009 study on the "Use of spatial data for the preparation of environmental reports in Europe", one of the first in-depth studies on the benefits and impact of spatial data and spatial data infrastructures (SDI).

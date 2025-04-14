@@ -1,6 +1,6 @@
 ---
 title: "SmeSpire - A European Community of SMEs built on Environmental Digital Content and Languages (2012-2014)"
-excerpt: "Impact of INSPIRE among small and medium-sized enterprises in Europe<br/><img src='/images/smespire.png'>"
+excerpt: "Impact of INSPIRE among small and medium-sized enterprises in Europe<br/><img src='/images/smespire2.png'>"
 collection: portfolio
 ---
 

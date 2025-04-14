@@ -1,6 +1,6 @@
 ---
 title: "Evolution of the access to spatial data for environmental purposes (2022)"
-excerpt: "Problems with spatial data experienced by practioners, differences between 2009 & 2020<br/><img src='/images/eia.png'>"
+excerpt: "Problems with spatial data experienced by practioners, differences between 2009 & 2020<br/><img src='/images/eia2.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Effective Governance of Open Spatial Data (2016-2018)"
-excerpt: "Governance of (open) data infrastructures 1<br/><img src='/images/governance.png'>"
+excerpt: "Assessing the Openness of Spatial Data Infrastructures (SDI)<br/><img src='/images/opensdi.png'>"
 collection: portfolio
 ---
 

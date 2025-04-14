@@ -1,6 +1,6 @@
 ---
 title: " The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019)"
-excerpt: "Insights on the role of SDI in Digital Transformation in Spain<br/><img src='/images/sdidt.png'>"
+excerpt: "Insights on the role of SDI in Digital Transformation in Spain<br/><img src='/images/sdidt2.png'>"
 collection: portfolio
 ---
 

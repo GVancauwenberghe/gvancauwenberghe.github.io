@@ -8,9 +8,5 @@ _This is a summary of the report 'Cipriano, P., Easton, C., Roglia, E., Vancauwe
 
 The report '**Study on the Geo-ICT Sector in Europe**' provided an in-depth analysis and comparison of different Geo-ICT companies in Europe and how they relate to INSPIRE. The study’s primary objectives were: 1) assessing the market potential for Geo-ICT companies in relation to INSPIRE, and 2) characterizing obstacles for Geo-ICT companies to enter this market, with focus on knowledge gaps and training needs
 
-The study was carried out in **four stages**:
-* Desk research using published statistics to describe the Geo-ICT SME sector and its context
-* On-line survey to establish an overview of targeted Geo-ICT SMEs in 12 Member States
-* In-depth interviews to establish the detailed circumstances of the targeted Geo-ICT SMEs
-* Workshops where results were discussed and validated in a collaborative approach.
+The study was carried out in **four stages**: desk research using published statistics to describe the Geo-ICT SME sector and its context, an on-line survey to establish an overview of targeted Geo-ICT SMEs in 12 Member States; in-depth interviews to establish the detailed circumstances of the targeted Geo-ICT SMEs and several workshops where results were discussed and validated in a collaborative approach.
 

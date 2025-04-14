@@ -1,6 +1,6 @@
 ---
-title: "ELISE Knowledge Transfer (2019-2021)"
-excerpt: "Short of portfolio item number 1<br/><img src='/images/eo4geo.png'>"
+title: "Evolution of the access to spatial data for environmental purposes (2022)"
+excerpt: "Problems with spatial data experienced by practioners, differences between 2009 & 2020<br/><img src='/images/eia.png'>"
 collection: portfolio
 ---
 

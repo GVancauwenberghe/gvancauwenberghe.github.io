@@ -18,11 +18,11 @@ different higher education institutions in Europe, in 22 different countries. Fo
 
 Six main groups of SDI-courses were identified:
 1. **Spatial Data Infrastructures** (22 courses): e.g. _Spatial data Infrastructure, Geodata Infrastructures, Geoinformation Infrastructure, Geospatial infrastructures, Spatial Information Infrastructures, Information Infrastructures, Open GIS & SDI, SDI Services Implementation, SDI and Standardization, Database engineering, SDI and web mapping_
-2. **Online/web services** (40 courses):
-3. **Data(bases) & data management** (32 courses):
-4. **Standards & interoperability** (13 courses):
+2. **Online/web services** (40 courses): e.g. _Web GIS, Web and Mobile GIS, Web Mapping, Internet GIS, Web Processing services, WebStandards in Geoinformatics, Web service - GIS interfaces, WebGIS and Geoprocessing, Web-GIS technologies, Development of Web GIS Applications, Thematic and Web Cartography_
+3. **Data(bases) & data management** (32 courses): e.g. _Geodata Management, Geodatabases, Databases, Geographic Data Management, Geographic Databases and Geospatial Web Services, Geospatial data, Data formats and interfaces, Design of Geospatial Data Models, Geospatial base data, Geodata Integration_
+4. **Standards & interoperability** (13 courses): e.g. _GI-Standards, Geo-informatics, Interoperability, GIS (Standards Services), Norms and Standards, Open GIS, Standards, Architectures and Services, Spatial Data Infrastructure and Standardization, Standards & Interoperability, Terms and Standards in Geoinformatics, Web Standards in Geoinformatics_
 5. **Legal/organisational/policy/governance aspects** (6 courses): e.g. _Geo-information Organisation and Legislation, Legal & Social Aspects, Management in Organisations, Geoinformatics in Public Administration, European aspects of GI, GIS in Organizations_
-6. **GI, GIS, Geospatial, GI Technology** (32 courses):
+6. **GI, GIS, Geospatial, GI Technology** (32 courses): e.g. _Advanced geoinformatics, Advanced GIS, Application of OpenSource GIS, Cartography, GIS and Land Information Infrastructures, Dissemination of GI, Extraction, Analysis and Dissemination of Geospatial Information, Geographic Information Systems 2 Geographical Information Platforms_
 
 
 

@@ -4,7 +4,7 @@ excerpt: "Impact of INSPIRE among small and medium-sized enterprises in Europe<b
 collection: portfolio
 ---
 
-_This is a summary of the report 'Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). Study on the Geo-ICT sector in Europe. SmeSpire'. The full report can be found [here](http://www.smespire.eu/published-by-smespire-the-first-study-on-the-geo-ict-sector-in-europe)._
+_This is a summary of the report 'Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). Study on the Geo-ICT sector in Europe. SmeSpire'. The full report can be found [here](http://www.smespire.eu/published-by-smespire-the-first-study-on-the-geo-ict-sector-in-europe). The results of this study were used in the mid-term evaluation of INSPIRE, executed in 2014._
 
 The report '**Study on the Geo-ICT Sector in Europe**' provided an in-depth analysis and comparison of different Geo-ICT companies in Europe and how they relate to INSPIRE. The study’s primary objectives were: 1) assessing the market potential for Geo-ICT companies in relation to INSPIRE, and 2) characterizing obstacles for Geo-ICT companies to enter this market, with focus on knowledge gaps and training needs
 

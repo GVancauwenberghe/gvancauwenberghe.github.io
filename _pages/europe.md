@@ -36,9 +36,9 @@ Location information underpins policy assessment, digital services and applicati
 ELISE aimed  to break down barriers and promote a coherent and consistent approach to the sharing and reusing of location data across sectors and borders in the context of the digital transformation of public services. ELISE built on top of the EULF and ARE3NA actions funded under the former ISA programme. [Read more about ELISE](https://ec.europa.eu/isa2/actions/elise_en/).
 
 Contribution to this initiative:
-* aa
-* bb
-* cc
+* Design and implementation of a study to investigate the innovative use of location data and technology at local and regional levels in the EU
+* Designing and executing a longitudinal study on the use of spatial data for environmental purposes
+* Executing various 'rapid studies' on topics related to Location Interoperability for Digital Transformation 
 
 ## European Union Location Framework (EULF)
 Text

@@ -41,12 +41,16 @@ Contribution to this initiative:
 * Executing various 'rapid studies' on topics related to Location Interoperability for Digital Transformation 
 
 ## European Union Location Framework (EULF)
-Text
+As part of the Interoperable Solutions for European Public Administrations (ISA) Programme of the EU, the European Union Location Framework (EULF) was developed as an **EU-wide, cross-sector interoperability framework for the exchange and sharing of location data and services**. The purpose of EULF was to help ‘location-enable’ e-government, by providing a framework for assessment and action for exchange and sharing location information, relevant to all sectors and across borders, using INSPIRE in new situations, delivering ‘location’ interoperability alongside the other ISA actions.
+
+The EULF consisted of a package of recommendations, guidance, methodologies, case studies, training, pilots and collaborative action required by public administrations and stakeholder communities to facilitate the free flow of location data and ensure its effective use in e-government services. The EULF would complement and extend the implementation of INSPIRE to facilitate the introduction and use of the infrastructure in new thematic sectors. EULF activities were focused on five priority areas, agreed with Member States: policy and strategy alignment, e-Government integration, standardisation and interoperability, return on investment and effective governance and partnerships. [Read more about the EULF](https://interoperable-europe.ec.europa.eu/collection/european-union-location-framework-eulf)
 
 Contribution to this initiative:
-* aa
-* bb
-* cc
+* Contributing to the Assessment of the conditions for a EULF, which provided an assessment of the state of play in the different focus areas of the EULF and the need for action in these areas
+* Contributing to the drafting of the EULF Blueprint and EULF Roadmap
+* Collection of best practices of integrating location information in public sector processes and services
+* Preparation of guidelines on the Guidelines for public procurement of geospatial technologies
+* Drafting of guidelines on the design of location-enabled e-government services
 
 
 ## SPACE4GEO Large-scale Skills Partnership

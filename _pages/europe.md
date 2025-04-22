@@ -16,6 +16,7 @@ Contribution to this initiative:
 * Supporting the implementation of this Directive in several countries, including Belgium, Italy, Romania, Moldova and various other. 
 * Designing and delivering training on the implementation of this Directive, with a strong focus on the non-technological aspects 
 * Assessing the status of implementing the Directive and collecting best practices in different countries
+* Providing input to the mid-term evaluation of the Directive, through the SmeSpire study on the Geo-ICT Sector in Europe
 
 ## EU Approach for Space Traffic Management
 Text

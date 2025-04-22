@@ -19,12 +19,15 @@ Contribution to this initiative:
 * Providing input to the mid-term evaluation of the Directive, through the SmeSpire study on the Geo-ICT Sector in Europe
 
 ## EU Approach for Space Traffic Management
-Text
+In light of an increasingly congested space, there is a compelling need to act in order to maintain space as a resource for future generations. Space Traffic Management aims at keeping space operations safe, space orbits usable, and space accessible for decades to come while ensuring and further fostering the competitiveness of the EU industry.
+
+To this end, the EU approach to Space Traffic Management proposed by the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (HR/VP) aims at enhancing capabilities, norms and engagement while preserving EU interests in line with the respective competencies of the Union and its Member States. It calls for an EU contribution to this global challenge along four key lines of action: 1) Assessing STM requirements and impacts for the EU; 2) 
+Enhancing operational EU SST capabilities to support STM; 3) Fostering STM regulatory aspects and 4) Promoting the EU STM approach at a global level. [Read more about the EU Approach for STM](https://defence-industry-space.ec.europa.eu/eu-space/space-traffic-management_en).
 
 Contribution to this initiative:
-* aa
-* bb
-* cc
+* Execution of a pilot study to support the development of a comprehensive approach on Space Traffic Management (STM) in Europe, with an overall aim of ensuring long-term, open, sustainable and safe use of space
+* Analyszing the feasibility of establishing a Space Label as EU-wide mechanism to support soft law compliance in space traffic management
+* Supporting the impact assessment for a EU Space Law 
 
 
 ## European Location Interoperability Solutions for e-Government (ELISE) 

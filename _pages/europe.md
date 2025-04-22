@@ -55,10 +55,14 @@ Contribution to this initiative:
 * Drafting of guidelines on the design of location-enabled e-government services
 
 
-## SPACE4GEO Large-scale Skills Partnership
-Text
+## Large-Scale Skills Partnerships
+The Pact for Skills is one of the flagship actions of the European Skills Agenda. The Pact aims to strengthen collective action on skills development by all stakeholders through skills partnerships. At EU level, **Large-Scale Skills Partnerships (LSPs)** set up a shared engagement model for collective action where major players in industrial ecosystems and value or supply chains, including associations, relevant public authorities and SMEs, commit to cooperate and invest to provide upskilling and reskilling opportunities for people of working age in the whole industrial ecosystem.
+
+Within the Aerospace & Defence ecosystem, two Large-Scale Skills Partnerships have been established, including the Large-scale Skills Partnership for the space sector dedicated to data, services and applications. Aim of this partnership is to promote the up-skilling and re-skilling of the workforce and attract new talent to the downstream space and geoinformation sector. 
 
 Contribution to this initiative:
-* aa
-* bb
+* Contributing to the preparation and review of the sector skills strategy
+* Analysis of skills need and mismatches in the sector
+* Contributing to the development of a Body of Knowledge on GI/EO
+* Design of a governance model for a skills alliance in the GI/EO sector
 * cc

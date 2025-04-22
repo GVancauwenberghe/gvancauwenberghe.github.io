@@ -19,4 +19,4 @@ Within each of these three categories, sub-groups of related indicators were als
 
 <br/><img src='/images/sdidt2.png'>
 
-Country factsheets were prepared to present key insights on the role of SDI in Digital Government Transformation for the four countries analysed in depth. The country factsheet for Spain shows some selected insights with regard to the institutional setting, technical infrastructure and impact of SDIs in the context of Digital Government Transformation. 
+Country factsheets were prepared to present key insights on the role of SDI in Digital Government Transformation for the four countries analysed in depth. The **country factsheet for Spain** shows some selected insights with regard to the institutional setting, technical infrastructure and impact of SDIs in the context of Digital Government Transformation. 

@@ -19,7 +19,7 @@ Career Snapshot
 * Awarded a **[Marie Skłodowska-Curie Postdoctoral Fellowship](/portfolio-4)** at TU Delft (Netherlands) on the topic 'Governance of open geospatial data and data infrastructures'
 * **[Comprehensive experience](/expert)** in designing, implementing, managing, and evaluating international projects, funded by the World Bank, European Union, and other international organizations
 * Expert in **[capacity building](/teaching)**, conducting skills needs assessments, designing courses, and delivering education and training to enhance expertise across various domains.
-* Provided support to **various key EU policy initiatives**, on geospatial data, open data, digital transformation & space
+* Provided support to **[various key EU policy initiatives](/europe)**, on geospatial data, open data, digital transformation & space
 * Owner of **GEONOTGEO**, a recently established consultancy company targetting sustainable development and policy impact through research and capacity building
   
 Expertise

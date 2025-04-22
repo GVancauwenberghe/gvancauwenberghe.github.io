@@ -4,5 +4,7 @@ excerpt: "Insights on the role of SDI in Digital Transformation in Spain<br/><im
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+_This is a summary of the report 'European Commission: Joint Research Centre, Barbero, M., Lopez Potes M., Vancauwenberghe G., & Vandenbroucke D. (2019). The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations. Luxembourg: Publications Office of the European Union'. The full report can be found [here](https://data.europa.eu/doi/10.2760/324167)._
+
+<br/><img src='/images/sdidt2.png'>
 

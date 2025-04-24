@@ -8,13 +8,4 @@ date: 2017-01-01
 location: "Delft, the Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As part of the MSc course 'Geo-information Organisation and Legislation' (TU Delft, MSc Geomatics), lectures were provided on the governance and assessment of Spatial Data Infrastructures, and students were trained in the development and application of an assessment framework for evaluating the openess of an SDI.

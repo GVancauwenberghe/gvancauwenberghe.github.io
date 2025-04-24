@@ -10,6 +10,14 @@ location: "Online"
 
 The webinar on Location Intelligence for Cities and Regions presented state of the art and future perspectives on the use of location data and technologies by local and regional governments. The webinar aimed to demonstrate how location intelligence is vital for turning subnational governments into smart places.
 
+## Content of the webinar
+1. What are "smart places"? Technical and policy context
+2. Understanding the role of local and regional governments in the provision of services
+3. Location intelligence for smarter local and regional public services
+4. Location Intelligence supporting transformation in smart local & regional projects
+5. Strategies & actions shifting towards smart places
+
+
 ## Summary of the webinar
 The webinar opened with **an introduction to the concept of smart places** by looking first at different perspectives of "smart places" and "smart world". Following this, the policy and technological context in which smart places and smart subnational governments operate were illustrated. Regarding technological context, it was stated that local and regional initiatives are rapidly developing and leveraging disruptive technologies such as artificial intelligence (AI), the internet of things (IoT), 5G, robotics, blockchain, and others. However, it is important to understand the local and regional governments' capacity to deal with these new technologies and deliver new solutions varies greatly. Moreover, to develop smart cities sustainably, a shift in focus is required from a technology-dominated approach to a more human-centric and holistic approach. 
 
@@ -25,10 +33,3 @@ In the fourth part of the presentation, **three cases were presented in which lo
 The fifth and final part of the webinar presentation provided a set of **recommendations on how to make the shift towards more intelligent subnational governments**. While the subnational governments themselves clearly play a role in this transformation process, national governments and the European Commission can support this process considerably.  
 
 
-## Key messages and conclusions
-The webinar concluded by emphasising the role of location intelligence in transforming local and regional governments into smart governments. Changes and innovations drive this transformation in the way governments are dealing with geospatial data, using geospatial technologies and organising their processes. Traditional governments are characterised by a higher number of closed data silos, including independent data formats and data models and a lack of mechanisms to enable effective data sharing. To become smart governments, local and regional governments should become data-driven organisations, relying on near real-time data from many different sources and delivering open data through open standards. 
-Traditional governments use more traditional GIS solutions to support the management, analysis and visualisation of location data. Smart governments take advantage of technological advancements that significantly change how they collect, manage, exploit, and share location data. They rely on relevant emerging technologies in the geospatial domain, such as automation, IoT, big data, artificial intelligence, immersive technologies, etc.
-Smart government organisations also establish and rely on solid data ecosystems to fully unlock location data’s value in collaboration with other key stakeholders. In this way, they distinguish themselves from the governments relying on the traditional top-down models of decision making and service delivery. 
-These transformations were shown through three different cases of location intelligence for smart local and regional governments. What these cases also showed was the decisive importance of location interoperability for realising smarter governments. Data from various sources and standards need to be combined, integrated, and shared with relevant stakeholders, including citizens.
-
-The interoperability challenges go beyond semantic and technological interoperability and include several organisational and legal interoperability aspects. 

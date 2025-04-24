@@ -29,9 +29,11 @@ Governments have been using geospatial data as part of their policy-making proce
 
 The aim of this webinar was to set the scene and explore the broad role of geospatial data and SDIs as important enablers and building blocks of digital government transformation. The webinar placed past and ongoing developments in the use and sharing of geospatial data in the wider context of digital transformation, as well as addressed some of the terms we will be exploring. 
 
+The webinar was the first of a series of “Rapid Studies” under the ELISE ISA2 Action that aim to quickly engage with new topics of relevance to location interoperability, the digital transformation of government and socio-technical developments in this arena.
+
 More information about the webinar can be found on the [Interoperable Europe Portal](https://interoperable-europe.ec.europa.eu/collection/elise-european-location-interoperability-solutions-e-government/event/elise-webinar-role-geospatial-digital-government-transformation). 
 
 
-The webinar was the first of a series of “Rapid Studies” under the ELISE ISA2 Action that aim to quickly engage with new topics of relevance to location interoperability, the digital transformation of government and socio-technical developments in this arena.
+
 
 

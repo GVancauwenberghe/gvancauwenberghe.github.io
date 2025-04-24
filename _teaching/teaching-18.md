@@ -8,7 +8,7 @@ date: 2019-11-28
 location: "Maputo, Mozambique"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The aim of this training session was to explain the importance of task allocation in the context of Spatial Data Infrastructures, and present different models for allocating tasks in the development and implementation of SDIs.
 
 Heading 1
 ======

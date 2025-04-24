@@ -8,7 +8,7 @@ date: 2023-09-11
 location: "Ascoli, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During the 3th training week of the ODECO project, an online training session was organised on 'curriculum design', in which PhD students working on topics related to open data ecosystems were introduced into curriculum design. 
 
 Heading 1
 ======

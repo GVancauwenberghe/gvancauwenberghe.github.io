@@ -8,7 +8,7 @@ date: 2021-05-27
 location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During the SEED4NA Virtual Summer School, teachers and researchers from different North African universities learned about constructive alignment & blended course design for active teaching about Spatial Data Infrastructures. 
 
 Heading 1
 ======

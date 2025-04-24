@@ -8,7 +8,7 @@ date: 2024-04-17
 location: "Leuven, Belgium"
 ---
 
-During the fourth training week of the ODECO project, which focused on the topic of inclusive data ecosystems, PhD students from different disciplines were introduced into the basics of communication, dissemination and exploitation, for increasing the impact of their work. 
+During the 4th training week of the ODECO project, which focused on the topic of inclusive data ecosystems, PhD students from different disciplines were introduced into the basics of communication, dissemination and exploitation, for increasing the impact of their work. 
 
 Heading 1
 ======

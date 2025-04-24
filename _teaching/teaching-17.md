@@ -8,7 +8,7 @@ date: 2019-11-26
 location: "Maputo, Mozambique"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Training was provided to representatives from various public organisations in Mozambiqua on (open) data policies in the context of Spatial Data Infrastructures. 
 
 Heading 1
 ======

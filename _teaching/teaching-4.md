@@ -8,7 +8,7 @@ date: 2022-01-26
 location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A training session on SDIs from a network perspective was organised to explain why SDIs are important and how they can be successful in addressing different challenges in the access to and sharing of geospatial data. 
 
 Heading 1
 ======

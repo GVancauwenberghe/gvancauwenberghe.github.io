@@ -8,7 +8,7 @@ date: 2022-08-25
 location: "Zagreb, Croatia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As part of the SPIDER Summer School on Open SDI, which took place in August 2022, students in the domains of open data & geomatics participated in a serious game to learn more about implementing Open SDIs throuh co-creation.  
 
 Heading 1
 ======

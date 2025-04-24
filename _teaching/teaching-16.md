@@ -8,7 +8,7 @@ date: 2015-05-26
 location: "Lisbon, Portugal"
 ---
 
-This training module aimed at providing professionals with a better understanding od the European legislation on data access, re-use and sharing, with a key focus on the requirements of the INSPIRE Directive regarding the sharing of data and services.
+This training module aimed at providing professionals with a better understanding of the European legislation on data access, re-use and sharing, with a key focus on the requirements of the INSPIRE Directive regarding the sharing of data and services.
 
 ## Content
 1. Data and service sharing in the EU

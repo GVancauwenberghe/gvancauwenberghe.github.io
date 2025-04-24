@@ -8,7 +8,7 @@ date: 2022-05-09
 location: "Dubrovnik, Croatia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During the 2022 SEED4NA Summer School, which took place in Dubvronik (Croatia), teachers from the SEED4NA partner universities were training in how to design and offer education about the establishment of Spatial Data Infrastructures.  
 
 Heading 1
 ======

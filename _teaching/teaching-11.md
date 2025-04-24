@@ -10,7 +10,7 @@ location: "Online"
 
 The webinar on Location Intelligence for Cities and Regions presented state of the art and future perspectives on the use of location data and technologies by local and regional governments. The webinar aimed to demonstrate how location intelligence is vital for turning subnational governments into smart places.
 
-## Content of the webinar
+## Content
 1. What are "smart places"? Technical and policy context
 2. Understanding the role of local and regional governments in the provision of services
 3. Location intelligence for smarter local and regional public services
@@ -18,7 +18,7 @@ The webinar on Location Intelligence for Cities and Regions presented state of t
 5. Strategies & actions shifting towards smart places
 
 
-## Summary of the webinar
+## Description
 The webinar opened with **an introduction to the concept of smart places** by looking first at different perspectives of "smart places" and "smart world". Following this, the policy and technological context in which smart places and smart subnational governments operate were illustrated. Regarding technological context, it was stated that local and regional initiatives are rapidly developing and leveraging disruptive technologies such as artificial intelligence (AI), the internet of things (IoT), 5G, robotics, blockchain, and others. However, it is important to understand the local and regional governments' capacity to deal with these new technologies and deliver new solutions varies greatly. Moreover, to develop smart cities sustainably, a shift in focus is required from a technology-dominated approach to a more human-centric and holistic approach. 
 
 The second part of the presentation focused on **the role of local and regional governments in digital services**. In Europe, there are more than 80.000 local and regional governments, which together are responsible for 50% of public investments, receive 25% of tax revenues and are major public employers. These subnational governments have a wide range of responsibilities in crucial domains such as education, spatial planning, economic development, social affairs, health, culture, recreation and public transport. While there are important differences between municipal and regional governments, but also between governments in rural areas and those in urban areas, all subnational governments play a key role in tackling various urgent challenges: mobility, housing, ageing, climate action, social segregation, environmental footprint, etc. From a service delivery perspective, these subnational governments are supporting and interacting with citizens during many key life events, such as birth, starting school, starting higher education or training, transitioning to work, marriage, having a family, retiring, caring for someone, or the death of a loved one. Especially in recent years, they have strongly invested in digitalising their services in a drive to modernise, increase their internal efficiency, improve citizen experience and facilitate access to information.

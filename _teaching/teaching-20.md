@@ -8,7 +8,7 @@ date: 2024-04-17
 location: "Leuven, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During the fourth training week of the ODECO project, which focused on the topic of inclusive data ecosystems, PhD students from different disciplines were introduced into the basics of communication, dissemination and exploitation, for increasing the impact of their work. 
 
 Heading 1
 ======

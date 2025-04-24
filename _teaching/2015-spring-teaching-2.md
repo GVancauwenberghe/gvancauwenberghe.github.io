@@ -8,9 +8,7 @@ date: 2024-11-27
 location: "Tblisi, Georgia"
 ---
 
-
-This is a description of a new teaching experience. You can use markdown like any other post.
-TEST
+In this keynote presentation, an introduction was provided to the non-technological components of Spatial Data Infrastructures, with a particular emphasis on relevant policies. 
 
 Heading 1
 ======

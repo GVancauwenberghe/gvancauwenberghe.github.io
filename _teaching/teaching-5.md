@@ -8,7 +8,7 @@ date: 2022-01-25
 location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As part of the SEED4NA Training on the Basics of SDI, an online training session was organised on the topic of 'Business and funding models'. In this session, teachers and researchers from different North African universities learned about the notion of business models and how to apply it to SDIs, as well as about the costs of establishing SDIs and how to cover them. 
 
 Heading 1
 ======

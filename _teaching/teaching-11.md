@@ -32,4 +32,4 @@ In the fourth part of the presentation, **three cases were presented in which lo
 
 The fifth and final part of the webinar presentation provided a set of **recommendations on how to make the shift towards more intelligent subnational governments**. While the subnational governments themselves clearly play a role in this transformation process, national governments and the European Commission can support this process considerably.  
 
-
+More information about the webinar can be found on the [Interoperable Europe Portal](https://interoperable-europe.ec.europa.eu/collection/elise-european-location-interoperability-solutions-e-government/document/presentation-location-intelligence-cities-and-regions-preparing-ground-smart-places-future). 

@@ -155,24 +155,31 @@
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Increasing impact through effective communication, dissemination and exploitation",
+      "institution": "ODECO Training Week 4 'Towards an inclusive open data ecosystem",
+      "date": "2024-01-01",
+      "role": "Training",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Business and funding models",
+      "institution": "SEED4NA Training on Basics of SDI",
+      "date": "2022-01-01",
+      "role": "Online training",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
+      "course": "Location Intelligence for Cities and Regions ",
       "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "date": "2019-01-01",
+      "role": "Webinar",
+      "description": ""
+    },
+    {
+      "course": "Assessment of Spatial Data Infrastructures",
+      "institution": "Delft University of Technology, Geo-information Organisation and Legislation",
+      "date": "2018-01-01",
+      "role": "Lecture",
       "description": ""
     },
   ],

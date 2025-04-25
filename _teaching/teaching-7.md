@@ -10,11 +10,9 @@ location: "Leuven, Belgium"
 
 During the SPATIALIST Scientific Seminar on 'Spatial Data Infrastructures (SDI): latest trends and research’, a lecture was provided on coordination in the context of Spatial Data Infrastructures. In this lecture, research results from the SPATIALIST project were provided to demonstrate how different coordination mechanisms can be used for dealing with various coordination challenges in developing and implementing SDIs. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Content
+1. Introduction
+2. Coordination
+3. Coordination levels & mechanisms
+4. Case study: address data in Flanders
+5. Conclusions, recommendations & discussion

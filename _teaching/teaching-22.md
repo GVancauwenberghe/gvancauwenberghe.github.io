@@ -21,7 +21,3 @@ After the course the students were able to:
 * Describe the key components of the SDI of Peru
 * Explain the link between SDI and e-Government
 * Explain how SDIs contribute to Digital Transformation of Government
-
-![image](https://github.com/user-attachments/assets/e1c31946-0307-40a7-9eda-151d880f6098)
-
-![image](https://github.com/user-attachments/assets/159e494d-0602-4f26-8e4b-a5042132deb6)

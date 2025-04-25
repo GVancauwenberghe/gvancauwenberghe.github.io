@@ -1,0 +1,13 @@
+---
+title: "Spatial Data Infrastructures & Digital Government Transformation"
+collection: teaching
+type: "Lecture"
+permalink: /teaching/teaching-22
+venue: "Pontificia Universidad Católica del Perú (PUCP)"
+date: 2019-10-10
+location: "Lima, Peru"
+---
+
+A guest lecture was provided to students from the Pontificia Universidad Católica del Perú (PUCP) on Spatial Data Infrastructures in the context of Digital Government Transformation. 
+
+** Content

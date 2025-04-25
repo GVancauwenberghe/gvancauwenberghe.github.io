@@ -10,11 +10,15 @@ location: "Tblisi, Georgia"
 
 In this keynote presentation an introduction was provided to the non-technological components of Spatial Data Infrastructures, with a particular emphasis on relevant policies. 
 
-Heading 1
-======
+## Content
+1. Introduction
+2. SDIs as a network
+3. SDI in numbers
+4. SDI licensing
+5. Conclusion
 
-Heading 2
-======
-
-Heading 3
-======
+## Learning objectives
+After the presentation, participants will be able to:
+* Explain what SDIs are and why they are important
+* Identify key challenges in establishing an NSDI
+* Explain the importance of SDI licensing and data sharing arrangements

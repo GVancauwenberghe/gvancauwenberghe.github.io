@@ -9,3 +9,9 @@ location: "Leuven, Belgium"
 ---
 
 As part of the 2014 Short Training Initiative 'Discovery, exploration and exploitation of free data and tools for supporting the adaptation of agriculture and forestry to climate change', a training was provided on the topic of free data and tools. 
+
+## Content
+1. Introduction: Government and spatial information
+2. Free data and tools
+3. Empirical evidence
+4. Conclusions

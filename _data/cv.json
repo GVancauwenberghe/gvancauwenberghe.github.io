@@ -199,11 +199,11 @@
       "description": "Assessing the Openness of Spatial Data Infrastructures <br/><img src='/images/opensdi.png'>"
     },
     {
-      "name": "Portfolio item number 1",
+      "name": "SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa (2020-2024)",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "date": "2024",
+      "url": "https://gvancauwenberghe.github.io/portfolio/portfolio-9/",
+      "description": "SEED4NA Curriculum on SDI/EO <br/><img src='/images/seed4na.png'>"
     }
   ]
 }

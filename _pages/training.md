@@ -41,7 +41,7 @@ author_profile: true
 
 **Role in the project:** Senior Researcher and Supervisor
 
-**Description:** 
+**Description:** ODECO is a Horizon 2020 Marie Skłodowska-Curie Innovative Training Network initiative, with aims to train the next generation of creative and innovative early stage open data researchers, in order to unlock their creative and innovative potential to address current and future challenges in the creation of user driven, circular and inclusive open data ecosystem. Bringing together different sectors (research, private sector, government, non-profit) and different perspectives (public administration, law, business, engineering), ODECO aims to address the central challenge of realizing a user driven, circular and inclusive open data ecosystem.
 
 **Activities performed:** 
 * Definition of the scope, methodology and detailed workplan of the project

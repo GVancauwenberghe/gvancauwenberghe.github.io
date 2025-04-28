@@ -102,10 +102,11 @@ author_profile: true
 
 **Role in the project:** Senior INSPIRE Expert
 
-**Description:** 
+**Description:** This project aimed to help streamlining the efforts to provide environmental information and develop/maintain information systems that currently exist at the European and national levels with regard to Natura 2000, and to improve interoperability between the national system and those at the European level. The current status in the Member States was assessed against the provisions of Article 7 of the Access to Environmental Information Directive and the provisions of INSPIRE with regard to information relevant to the implementation of the Birds and Habitats Directives. 
 
 **Activities performed:** 
-* 
+* Assessment of access and use restrictions to environmental data in relation to Natura 2000 in the EU
+* Drafting of recommendations to improve the access and use of environmental data
 
 ## INSPIRE Strategy Romania
 **Year:** 2014 - 2015
@@ -114,10 +115,13 @@ author_profile: true
 
 **Role in the project:** Senior INSPIRE Expert
 
-**Description:** 
+**Description:** The objective of the project was to create the legal and technical framework necessary for implementing a Spatial Data Infrastructure in Romania aligned with the requirements imposed by European Directive INSPIRE. The project consisted of two stages: 1) the development of an INSPIRE implementation strategy and 2) the development of draft regulatory acts relating to tariff policies and exchange of data, rights of access of spatial data sets and services.
 
 **Activities performed:** 
-* 
+* SWOT Analysis of the NSDI in Romania
+* Collection and discussion of best practices in NSDI/INSPIRE Implementation in Europe
+* Drafting of the sections on governance and data policies (data access, data sharing, licensing, etc.) in the INSPIRE Strategy
+* Stakeholder consultations and co-design workshops
 
 ## Support for the establishment of a European Union Location Framework (EULF) 
 **Year:** 2013 - 2016
@@ -129,7 +133,10 @@ author_profile: true
 **Description:** Senior Consultant:
 
 **Activities performed:** 
-* 
+* Analysis of the status of integrating location data in digital government in Europe
+* Collection of best practices in integration location data into digital government
+* Preparing guidelines on the integration of location data in digital government processes and services
+* Elaboration of the EULF Blueprint & Roadmap
 
 ## SDI Benchmarking and Good Practices in INSPIRE Implementation
 **Year:** 2013
@@ -138,7 +145,10 @@ author_profile: true
 
 **Role in the project:** SDI Assessment Expert
 
-**Description:** 
+**Description:** The Government of the Walloon Region in Belgium aimed to assess the status of the SDI development in the southern part of Belgium as part of the preparation of a SDI Strategic Plan in the Region. This plan was based on an analysis of the user requirements and took into account experiences of other SDIs in Europe. The Benchmarking Study aimed to learn from the (Best) Practices in two regional (Flanders, Brussels) and five national (CH, DE, FR, NL, UK) SDIs. 
 
 **Activities performed:** 
-* 
+* Development of SDI Assessment framework and methodology
+* Assessment of national and regional SDIs in Europe
+* Collection and presentation of good practices in SDI/INSPIRE implementation
+* Interviews with experts and practitioners in the geospatial domain

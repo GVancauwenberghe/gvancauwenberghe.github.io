@@ -14,10 +14,11 @@ author_profile: true
 
 **Role in the project:** Scientific Expert
 
-**Description:** 
+**Description:** RESIST aims to strengthen the resilience, accelerate the transformation and increase the adaptive capacity of 12 climate vulnerable EU regions. This is done by implementing 4 large-scale demonstrators of resilient innovations for Climate Change Adaptation (CCA) following a quintuple-helix approach. The demonstrators will run in four regions but also promote the transfer of know-how and innovative solutions to eight twin regions (of which 4 less developed regions) through both physical mutual-learning activities and the implementation of innovative immersive digital twins.
 
 **Activities performed:** 
-* 
+* Design of strategy for disseminating the scientific outputs of the project
+* Classification and demonstration of climate adaptation solutions  
 
 ## USAGE – Urban Data Space for Green Deal
 **Year:** 2022 - 2025

@@ -27,10 +27,12 @@ author_profile: true
 
 **Role in the project:** Senior Researcher
 
-**Description:** 
+**Description:** USAGE (Urban Data Space for the Green Deal) aims to provide solutions and mechanisms for making city-level environmental and climate data available to everyone based on FAIR principles (Findable, Accessible, Interoperable and Reusable). USAGE supports the implementation of the European strategy for data and various European Green Deal priority actions at the level where climate change is mostly felt: cities and towns. The project provides innovative governance mechanisms, consolidated arrangements, AI-based tools and data analytics to share, access and use city-level data from Earth Observation (EO), Internet of Things (IoT), authoritative and crowd sources, leveraging on standards for data and service interoperability.
 
 **Activities performed:** 
-* 
+* Analysis of climate data strategies, processes and policies at city level
+* Preparation of guidelines for policy co-design in climate policies
+* In-depth interviews with local experts and stakeholders
 
 ## ELISE 2020 - Leveraging the power of location information and technologies to improve public services at local level: an EU-wide analysis
 **Year:** 2020 - 2021
@@ -39,10 +41,12 @@ author_profile: true
 
 **Role in the project:** Public Administration Expert
 
-**Description:** 
+**Description:** The main aim of the project was to investigate the innovative use of location data and technology at local and regional levels in the EU for increasing the quality of public services and producing public value. To achieve this aim, the following project objectives were defined and achieved: to systematically review the state of the art on the innovative use of location data and technologies for delivering public services in the EU; to develop a conceptual framework for assessing the current and potential impact of the use of location data and technologies on public value creation through public services at local level; to extensively study cases to refine, tailor and validate the conceptual framework for different real-life contexts; and to outline future research and policy recommendations.
 
 **Activities performed:** 
-* 
+* Review of the state of the art on the use of location data and technologies at the local level
+* Case studies on innovative approaches for using location data and technologies in cities and regions
+* Drafting of policy recommendations on improving public services at local level through location data and technologies
 
 ## The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration
 **Year:** 2018 - 2019

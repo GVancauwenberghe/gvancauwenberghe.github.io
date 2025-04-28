@@ -47,7 +47,7 @@ author_profile: true
 
 **Activities performed:** 
 * Definition of project scope, methodology, stakeholder engagement strategy, risk assessment and detailed work plan in the project proposal and inception report
-* Analysis of eisting legal and regulatory frameworks and practices in the STM domain
+* Analysis of existing legal and regulatory frameworks and practices in the STM domain
 * Assessment of possible policy actions for implementing a EU-approach to STM
 * Consultations with key stakeholders in the domains of space and STM in Europe and worldwide
 

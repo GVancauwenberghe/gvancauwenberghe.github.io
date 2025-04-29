@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## RESIST - Regions for climate change resilience through Innovation
-**Year:** Z023-2024
+**Year:** 2023-2024
 
 **Client/funding:** European Commission – Horizon Europe
 

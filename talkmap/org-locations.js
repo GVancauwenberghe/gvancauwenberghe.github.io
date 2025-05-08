@@ -159,4 +159,19 @@ var addressPoints = [
     8.983333,
     -79.516670
   ],
+   [
+    "Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020), Indonesia",
+    -6.595038,
+    106.816635
+  ],
+   [
+    "Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020), Singapore",
+    1.359167,
+    103.989441
+  ],
+   [
+    "Feasibility studies on the added value of remote sensing technologies in EU development cooperation projects (2019-2020), Malaysia",
+    3.0901822,
+    101.6070374
+  ]
 ];

@@ -115,4 +115,4 @@ Relevant publications include:
 * Van Loenen, B., Zuiderwijk, A., Vancauwenberghe, G., Lopez-Pellicer, F. J., Mulder, I., Alexopoulos, C., Magnussen, R., Saddiqa, M., Dulong de Rosnay, M., Crompvoets, J., Polini, A., Re, B., & Casiano Flores, C. (2021). _Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda_. JeDEM - EJournal of EDemocracy and Open Government, 13(2), 1–27.
 * Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). _Study on the Geo-ICT sector in Europe_. SmeSpire.
 
-Most of the projects mentioned cut across multiple areas of expertise. Detailed descriptions of these projects can be accessed via [Projects](https://gvancauwenberghe.github.io/projects).
+Most of the projects and publications mentioned cut across multiple areas of expertise. Detailed descriptions of these projects can be accessed via [Projects](https://gvancauwenberghe.github.io/projects). An overview of the publications is available [here](https://gvancauwenberghe.github.io/outputs).

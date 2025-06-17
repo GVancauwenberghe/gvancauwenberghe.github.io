@@ -64,7 +64,9 @@ Relevant publications include:
 * Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., & Vandenbroucke, D. (2010). _Practices to develop Spatial Data Infrastructures: Exploring the contribution to E-government_. In: Practical Studies in E-Government, Chapt. 13. New York: Springer, 229-248.
 
 ## Policy & decision making
-I have been supporting government organizations worldwide across various stages of the policy process, including design, formulation, implementation, and evaluation. This includes providing support in drafting policy and strategic documents, identifying and evaluating policy options, and engaging stakeholders in the policy process through co-creation. Examples of projects in this area are:
+I have been supporting government organizations worldwide across various stages of the policy process, including design, formulation, implementation, and evaluation. This includes providing support in drafting policy and strategic documents, identifying and evaluating policy options, and engaging stakeholders in the policy process through co-creation. 
+
+Examples of projects in this area are:
 * Consultancy for the Development of NSDI Policy Documents in Georgia (2024-2025)
 * Support to Space Traffic Management Standardisation (2022-2024)
 * INSPIRE Strategy Romania (2014-2015)
@@ -109,8 +111,8 @@ Relevant project examples include:
 * SmeSpire - A European Community of SMEs built on Environmental Digital Content and Languages (2012-2014)
 
 Relevant publications include:
-* Vancauwenberghe, G., & van Loenen, B. (2018). SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda. AGILE 2018 Pre-conference Workshop Report. Delft: TU Delft.
-* Van Loenen, B., Zuiderwijk, A., Vancauwenberghe, G., Lopez-Pellicer, F. J., Mulder, I., Alexopoulos, C., Magnussen, R., Saddiqa, M., Dulong de Rosnay, M., Crompvoets, J., Polini, A., Re, B., & Casiano Flores, C. (2021). Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda. JeDEM - EJournal of EDemocracy and Open Government, 13(2), 1–27.
-* Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). Study on the Geo-ICT sector in Europe. SmeSpire.
+* Vancauwenberghe, G., & van Loenen, B. (2018). _SDI Research and Strategies towards 2030: Renewing the SDI Research Agenda_. AGILE 2018 Pre-conference Workshop Report. Delft: TU Delft.
+* Van Loenen, B., Zuiderwijk, A., Vancauwenberghe, G., Lopez-Pellicer, F. J., Mulder, I., Alexopoulos, C., Magnussen, R., Saddiqa, M., Dulong de Rosnay, M., Crompvoets, J., Polini, A., Re, B., & Casiano Flores, C. (2021). _Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda_. JeDEM - EJournal of EDemocracy and Open Government, 13(2), 1–27.
+* Cipriano, P., Easton, C., Roglia, E., Vancauwenberghe, G. (2013). _Study on the Geo-ICT sector in Europe_. SmeSpire.
 
 Most of the projects mentioned cut across multiple areas of expertise. Detailed descriptions of these projects can be accessed via [Projects](https://gvancauwenberghe.github.io/projects).

@@ -86,7 +86,7 @@ Examples from my work in this area include:
 
 Relevant publications include:
 * Vancauwenberghe, G. & Lacroix, L. (2023). _Specification of project curriculum in SDI and EO_. SEED4NA Project Deliverable 1.4.
-* * Vancauwenberghe, G., Thiru, N., & Vandenbroucke, D. (2023). _Trends and challenges on location data interoperability education and training_. DIS4SME - Project Deliverable 2.1.
+* Vancauwenberghe, G., Thiru, N., & Vandenbroucke, D. (2023). _Trends and challenges on location data interoperability education and training_. DIS4SME - Project Deliverable 2.1.
 * Gruijthuijsen, W., Pontes, S., Vancauwenberghe, G., Vandenbroucke, D., & Olijslagers, M. (2019). _Understanding skill needs in the EO/GI sector: A job advertisements analysis_. 22nd AGILE Conference on Geo-information Science, Limassol, Cyprus, 17-20 June 2019.
 
 ## Monitoring & evaluation

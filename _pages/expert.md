@@ -20,9 +20,9 @@ Projects in this area include:
 * GI-N2K – Geographic Information Need to Know (2013-2016)
 
 Relevant publications include:
-* A
-* European Commission: Joint Research Centre, Vancauwenberghe, G. and Hernández Quirós, L. (2022). Evolution of the access to spatial data for environmental purposes – A study on the past, present and future of spatial data infrastructures in Europe. Luxembourg: Publications Office of the European Union, 2022
-* C
+* European Commission: Joint Research Centre, Vancauwenberghe, G. and Hernández Quirós, L. (2022). Evolution of the access to spatial data for environmental purposes – A study on the past, present and future of spatial data infrastructures in Europe. Luxembourg: Publications Office of the European Union.
+* European Commission: Joint Research Centre, Nasi, G. Buongiorno S. C., et. al. (2022). Leveraging the power of location information and technologies to improve public services at local level – Case study analysis. Luxembourg: Publications Office of the European Union.
+* Vancauwenberghe, G., F. Welle Donker, & van Loenen, B. (2018) Business Models for Geographic Information. In: J. Brown Kruse, J. Crompvoets, and F. Pearlman (Eds.), GEOValue; The Socioeconomic Value of Geospatial Information. Boca Raton (US): CRC Press, pp. 85-115.
 
 ## Data sharing & data infrastructures
 Data sharing is a key area of focus in my work, with a particular emphasis on setting up effective data infrastructures and supporting sustainable data ecosystems. I have been working on promoting data transparency and data sharing, developing licensing models and business models and optimizing legal & institutional frameworks for effective data sharing. 
@@ -33,8 +33,8 @@ Illustrative projects in this area include:
 * Towards an Open Spatial Data Infrastructure in Peru (2019-2020)
 
 Relevant publications include:
-* A
-* B
+* Schade, S., Granell, C., Vancauwenberghe, G., Keßler, C., Vandenbroucke, D., Masser, I., & Gould, M. (2020). Geospatial Information Infrastructures. In: Huadong, G., Goodchild, M.F. & Annoni, A. (Eds.), Manual of Digital Earth. Singapore: Springer, pp. 161–190
+* Van Loenen, B., Vancauwenberghe, G., & Crompvoets, J. (2018). Open Data Exposed. Information Technology and Law Series, vol. 30. The Hague: TMC Asser Press.
 * Vancauwenberghe, G., Crompvoets, J., & Bouckaert, G. (2011). Interorganizational Information Sharing as a Driver of Change in Public Administration. The NISPAcee Journal of Public Administration and Policy, 3 (2), 87-106.
 
 ## Governance & institutional frameworks
@@ -46,9 +46,9 @@ Project examples in this area are:
 * SPATIALIST - SDI for Public Sector Innovation (2007-2011)
 
 Relevant publications include:
-* A
-* B
-* C
+* Vancauwenberghe, G., & van Loenen, B. (2019). Governing Open Spatial Data Infrastructures: The Case of the United Kingdom. In: Rodríguez Bolívar M., Bwalya K., Reddick C. (Eds.), Governance Models for Creating Public Value in Open Data Initiatives. Public Administration and Information Technology, vol 31. Springer, Champ, pp. 33-54.
+* Crompvoets, J., Vancauwenberghe, G., Ho, S., Masser, I., & de Vries, W. T. (2018). Governance of national spatial data infrastructures in Europe. International Journal of Spatial Data Infrastructures Research, 13.International Journal of Spatial Data Infrastructures Research, 13.
+* Vancauwenberghe, G. (2013). Coordination within the Spatial Data Infrastructure: An analysis of the exchange and use of geographic information in Flanders (Belgium) PhD Thesis. KU Leuven: Leuven
 
 ## Digital transformation
 Initially focused on the role of geospatial data and data infrastructures in digital transformation, I have broadened my expertise to encompass all aspects of digital transformation. This includes driving innovation through emerging technologies, fostering organizational change, and implementing data-driven strategies. 
@@ -59,8 +59,8 @@ This area of expertise is demonstrated in projects such as:
 * The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration (2018-2019)
 
 Relevant publications include:
+* European Commission: Joint Research Centre, Vandenbroucke , D., Vancauwenberghe, G., Boguslawski, R., Pignatelli, F. (2020). Design of location-enabled e-government services. Luxembourg: Publications Office of the European Union.
 * European Commission: Joint Research Centre, Barbero, M., Lopez Potes M., Vancauwenberghe G., & Vandenbroucke D. (2019). The role of Spatial Data Infrastructures in the Digital Government Transformation of Public Administrations. Luxembourg: Publications Office of the European Union.
-* Vancauwenberghe, G., Thiru, N., & Vandenbroucke, D. (2023). Trends and challenges on location data interoperability education and training. DIS4SME - Project Deliverable 2.1
 * Crompvoets, J., Vancauwenberghe, G., Bouckaert, G., & Vandenbroucke, D. (2010). Practices to develop Spatial Data Infrastructures: Exploring the contribution to E-government. In: , Practical Studies in E-Government, Chapt. 13. New York: Springer, 229-248.
 
 ## Policy & decision making
@@ -72,7 +72,7 @@ I have been supporting government organizations worldwide across various stages 
 Relevant publications include:
 * Vancauwenberghe, G. (2024). Guidelines for policy co-design processes - Second Version. USAGE - Project Deliverable 2.5.
 * B
-* C
+* Vancauwenberghe, G., Crompvoets, J., & Vandenbroucke, D. (2013). Location information strategies: bringing location into e-government. In: Anthopoulos L., Reddick C. (Eds.), Government e-Strategic Planning and Management. New York: Springer, 65-82.
 
 ## Skills & capacity building
 Skills and capacity building is a central focus of my work, aimed at strengthening individual and organisational capabilities. My work includes mapping existing training offers, assessing skills needs and gaps, and designing tailored educational and training responses. I am involved in the full cycle of capacity development—from analysing needs and desiging curricula to preparing learning activities and and delivering training. 
@@ -84,8 +84,8 @@ Examples from my work in this area include:
 
 Relevant publications include:
 * Vancauwenberghe, G. & Lacroix, L. (2023). Specification of project curriculum in SDI and EO. SEED4NA Project Deliverable 1.4.
-* 
-* C
+* * Vancauwenberghe, G., Thiru, N., & Vandenbroucke, D. (2023). Trends and challenges on location data interoperability education and training. DIS4SME - Project Deliverable 2.1.
+* Gruijthuijsen, W., Pontes, S., Vancauwenberghe, G., Vandenbroucke, D., & Olijslagers, M. (2019). Understanding skill needs in the EO/GI sector: A job advertisements analysis. 22nd AGILE Conference on Geo-information Science, Limassol, Cyprus, 17-20 June 2019.
 
 ## Monitoring & evaluation
 Monitoring and evaluation (M&E) is another dedicated area of my expertise, focused on assessing the performance and impact of policies, programmes, and projects. I support the development of tailored M&E frameworks, combining qualitative and quantitative methods to generate accurate and actionable insights. 
@@ -98,7 +98,7 @@ This expertise is reflected in projects such as:
 Relevant publications include:
 * Vancauwenberghe, G. (2024). NSDI Monitoring & Evaluation Methodology. Consulting Services to supporting NSDI Action Plan and Business Model Implementation - Deliverable 2.1..
 * Vancauwenberghe, G., Valečkaitė, K., van Loenen, B. & Welle Donker, F. (2018). Assessing the Openness of Spatial Data Infrastructures: Towards a Map of Open SDI. International Journal of Spatial Data Infrastructures Research, 13.
-* C
+* European Commission: Joint Research Centre, Vandenbroucke, D., Vancauwenberghe, G., Crompvoets, J., Pignatelli, F., Smits, P., Boguslawski, R., Vowles, G., Borzacchiello, M.T. (2014). Assessment of the Conditions for a European Union Location Framework. Luxembourg: Publications Office of the European Union.
 
 ## Responsible research & innovation
 With a strong belief in the importance of research as a driver of positive change, I have developed expertise in responsible research and innovation (RRI). In designing, conducting, and disseminating research, I aim to ensure that outcomes are not only scientifically rigorous but also socially relevant, ethical, and sustainable. 

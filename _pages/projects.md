@@ -118,7 +118,7 @@ Senior Researcher:**   Contributing to the analysis of policy co-design practice
 **<ins>2018 - 2019</ins> The role of the Spatial Data Infrastructure in the Digital Transformation of Public Administration _(European Commission –  DG DIGT Joint Research Center)_ -**
 **Senior Expert:** Study design, data collection via desk research and interviews, data analysis and reporting of study results
 
-**<ins>2018 - 2019</ins>    Effective Governance of Open Spatial Data _(European Commission, MSCA Postdoctoral Fellowships)_-
+**<ins>2016 - 2018</ins>    Effective Governance of Open Spatial Data _(European Commission, MSCA Postdoctoral Fellowships)_-
 Research Manager & Researcher:**   Research design, case study research, in-depth interviews, data valorisation
 
 **<ins>2015 - 2016</ins>   CENTRIC – Centre of Excellence in Territorial management and Cadastre _(European Commission –   Horizon 2020 Teaming)_ -**

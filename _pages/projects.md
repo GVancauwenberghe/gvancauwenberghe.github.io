@@ -38,7 +38,7 @@ Senior Researcher:**   Project management, engagement of local stakeholders, cap
 
 More information about these [**international development projects**](https://gvancauwenberghe.github.io/development).
 
-## Consultancy (10)
+## Consultancy (11)
 
 **<ins>2026 - 2026</ins> Research and Guidance on Ethical Impact Committees for Flemish Public Administrations _(UNESCO)_ -**
 **AI Governance Expert:** Drafting recommendations on the establishment of AI Ethical Impact Committees 

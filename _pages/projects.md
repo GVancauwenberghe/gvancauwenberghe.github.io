@@ -40,6 +40,9 @@ More information about these [**international development projects**](https://gv
 
 ## Consultancy (10)
 
+**<ins>2026 - 2026</ins> Research and Guidance on Ethical Impact Committees for Flemish Public Administrations _(UNESCO)_ -**
+**AI Governance Expert:** Drafting recommendations on the establishment of AI Ethical Impact Committees 
+
 **<ins>2023 - 2024</ins> Impact Assessment for the new EU Space Law _(European Commission –   DG DEFIS)_ -**
 **Policy Research Expert:** Support to different stages of the Impact Assessment for an EU Space Law
 
